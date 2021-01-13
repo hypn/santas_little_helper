@@ -17,7 +17,7 @@ prp='\033[0;35m'
 cya='\033[0;36m'
 
 
-ws_url = 'wss://2019.kringlecon.com/ws'
+ws_url = 'wss://2020.kringlecon.com/ws'
 login_user = 'youremailhere'
 login_pass = None
 portal_data_file = 'portal_data.json'
@@ -278,13 +278,13 @@ def generate_data():
     # We also want to talk to all of the docker entities and grab their urls
     good("Grabbing docker links from all known terminal entities")
     for room in extra_info:
-        if extra_info[room].get('entities') is None:
-            continue
-        for entity in extra_info[room]['entities']:
-            if extra_info[room]['entities'][entity]['type'] == 'terminal':
-                name = extra_info[room]['entities'][entity]['name']
-                ws.send('{"type":"HELLO_ENTITY","entityType":"terminal","id":"%s"}' % name)
-                receive_until_terminal()
+       if extra_info[room].get('entities') is None:
+           continue
+       for entity in extra_info[room]['entities']:
+           if extra_info[room]['entities'][entity]['type'] == 'terminal':
+               name = extra_info[room]['entities'][entity]['name']
+               ws.send('{"type":"HELLO_ENTITY","entityType":"terminal","id":"%s"}' % name)
+               receive_until_terminal()
 
 
     with open(portal_data_file, 'w') as outfile:
@@ -369,7 +369,7 @@ def print_grid():
         print_grid_specific(target)
 
     discover("In order to use the docker links here, you need to paste the following javascript in your developer console after loading the docker (if you do not, completing them will not score you any points in-game):")
-    js_code = '''window.top.postMessage = function(message, other) {msg = '{"type":"COMPLETE_CHALLENGE","resourceId":"' + message.resourceId + '","hash":"' + message.hash + '"}';console.log(msg); ws = new WebSocket('wss://2019.kringlecon.com/ws'); ws.onopen = function () {      ws.send('{"type":"WS_CONNECTED","protocol":"43ae08fd-9cf2-4f54-a6a6-8454aef59581"}'); var passwd = prompt("Please enter your password", ""); ws.send('{"type":"WS_LOGIN","usernameOrEmail":"%s","password":"' + passwd + '"}'); setTimeout(function(){ ws.send(msg); }, 3000);     }}; '''
+    js_code = '''window.top.postMessage = function(message, other) {msg = '{"type":"COMPLETE_CHALLENGE","resourceId":"' + message.resourceId + '","hash":"' + message.hash + '"}';console.log(msg); ws = new WebSocket('wss://2020.kringlecon.com/ws'); ws.onopen = function () {      ws.send('{"type":"WS_CONNECTED","protocol":"43ae08fd-9cf2-4f54-a6a6-8454aef59581"}'); var passwd = prompt("Please enter your password", ""); ws.send('{"type":"WS_LOGIN","usernameOrEmail":"%s","password":"' + passwd + '"}'); setTimeout(function(){ ws.send(msg); }, 3000);     }}; '''
     js_code = js_code % login_user
     print(js_code)
 
@@ -502,7 +502,7 @@ def banner():
     print(f"{yel}▄▀▀▀█▄▄█▀▀█ ▐█▐▐▌ ▐█.▪▄█▀▀█ ▄▀▀▀█▄    ██▪  ▐█· ▐█.▪ ▐█.▪██▪  ▐▀▀▪▄    ██▀▐█▐▀▀▪▄██▪   ██▀·▐▀▀▪▄▐▀▀▄ {red}"+"         \\____(   ")
     print(f"{yel}▐█▄▪▐█▐█ ▪▐▌██▐█▌ ▐█▌·▐█ ▪▐▌▐█▄▪▐█    ▐█▌▐▌▐█▌ ▐█▌· ▐█▌·▐█▌▐▌▐█▄▄▌    ██▌▐▀▐█▄▄▌▐█▌▐▌▐█▪·•▐█▄▄▌▐█•█▌{red}"+"        _|/---\\   ")
     print(f"{yel} ▀▀▀▀  ▀  ▀ ▀▀ █▪ ▀▀▀  ▀  ▀  ▀▀▀▀     .▀▀▀ ▀▀▀ ▀▀▀  ▀▀▀ .▀▀▀  ▀▀▀     ▀▀▀ · ▀▀▀ .▀▀▀ .▀    ▀▀▀ .▀  ▀{red}"+"        \        \ ")
-    print(f" - A Kringlecon 2019 tool by Polle Vanhoof")
+    print(f" - A Kringlecon tool by Polle Vanhoof, updated for 2020 by HypnInfoSec")
     print(f"{off}")
 
 
