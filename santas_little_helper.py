@@ -138,7 +138,8 @@ def handle_response(r):
                 if extra_info[room]['entities'][entity]['type'] == 'terminal' and extra_info[room]['entities'][entity]['name'] == term_id:
                     resource_id = r_json['resourceId']
                     extra_info[room]['entities'][entity]['url'] = url + "?challenge=" + term_id
-                    extra_info[room]['entities'][entity]['resource_url'] = url + "?challenge=" + term_id + '&id=' + resource_id
+                    extra_info[room]['entities'][entity]['resource_url'] = url + "?challenge=" + term_id
+                    # extra_info[room]['entities'][entity]['resource_url'] = url + "?challenge=" + term_id + '&id=' + resource_id
 
     return m_type
 
