@@ -464,9 +464,23 @@ def npc_talk_select():
     print("")
 
 
+def list_items():
+    if len(extra_info) > 0:
+        good("Item locations (if any):")
+        for zone in extra_info:
+            if "entities" in extra_info[zone]:
+                for entity in extra_info[zone]["entities"]:
+                    if extra_info[zone]["entities"][entity]['type'] == "item":
+                        name = extra_info[zone]["entities"][entity]['display_name']
+                        room = extra_info[zone]['display_name']
+                        coords = extra_info[zone]["entities"][entity]['location']
+                        print(f"- {yel}{name}{off} in \"{cya}{room}{off}\" ({zone}) room at {coords}")
+    else:
+        print(f"{red}No data! Use \"-c\" (\"--create_data\") to collect data.{off}")
+
 def main():
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "hctgn", ["help", "create_portal_file", "teleport", "print_grid", "npc-talk"])
+        opts, args = getopt.getopt(sys.argv[1:], "hctgni", ["help", "create_portal_file", "teleport", "print_grid", "npc-talk", "items"])
     except getopt.GetoptError as error:
         err(str(error))
         usage()
@@ -506,6 +520,9 @@ def main():
             load_data()
             login()
             npc_talk_select()
+        elif o in ("-i", "--items"):
+            load_data()
+            list_items()
 
     good("DONE!")
 
@@ -516,6 +533,7 @@ def usage():
     info("-t | --teleport -> Teleport to a new location")
     info("-g | --print_grid -> Print grid data for a zone")
     info("-n | --npc-talk -> Talk to a certain NPC")
+    info("-i | --items -> List items")
 
 def err(msg):
     print(f"{red}[-] {msg}{off}")
