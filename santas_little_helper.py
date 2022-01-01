@@ -480,9 +480,25 @@ def list_items():
     else:
         print(f"{red}No data! Use \"-c\" (\"--create_data\") to collect data.{off}")
 
+
+def list_terminals():
+    if len(extra_info) > 0:
+        good("Terminal locations:")
+        for zone in extra_info:
+            if "entities" in extra_info[zone]:
+                for entity in extra_info[zone]["entities"]:
+                    if extra_info[zone]["entities"][entity]['type'] == "terminal":
+                        name = extra_info[zone]["entities"][entity]['display_name']
+                        room = extra_info[zone]['display_name']
+                        coords = extra_info[zone]["entities"][entity]['location']
+                        print(f"- \"{yel}{name}{off}\" in \"{cya}{room}{off}\" ({zone}) room at {coords}")
+    else:
+        print(f"{red}No data! Use \"-c\" (\"--create_data\") to collect data.{off}")
+
+
 def main():
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "hctgni", ["help", "create_portal_file", "teleport", "print_grid", "npc-talk", "items"])
+        opts, args = getopt.getopt(sys.argv[1:], "hctgnix", ["help", "create_portal_file", "teleport", "print_grid", "npc-talk", "items", "terminals"])
     except getopt.GetoptError as error:
         err(str(error))
         usage()
@@ -525,6 +541,9 @@ def main():
         elif o in ("-i", "--items"):
             load_data()
             list_items()
+        elif o in ("-x", "--terminals"):
+            load_data()
+            list_terminals()
 
     good("DONE!")
 
@@ -536,6 +555,7 @@ def usage():
     info("-g | --print_grid -> Print grid data for a zone")
     info("-n | --npc-talk -> Talk to a certain NPC")
     info("-i | --items -> List items")
+    info("-x | --terminals -> List terminals")
 
 def err(msg):
     print(f"{red}[-] {msg}{off}")
