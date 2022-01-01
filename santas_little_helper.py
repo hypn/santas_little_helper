@@ -73,7 +73,12 @@ def handle_response(r):
             info(f"Server new current location: {r_json['areaData']['shortName']}")
 
         current_state['current_area'] = r_json['areaData']['shortName']
-        exits = r_json['areaData']['entities']['exit']
+
+        # TODO: implement handling of things like elevators, for rooms without exits
+        if 'exit' in r_json['areaData']['entities']:
+            exits = r_json['areaData']['entities']['exit']
+        else:
+            exits = []
 
         # Add all exits for the current zone
         this_zone = known_portals.get(current_state['current_area'])
