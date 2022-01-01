@@ -128,7 +128,6 @@ def handle_response(r):
             if message not in npc_chatter[uid]:
                 npc_chatter[uid].append(message)
     elif m_type == "OPEN_TERMINAL":
-        discover("Received new terminal url")
         term_id = r_json['id']
         url = r_json['url']
         for room in extra_info:
@@ -136,6 +135,8 @@ def handle_response(r):
                 continue
             for entity in extra_info[room]['entities']:
                 if extra_info[room]['entities'][entity]['type'] == 'terminal' and extra_info[room]['entities'][entity]['name'] == term_id:
+                    if 'url' not in extra_info[room]['entities'][entity]:
+                        discover("Received new terminal url for \"" + term_id +"\"")
                     resource_id = r_json['resourceId']
                     extra_info[room]['entities'][entity]['url'] = url + "?challenge=" + term_id
                     extra_info[room]['entities'][entity]['resource_url'] = url + "?challenge=" + term_id
