@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#!/usr/bin/env python3
 
 import websocket
 import ssl
@@ -7,6 +6,12 @@ import json
 import time
 import getopt
 import sys
+import os
+from datetime import date
+
+login_user = 'youremailhere'
+login_pass = None
+which_year = "" # will default to the latest year if not set
 
 off='\033[0m'
 red='\033[0;91m'
@@ -16,13 +21,25 @@ blu='\033[0;34m'
 prp='\033[0;35m'
 cya='\033[0;36m'
 
+if which_year == "":
+    # determine which year to use (only use current year in December, otherwise previous year)
+    year = int(date.today().strftime("%Y"))
+    month = int(date.today().strftime("%m"))
+    if month < 12:
+        year = year - 1
+    year = str(year)
+else:
+    year = which_year
 
-ws_url = 'wss://2020.kringlecon.com/ws'
-login_user = 'youremailhere'
-login_pass = None
-portal_data_file = 'portal_data.json'
-extra_info_file = 'extra_info.json'
-npc_chatter_file = 'npc_chatter.json'
+# make the data directory (for the year) if it doesn't exist
+if not os.path.exists("data/" + year):
+    os.makedirs("data/" + year)
+
+ws_url = 'wss://' + year + '.kringlecon.com/ws'
+
+portal_data_file = 'data/' + year + '/portal_data.json'
+extra_info_file = 'data/' + year + '/extra_info.json'
+npc_chatter_file = 'data/' + year + '/npc_chatter.json'
 
 enable_burp_proxy = False
 proxy_h = "127.0.0.1"
@@ -289,10 +306,10 @@ def generate_data():
 
     with open(portal_data_file, 'w') as outfile:
         good(f"Dumping portal data to {portal_data_file}")
-        json.dump(known_portals, outfile)
+        json.dump(known_portals, outfile, indent=2)
     with open(extra_info_file, 'w') as outfile:
         good(f"Dumping extra_info to {extra_info_file}")
-        json.dump(extra_info, outfile)
+        json.dump(extra_info, outfile, indent=2)
 
 
 def teleport():
@@ -371,6 +388,7 @@ def print_grid():
     discover("In order to use the docker links here, you need to paste the following javascript in your developer console after loading the docker (if you do not, completing them will not score you any points in-game):")
     js_code = '''window.top.postMessage = function(message, other) {msg = '{"type":"COMPLETE_CHALLENGE","resourceId":"' + message.resourceId + '","hash":"' + message.hash + '"}';console.log(msg); ws = new WebSocket('wss://2020.kringlecon.com/ws'); ws.onopen = function () {      ws.send('{"type":"WS_CONNECTED","protocol":"43ae08fd-9cf2-4f54-a6a6-8454aef59581"}'); var passwd = prompt("Please enter your password", ""); ws.send('{"type":"WS_LOGIN","usernameOrEmail":"%s","password":"' + passwd + '"}'); setTimeout(function(){ ws.send(msg); }, 3000);     }}; '''
     js_code = js_code % login_user
+    js_code = js_code.replace("wss://2020.kringlecon.com/ws", "wss://" + year + ".kringlecon.com/ws")
     print(js_code)
 
     print("")
@@ -410,7 +428,7 @@ def npc_talk_select():
             npc_talk(npc)
         with open(npc_chatter_file, 'w') as outfile:
             good(f"Dumping npc chatter data to {npc_chatter_file}")
-            json.dump(npc_chatter, outfile)
+            json.dump(npc_chatter, outfile, indent=2)
     elif npc_list.get(target) is None:
         err("That npc does not exist")
         exit()
@@ -502,7 +520,7 @@ def banner():
     print(f"{yel}▄▀▀▀█▄▄█▀▀█ ▐█▐▐▌ ▐█.▪▄█▀▀█ ▄▀▀▀█▄    ██▪  ▐█· ▐█.▪ ▐█.▪██▪  ▐▀▀▪▄    ██▀▐█▐▀▀▪▄██▪   ██▀·▐▀▀▪▄▐▀▀▄ {red}"+"         \\____(   ")
     print(f"{yel}▐█▄▪▐█▐█ ▪▐▌██▐█▌ ▐█▌·▐█ ▪▐▌▐█▄▪▐█    ▐█▌▐▌▐█▌ ▐█▌· ▐█▌·▐█▌▐▌▐█▄▄▌    ██▌▐▀▐█▄▄▌▐█▌▐▌▐█▪·•▐█▄▄▌▐█•█▌{red}"+"        _|/---\\   ")
     print(f"{yel} ▀▀▀▀  ▀  ▀ ▀▀ █▪ ▀▀▀  ▀  ▀  ▀▀▀▀     .▀▀▀ ▀▀▀ ▀▀▀  ▀▀▀ .▀▀▀  ▀▀▀     ▀▀▀ · ▀▀▀ .▀▀▀ .▀    ▀▀▀ .▀  ▀{red}"+"        \        \ ")
-    print(f" - A Kringlecon tool by Polle Vanhoof, updated for 2020 by HypnInfoSec")
+    print(f" - A Kringlecon tool by Polle Vanhoof, updated for 2020+ by HypnInfoSec")
     print(f"{off}")
 
 
