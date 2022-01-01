@@ -116,6 +116,8 @@ def handle_response(r):
                     discover(f"Found new NPC named '{extra_info[room]['entities'][entity]['display_name']}'")
                 elif extra_info[room]['entities'][entity]['type'] == 'terminal':
                     discover(f"Found new Terminal named '{extra_info[room]['entities'][entity]['display_name']}'")
+                elif extra_info[room]['entities'][entity]['type'] == 'item':
+                    discover(f"Found new Item named '{extra_info[room]['entities'][entity]['display_name']}'")
                 else:
                     err(f"Found new unknown object named '{extra_info[room]['entities'][entity]['display_name']}'")
     elif m_type == "PSSST":
