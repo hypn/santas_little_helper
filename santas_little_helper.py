@@ -181,7 +181,7 @@ def receive_until_pssst():
 
 
 def receive_until_terminal():
-    while handle_response(ws.recv()) != 'OPEN_TERMINAL':
+    while handle_response(ws.recv()) not in ['OPEN_TERMINAL', 'DENNIS_NEDRY']:
         pass
 
 
@@ -200,8 +200,8 @@ def goto_zone(target_zone):
 
     if path is None:
         err(f"Failed to find path to {target_zone} starting from {current_zone}")
-        print(known_portals)
-        exit()
+        err(f"Please move around in-game")
+        return
     for zone in path[1:]:
         goto_adjacent_zone(zone)
 
