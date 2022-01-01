@@ -123,7 +123,8 @@ def handle_response(r):
             discover("Received new chat message")
             uid = r_json['whisper'][w]['uid']
             message = r_json['whisper'][w]['text']
-            npc_chatter[uid].append(message)
+            if message not in npc_chatter[uid]:
+                npc_chatter[uid].append(message)
     elif m_type == "OPEN_TERMINAL":
         discover("Received new terminal url")
         term_id = r_json['id']
@@ -401,10 +402,17 @@ def print_grid():
 
 def npc_talk(npc):
     action(f"Starting chat with NPC {npc}")
-    npc_chatter[npc] = list()
-    while '...' not in npc_chatter[npc]:
+    if npc not in npc_chatter:
+        npc_chatter[npc] = list()
+
+    num_chats = len(npc_chatter[npc])
+    num_chats_before = -1
+
+    while num_chats < 50 and num_chats != num_chats_before:
+        num_chats_before = num_chats
         ws.send('{"type":"HELLO_ENTITY","entityType":"npc","id":"%s"}' % npc)
         receive_until_pssst()
+        num_chats = len(npc_chatter[npc])
 
 
 def npc_talk_select():
@@ -429,6 +437,14 @@ def npc_talk_select():
     target = input("Please enter the npc shortname you would like to talk to: ")
 
     if target == "dump":
+        global npc_chatter
+        try:
+            with open(npc_chatter_file) as json_file:
+                good(f"Loading chatter dump from {npc_chatter_file}")
+                npc_chatter = json.load(json_file)
+        except:
+            err(f"WARNING: No npc chatter data found in file {npc_chatter_file}. Starting from nothing")
+
         for npc in npc_list:
             npc_talk(npc)
         with open(npc_chatter_file, 'w') as outfile:
