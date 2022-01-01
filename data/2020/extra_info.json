@@ -1,1 +1,1521 @@
-{"diningroom": {"entities": {"elfcode": {"name": "elfcode", "display_name": "Programming Concepts", "type": "terminal", "location": [0, 0], "url": "https://elfcode.kringlecastle.com?challenge=elfcode", "resource_url": "https://elfcode.kringlecastle.com?challenge=elfcode&id=933334fb-751a-4f88-a51c-34809cf76195"}, "ribbbonbowford": {"name": "ribbbonbowford", "display_name": "Ribb Bonbowford", "type": "npc", "location": [2, 0]}, "nut": {"name": "nut", "display_name": "Hex Nut", "type": "item", "location": [4, 3]}}, "display_name": "Dining Room", "grid": "     1      \n  1 11111   \n    1111111 \n 1 1111111  \n 111111111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111111111  \n 1111111111 \n 111111111  \n 111111111  \n            "}, "courtyard": {"entities": {"linux": {"name": "linux", "display_name": "Linux Primer", "type": "terminal", "location": [16, 11], "url": "https://docker2020.kringlecon.com/?challenge=linux", "resource_url": "https://docker2020.kringlecon.com/?challenge=linux&id=cb473f3d-4725-4fd4-bd34-91d7ddf5db3a"}, "santashop": {"name": "santashop", "display_name": "Santa Shop", "type": "terminal", "location": [18, 11], "url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santashop", "resource_url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santashop&id=65954a04-ef8d-4af1-927e-d907ee2fad53"}, "jack-courtyard": {"name": "jack-courtyard", "display_name": "Jack Frost", "type": "npc", "location": [12, 13]}, "sugarplummary": {"name": "sugarplummary", "display_name": "Sugarplum Mary", "type": "npc", "location": [17, 11]}, "bubblelightington": {"name": "bubblelightington", "display_name": "Bubble Lightington", "type": "npc", "location": [2, 11]}, "googlebooth": {"name": "googlebooth", "display_name": "Google Booth", "type": "npc", "location": [5, 5]}, "sansbooth": {"name": "sansbooth", "display_name": "SANS.edu Booth", "type": "npc", "location": [8, 4]}, "splunkbooth": {"name": "splunkbooth", "display_name": "Splunk Booth", "type": "npc", "location": [12, 4]}, "rsacbooth": {"name": "rsacbooth", "display_name": "RSAC Booth", "type": "npc", "location": [16, 4]}, "greenlight": {"name": "greenlight", "display_name": "Green Bulb", "type": "item", "location": [1, 2]}}, "display_name": "Courtyard", "grid": "                        1    \n 111111111        111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n 1111111   1   1   11111111  \n 1111  1111111111111  11111  \n 11111111111111111111111111  \n  111111111111111111111111   \n  111111111111111111111111   \n  111111111111111111111111   \n  111111111111111111111111   \n  1 1111111111111   111111   \n  1 1111111111111   111111   \n 111111111111 111   1111111  \n 111111111111 1111111111111  \n 11111111111   111111111111  \n 111111111111 1111111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n      1              1       \n                             "}, "secretgarden": {"entities": {"evanbooth": {"name": "evanbooth", "display_name": "Booth", "type": "npc", "location": [3, 1]}}, "display_name": "Garden Party", "grid": "          \n  11111   \n 111 111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "kitchen": {"entities": {"dialup": {"name": "dialup", "display_name": "33.6kbps", "type": "terminal", "location": [10, 0], "url": "https://dialup.kringlecastle.com/?challenge=dialup", "resource_url": "https://dialup.kringlecastle.com/?challenge=dialup&id=7754b302-abea-44c1-831f-9f3c8300f33a"}, "redis": {"name": "redis", "display_name": "Redis Bug Hunt", "type": "terminal", "location": [4, 5], "url": "https://docker2020.kringlecon.com/?challenge=redis", "resource_url": "https://docker2020.kringlecon.com/?challenge=redis&id=f42bb25d-3be7-4de2-a677-0be25ac95ca4"}, "fitzyshortstack": {"name": "fitzyshortstack", "display_name": "Fitzy Shortstack", "type": "npc", "location": [9, 0]}, "hollyevergreen": {"name": "hollyevergreen", "display_name": "Holly Evergreen", "type": "npc", "location": [5, 5]}}, "display_name": "Kitchen", "grid": "                \n      1111      \n 111111111      \n 1111111111 11  \n111111111111111 \n 1111111111111  \n 1111  1111111  \n 1111  1111111  \n                "}, "entry": {"entities": {"santa-entryway": {"name": "santa-entryway", "display_name": "Santa", "type": "npc", "location": [10, -3]}, "sparkleredberry": {"name": "sparkleredberry", "display_name": "Sparkle Redberry", "type": "npc", "location": [14, 1]}, "gingerbreddie": {"name": "gingerbreddie", "display_name": "Ginger Breddie", "type": "npc", "location": [16, 5]}, "pineysappington": {"name": "pineysappington", "display_name": "Piney Sappington", "type": "npc", "location": [4, 2]}, "nut2": {"name": "nut2", "display_name": "Hex Nut", "type": "item", "location": [17, 2]}}, "display_name": "Entry", "grid": "                     \n       111111        \n       111111        \n      11111 11       \n      11111 11       \n      11111111  11   \n 1  1 11111111 111   \n    1 111111111 111  \n    1 111111111 111  \n 1111 1111111111111  \n 111111111111111111  \n 1111111111111111 1  \n 1111111111111111 1  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n11111111111111111111 \n 111111111111111111  \n 111111111111111111  \n         11          \n                     \n                     \n                     \n                     \n                     \n                     "}, "santavator1": {"entities": {"elevator": {"name": "elevator", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=elevator", "resource_url": "https://elevator.kringlecastle.com?challenge=elevator&id=dd059db9-e756-46ff-adeb-490fc0d50c10"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "greatroom": {"entities": {"angelcandysalt": {"name": "angelcandysalt", "display_name": "Angel Candysalt", "type": "npc", "location": [3, 7]}}, "display_name": "Great Room", "grid": "     1      \n 11111111   \n1111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 11  11111  \n 11  11111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n1111111111  \n 111111111  \n 111111111  \n            "}, "approach": {"entities": {"tmux": {"name": "tmux", "display_name": "Unescape Tmux", "type": "terminal", "location": [3, 4], "url": "https://docker2020.kringlecon.com/?challenge=tmux", "resource_url": "https://docker2020.kringlecon.com/?challenge=tmux&id=1f3dd72f-9d4e-45a6-b5b6-e9709f976a3d"}, "shell": {"name": "shell", "display_name": "Kringle Kiosk", "type": "terminal", "location": [8, 17], "url": "https://docker2020.kringlecon.com/?challenge=shell", "resource_url": "https://docker2020.kringlecon.com/?challenge=shell&id=c6cb622c-d088-4635-80ae-5eee1448f618"}, "awsbucket": {"name": "awsbucket", "display_name": "Investigate S3 Bucket", "type": "terminal", "location": [10, 17], "url": "https://docker2020.kringlecon.com/?challenge=awsbucket", "resource_url": "https://docker2020.kringlecon.com/?challenge=awsbucket&id=347d2bec-2563-4ed6-ab8a-572d20144ad9"}, "santa-approach": {"name": "santa-approach", "display_name": "Santa", "type": "npc", "location": [8, 7]}, "pepperminstix": {"name": "pepperminstix", "display_name": "Pepper Minstix", "type": "npc", "location": [2, 4]}, "shinnyupatree": {"name": "shinnyupatree", "display_name": "Shinny Upatree", "type": "npc", "location": [9, 17]}, "jewelloggins": {"name": "jewelloggins", "display_name": "Jewel Loggins", "type": "npc", "location": [2, 15]}, "pierre": {"name": "pierre", "display_name": "Pierre", "type": "npc", "location": [10, 6]}, "marie": {"name": "marie", "display_name": "Marie", "type": "npc", "location": [11, 7]}, "jean-claude": {"name": "jean-claude", "display_name": "Jean-Claude", "type": "npc", "location": [12, 6]}, "nail": {"name": "nail", "display_name": "Nail", "type": "npc", "location": [1, 0]}, "candycane": {"name": "candycane", "display_name": "Broken Candycane", "type": "item", "location": [7, -1]}}, "display_name": "Castle Approach", "grid": "            1             \n          11111           \n          11111           \n         11111111111      \n     111111111111111      \n     111111111111111      \n     1111 11111 1111      \n     11  11111111111      \n     11  11111111111      \n     111 111111 1 11      \n     11111111 1   11      \n     11111111 11 111      \n     111111111111111      \n     111111111111111      \n     111111111111111      \n     111111111111111      \n     111111111111111      \n     111111111111111      \n 1   11 111111111111      \n 1   11 111111111111      \n 111111111111   1111      \n 111111111111   1111      \n 111111111111   1111      \n     111111111111111      \n     111111111111111      \n                          \n                          \n                          "}, "staging": {"entities": {"jingleringford": {"name": "jingleringford", "display_name": "Jingle Ringford", "type": "npc", "location": [8, 1]}}, "display_name": "Staging", "grid": "           \n     1     \n  111111111\n  111111 11\n  111111 11\n  111111111\n  111111111\n  111111111\n  111111111\n  111111111\n           \n           "}, "netwars": {"entities": {"scapy": {"name": "scapy", "display_name": "Scapy Prepper", "type": "terminal", "location": [8, 13], "url": "https://docker2020.kringlecon.com/?challenge=scapy", "resource_url": "https://docker2020.kringlecon.com/?challenge=scapy&id=23a689e5-5e28-4f19-ab84-0b0512ea113f"}, "canbus": {"name": "canbus", "display_name": "CAN-Bus Investigation", "type": "terminal", "location": [1, 9], "url": "https://docker2020.kringlecon.com/?challenge=canbus", "resource_url": "https://docker2020.kringlecon.com/?challenge=canbus&id=c439c6da-92e1-48b1-89ac-d3a839deb91a"}, "jack": {"name": "jack", "display_name": "Jack Frost", "type": "npc", "location": [4, 15]}, "alabastersnowball": {"name": "alabastersnowball", "display_name": "Alabaster Snowball", "type": "npc", "location": [7, 13]}, "wunorseopenslae": {"name": "wunorseopenslae", "display_name": "Wunorse Openslae", "type": "npc", "location": [2, 9]}, "marble2": {"name": "marble2", "display_name": "Small Marble", "type": "item", "location": [15, 17]}, "yellowlight": {"name": "yellowlight", "display_name": "Yellow Bulb", "type": "item", "location": [0, 5]}}, "display_name": "NetWars", "grid": "                   \n 1111111111111111  \n 1111111111111111  \n 1  1111111111111  \n 1  1111111111111  \n 11111        111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n 11111        111  \n 1  1111111111111  \n 1  1111111111111  \n 1111111111111111  \n 1111111111111111  \n 111111   1111     \n 111111   1111 1   \n 1111 111 1111111  \n 1111 11111111111  \n 1111111111111111  \n                   \n                   "}, "santavator5": {"entities": {"elevatorr": {"name": "elevatorr", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=elevatorr", "resource_url": "https://elevator.kringlecastle.com?challenge=elevatorr&id=e12e22a1-3902-4fcd-bb7d-28c00e16d5df"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "talkslobby": {"entities": {"speaker": {"name": "speaker", "display_name": "Speaker UNPrep", "type": "terminal", "location": [0, 1], "url": "https://docker2020.kringlecon.com/?challenge=speaker", "resource_url": "https://docker2020.kringlecon.com/?challenge=speaker&id=fddb9eaf-4ce4-4af8-9117-5912e365841a"}, "jack-talks": {"name": "jack-talks", "display_name": "Jack Frost", "type": "npc", "location": [6, 1]}, "bushyevergreen": {"name": "bushyevergreen", "display_name": "Bushy Evergreen", "type": "npc", "location": [1, 1]}, "chimneyscissorsticks": {"name": "chimneyscissorsticks", "display_name": "Chimney Scissorsticks", "type": "npc", "location": [19, 5]}, "bowninecandle": {"name": "bowninecandle", "display_name": "Bow Ninecandle", "type": "npc", "location": [11, 5]}, "redlight": {"name": "redlight", "display_name": "Red Bulb", "type": "item", "location": [21, 0]}}, "display_name": "Talks Lobby", "grid": "   1  1  1  1  1  1  1    \n  111111111111111111111   \n   1111 1111111111111111  \n   1111 1111111111111111  \n111111111111111111111111  \n 11111111111111111111111  \n 11111111111 1111111   1  \n 11111111111 1111111  11  \n 11111111111111111111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                1111      \n                1111  1   \n                11111111  \n                11111111  \n                          "}, "track1": {"display_name": "Track 1", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "track2": {"display_name": "Track 2", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "track3": {"display_name": "Track 3", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "track4": {"display_name": "Track 4", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "track5": {"display_name": "Track 5", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "track6": {"display_name": "Track 6", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "track7": {"display_name": "Track 7", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "speakerunprep": {"entities": {"snowball": {"name": "snowball", "display_name": "Snowball Game", "type": "terminal", "location": [1, 0], "url": "https://snowball2.kringlecastle.com/?challenge=snowball", "resource_url": "https://snowball2.kringlecastle.com/?challenge=snowball&id=b4f6d5dc-cd6c-4ffd-a184-b3784f5fb7ff"}, "tanglecoalbox": {"name": "tanglecoalbox", "display_name": "Tangle Coalbox", "type": "npc", "location": [2, 0]}, "morcelnougat": {"name": "morcelnougat", "display_name": "Morcel Nougat", "type": "npc", "location": [5, 3]}, "thesnacken": {"name": "thesnacken", "display_name": "Release the Snacken", "type": "npc", "location": [7, 0]}, "workshop-button": {"name": "workshop-button", "display_name": "Elevator 1.5 Button", "type": "item", "location": [10, 6]}}, "display_name": "Speaker UNPreparedness Room", "grid": "              \n    1111      \n 1  1111      \n 11111111111  \n 11111 111111 \n 11111 11111  \n 11111111111  \n 11111111111  \n              "}, "santavator3": {"entities": {"elevator3": {"name": "elevator3", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=elevator3", "resource_url": "https://elevator.kringlecastle.com?challenge=elevator3&id=a5b2f196-bace-407e-9459-c82ff85cdb51"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "santasoffice": {"entities": {"tinselupatree": {"name": "tinselupatree", "display_name": "Tinsel Upatree", "type": "npc", "location": [4, 6]}}, "display_name": "Santa's Office", "grid": "                \n       1        \n  111111111111  \n 1111111111111  \n 1111111111111  \n 1    1111111   \n 1    1111 111  \n 1111111111111  \n 1111 11111111  \n 1111 11111111  \n 1111111111111  \n      111       \n      111       \n      111       \n      111       \n      111       \n      111 1     \n      111111    \n      111111    \n                \n                "}, "balcony": {"entities": {"santa-balcony": {"name": "santa-balcony", "display_name": "Santa", "type": "npc", "location": [2, 1]}, "jack-prisoner": {"name": "jack-prisoner", "display_name": "Jack Frost", "type": "npc", "location": [6, 1]}, "evesnowshoes": {"name": "evesnowshoes", "display_name": "Eve Snowshoes", "type": "npc", "location": [0, 0]}}, "display_name": "Santa's Balcony", "grid": "            \n  11111111  \n  1 111 11  \n 11 111 11  \n 111111111  \n 111111111  \n 111111111  \n     1      \n            "}, "santavator4": {"entities": {"elevator4": {"name": "elevator4", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=elevator4", "resource_url": "https://elevator.kringlecastle.com?challenge=elevator4&id=6e444e56-a4d9-43a3-b09c-550e57a4e388"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "workshop": {"entities": {"regex": {"name": "regex", "display_name": "Regex Toy Sorting", "type": "terminal", "location": [4, 0], "url": "https://present-sorter.kringlecastle.com/?challenge=regex", "resource_url": "https://present-sorter.kringlecastle.com/?challenge=regex&id=3f5a6993-2046-4137-bc12-4fe86fbd576c"}, "mintycandycane": {"name": "mintycandycane", "display_name": "Minty Candycane", "type": "npc", "location": [5, 0]}, "marble": {"name": "marble", "display_name": "Large Marble", "type": "item", "location": [6, 9]}}, "display_name": "Workshop", "grid": "             \n        1    \n 111   1111  \n 1111  1111  \n 1111111111  \n11111111111  \n 11    1111  \n 11    1111  \n 1111111111  \n 1111111111  \n 11    1111  \n 11    1111  \n 1111111111  \n 1111111111  \n 1111111111  \n 1111111111  \n    1111111  \n  1 1111111  \n 1111111111  \n 1111111111  \n             \n             "}, "wrappingroom": {"entities": {"proxmark": {"name": "proxmark", "display_name": "Proxmark3", "type": "item", "location": [4, 2]}, "noelboetie": {"name": "noelboetie", "display_name": "Noel Boetie", "type": "npc", "location": [1, 2]}, "ball": {"name": "ball", "display_name": "Rubber Ball", "type": "item", "location": [8, 6]}}, "display_name": "Wrapping Room", "grid": "            \n 111111111  \n 111111111  \n 1   111    \n 1   111    \n 111111111  \n 111111111  \n 111111111  \n       1    \n            "}, "darkness": {"display_name": "???", "grid": "         \n 11111   \n 11111   \n 111111  \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n         "}, "santavator2": {"entities": {"elevator2": {"name": "elevator2", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=elevator2", "resource_url": "https://elevator.kringlecastle.com?challenge=elevator2&id=e4561031-ec5d-4674-8934-87ee0952194f"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "santamode-entry": {"entities": {"santamode-sparkleredberry": {"name": "santamode-sparkleredberry", "display_name": "Sparkle Redberry", "type": "npc", "location": [14, 1]}, "santamode-gingerbreddie": {"name": "santamode-gingerbreddie", "display_name": "Ginger Breddie", "type": "npc", "location": [16, 5]}, "santamode-pineysappington": {"name": "santamode-pineysappington", "display_name": "Piney Sappington", "type": "npc", "location": [4, 2]}}, "display_name": "Entry", "grid": "                     \n       111111        \n       111111        \n      11111111       \n      11111111       \n      11111111  11   \n 1  1 11111111 111   \n    1 111111111 111  \n    1 1111111111111  \n 1111 1111111111111  \n 111111111111111111  \n 1111111111111111 1  \n 1111111111111111 1  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n11111111111111111111 \n 111111111111111111  \n 111111111111111111  \n         11          \n                     \n                     \n                     \n                     \n                     \n                     "}, "santamode-santavator1": {"entities": {"santamode-elevator": {"name": "santamode-elevator", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator", "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator&id=37c11ac7-867d-4a51-8974-c9c8ffa4dd49"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "santamode-diningroom": {"entities": {"santamode-elfcode": {"name": "santamode-elfcode", "display_name": "Programming Concepts", "type": "terminal", "location": [0, 0], "url": "https://elfcode.kringlecastle.com?challenge=santamode-elfcode", "resource_url": "https://elfcode.kringlecastle.com?challenge=santamode-elfcode&id=685b0c7f-b716-4763-89b9-72329fe2bcc7"}, "santamode-ribbbonbowford": {"name": "santamode-ribbbonbowford", "display_name": "Ribb Bonbowford", "type": "npc", "location": [2, 0]}}, "display_name": "Dining Room", "grid": "     1      \n  1 11111   \n 1111111111 \n 111111111  \n 111111111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111111111  \n 1111111111 \n 111111111  \n 111111111  \n            "}, "santamode-courtyard": {"entities": {"santamode-linux": {"name": "santamode-linux", "display_name": "Linux Primer", "type": "terminal", "location": [16, 11], "url": "https://docker2020.kringlecon.com/?challenge=santamode-linux", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-linux&id=0178cc59-1b04-4d5e-af34-e81cab3d65de"}, "santamode-santashop": {"name": "santamode-santashop", "display_name": "Santa Shop", "type": "terminal", "location": [18, 11], "url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santamode-santashop", "resource_url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santamode-santashop&id=b8b05804-2fa7-4096-80d3-c471537dfdea"}, "santamode-sugarplummary": {"name": "santamode-sugarplummary", "display_name": "Sugarplum Mary", "type": "npc", "location": [17, 11]}, "santamode-bubblelightington": {"name": "santamode-bubblelightington", "display_name": "Bubble Lightington", "type": "npc", "location": [2, 11]}, "santamode-jack-courtyard": {"name": "santamode-jack-courtyard", "display_name": "Jack Frost", "type": "npc", "location": [12, 13]}, "santamode-googlebooth": {"name": "santamode-googlebooth", "display_name": "Google Booth", "type": "npc", "location": [5, 5]}, "santamode-sansbooth": {"name": "santamode-sansbooth", "display_name": "SANS.edu Booth", "type": "npc", "location": [8, 4]}, "santamode-splunkbooth": {"name": "santamode-splunkbooth", "display_name": "Splunk Booth", "type": "npc", "location": [12, 4]}, "santamode-rsacbooth": {"name": "santamode-rsacbooth", "display_name": "RSAC Booth", "type": "npc", "location": [16, 4]}}, "display_name": "Courtyard", "grid": "                            \n 111111111        111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 1111111   1   1   11111111 \n 1111  1111111111111  11111 \n 11111111111111111111111111 \n  111111111111111111111111  \n  111111111111111111111111  \n  111111111111111111111111  \n  111111111111111111111111  \n  1 1111111111111   111111  \n  1 1111111111111   111111  \n 111111111111 1111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n      1              1      \n                            "}, "santamode-kitchen": {"entities": {"santamode-dialup": {"name": "santamode-dialup", "display_name": "33.6kbps", "type": "terminal", "location": [10, 0], "url": "https://dialup.kringlecastle.com/?challenge=santamode-dialup", "resource_url": "https://dialup.kringlecastle.com/?challenge=santamode-dialup&id=c0203bba-2b2a-4966-bf1e-25fc59cb650a"}, "santamode-redis": {"name": "santamode-redis", "display_name": "Redis Bug Hunt", "type": "terminal", "location": [4, 5], "url": "https://docker2020.kringlecon.com/?challenge=santamode-redis", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-redis&id=6a527679-7cc9-4c63-adbc-4e68f4a067f3"}, "santamode-fitzyshortstack": {"name": "santamode-fitzyshortstack", "display_name": "Fitzy Shortstack", "type": "npc", "location": [9, 0]}, "santamode-hollyevergreen": {"name": "santamode-hollyevergreen", "display_name": "Holly Evergreen", "type": "npc", "location": [5, 5]}}, "display_name": "Kitchen", "grid": "                \n      1111      \n 1111111111     \n 1111111111111  \n111111111111111 \n 1111111111111  \n 1111  1111111  \n 1111111111111  \n                "}, "santamode-greatroom": {"entities": {"santamode-angelcandysalt": {"name": "santamode-angelcandysalt", "display_name": "Angel Candysalt", "type": "npc", "location": [3, 7]}}, "display_name": "Great Room", "grid": "     1      \n 11111111   \n1111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 11  11111  \n 11  11111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n1111111111  \n 111111111  \n 111111111  \n            "}, "santamode-approach": {"entities": {"santamode-tmux": {"name": "santamode-tmux", "display_name": "Unescape Tmux", "type": "terminal", "location": [3, 4], "url": "https://docker2020.kringlecon.com/?challenge=santamode-tmux", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-tmux&id=be849bf1-350c-465f-8ac2-f3066427b2f5"}, "santamode-shell": {"name": "santamode-shell", "display_name": "Kringle Kiosk", "type": "terminal", "location": [8, 17], "url": "https://docker2020.kringlecon.com/?challenge=santamode-shell", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-shell&id=0587f71b-d7ce-403d-b931-5ad593a64218"}, "santamode-awsbucket": {"name": "santamode-awsbucket", "display_name": "Investigate S3 Bucket", "type": "terminal", "location": [10, 17], "url": "https://docker2020.kringlecon.com/?challenge=santamode-awsbucket", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-awsbucket&id=b03f7e86-6cc6-4af4-8df8-ee47ddcdeb22"}, "santamode-pepperminstix": {"name": "santamode-pepperminstix", "display_name": "Pepper Minstix", "type": "npc", "location": [2, 4]}, "santamode-shinnyupatree": {"name": "santamode-shinnyupatree", "display_name": "Shinny Upatree", "type": "npc", "location": [9, 17]}, "santamode-jewelloggins": {"name": "santamode-jewelloggins", "display_name": "Jewel Loggins", "type": "npc", "location": [2, 15]}, "santamode-pierre": {"name": "santamode-pierre", "display_name": "Pierre", "type": "npc", "location": [10, 6]}, "santamode-marie": {"name": "santamode-marie", "display_name": "Marie", "type": "npc", "location": [11, 7]}, "santamode-jean-claude": {"name": "santamode-jean-claude", "display_name": "Jean-Claude", "type": "npc", "location": [12, 6]}, "santamode-nail": {"name": "santamode-nail", "display_name": "Nail", "type": "npc", "location": [1, 0]}}, "display_name": "Castle Approach", "grid": "            1            \n          11111          \n          11111          \n         11111111111     \n     111111111111111     \n     111111111111111     \n     1111 11111 1111     \n     11  11111111111     \n     111111111111111     \n     1111111111 1 11     \n     11111111111 111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n 1   11 111111111111     \n 1   111111111111111     \n 111111111111   1111     \n 1111111111111111111     \n 1111111111111111111     \n     111111111111111     \n     111111111111111     \n                         \n                         \n                         "}, "santamode-staging": {"entities": {"santamode-jingleringford": {"name": "santamode-jingleringford", "display_name": "Jingle Ringford", "type": "npc", "location": [8, 1]}}, "display_name": "Staging", "grid": "           \n     1     \n  111111111\n  111111 11\n  111111111\n  111111111\n  111111111\n  111111111\n  111111111\n  111111111\n           \n           "}, "santamode-netwars": {"entities": {"santamode-scapy": {"name": "santamode-scapy", "display_name": "Scapy Prepper", "type": "terminal", "location": [8, 13], "url": "https://docker2020.kringlecon.com/?challenge=santamode-scapy", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-scapy&id=018b9d05-d1d4-415e-b138-f0a3bf9d2b9b"}, "santamode-arp": {"name": "santamode-arp", "display_name": "ARP Shenanigans", "type": "terminal", "location": [6, 13], "url": "https://docker2020.kringlecon.com/?challenge=santamode-arp", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-arp&id=eeb6d3f5-021b-440a-a54b-d554d23e721b"}, "santamode-canbus": {"name": "santamode-canbus", "display_name": "CAN-Bus Investigation", "type": "terminal", "location": [1, 9], "url": "https://docker2020.kringlecon.com/?challenge=santamode-canbus", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-canbus&id=d79f8934-cd5e-4e2d-bf07-b70efeb6a670"}, "candbus": {"name": "candbus", "display_name": "Sleigh CAN-D-Bus", "type": "terminal", "location": [1, 2], "url": "https://candbus.kringlecastle.com/?challenge=candbus", "resource_url": "https://candbus.kringlecastle.com/?challenge=candbus&id=23d5cfdb-fac5-41e7-acd7-7241dc599259"}, "santamode-alabastersnowball": {"name": "santamode-alabastersnowball", "display_name": "Alabaster Snowball", "type": "npc", "location": [7, 13]}, "santamode-wunorseopenslae": {"name": "santamode-wunorseopenslae", "display_name": "Wunorse Openslae", "type": "npc", "location": [2, 9]}, "santamode-jack": {"name": "santamode-jack", "display_name": "Jack Frost", "type": "npc", "location": [4, 15]}}, "display_name": "NetWars", "grid": "                   \n 1111111111111111  \n 1111111111111111  \n 1  1111111111111  \n 1  1111111111111  \n 11111        111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n 11111        111  \n 1  1111111111111  \n 1  1111111111111  \n 1111111111111111  \n 1111111111111111  \n 111111   1111     \n 111111   1111 1   \n 1111 11111111111  \n 1111111111111111  \n 1111111111111111  \n                   \n                   "}, "santamode-santavator5": {"entities": {"santamode-elevatorr": {"name": "santamode-elevatorr", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=santamode-elevatorr", "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevatorr&id=d3b637e4-4f5f-40fa-99b2-e8db9db18101"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "santamode-santasoffice": {"entities": {"santamode-tinselupatree": {"name": "santamode-tinselupatree", "display_name": "Tinsel Upatree", "type": "npc", "location": [4, 6]}}, "display_name": "Santa's Office", "grid": "                \n       1        \n  111111111111  \n 1111111111111  \n 1111111111111  \n 1    1111111   \n 1    1111 111  \n 1111111111111  \n 1111 11111111  \n 1111111111111  \n 1111111111111  \n      111       \n      111       \n      111       \n      111       \n      111       \n      111 1     \n      111111    \n      111111    \n                \n                "}, "santamode-balcony": {"entities": {"santamode-evesnowshoes": {"name": "santamode-evesnowshoes", "display_name": "Eve Snowshoes", "type": "npc", "location": [0, 0]}}, "display_name": "Santa's Balcony", "grid": "            \n  11111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n     1      \n            "}, "santamode-santavator4": {"entities": {"santamode-elevator4": {"name": "santamode-elevator4", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator4", "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator4&id=890a5161-65ca-4bb8-9a06-072cbc27cca4"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "santamode-talkslobby": {"entities": {"santamode-speaker": {"name": "santamode-speaker", "display_name": "Speaker UNPrep", "type": "terminal", "location": [0, 1], "url": "https://docker2020.kringlecon.com/?challenge=santamode-speaker", "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-speaker&id=4a8d5e7a-332c-47de-9bc6-c315220db58d"}, "santamode-bushyevergreen": {"name": "santamode-bushyevergreen", "display_name": "Bushy Evergreen", "type": "npc", "location": [1, 1]}, "santamode-chimneyscissorsticks": {"name": "santamode-chimneyscissorsticks", "display_name": "Chimney Scissorsticks", "type": "npc", "location": [19, 5]}, "santamode-bowninecandle": {"name": "santamode-bowninecandle", "display_name": "Bow Ninecandle", "type": "npc", "location": [11, 5]}, "santamode-jack-talks": {"name": "santamode-jack-talks", "display_name": "Jack Frost", "type": "npc", "location": [6, 1]}}, "display_name": "Talks Lobby", "grid": "   1  1  1  1  1  1  1    \n  111111111111111111111   \n   1111 1111111111111111  \n 11111111111111111111111  \n111111111111111111111111  \n 11111111111111111111111  \n 11111111111 1111111  11  \n 11111111111111111111111  \n 11111111111111111111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                1111      \n                1111  1   \n                11111111  \n                11111111  \n                          "}, "santamode-track1": {"display_name": "Track 1", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "santamode-track2": {"display_name": "Track 2", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "santamode-track3": {"display_name": "Track 3", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "santamode-track4": {"display_name": "Track 4", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "santamode-track5": {"display_name": "Track 5", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "santamode-track6": {"display_name": "Track 6", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "santamode-track7": {"display_name": "Track 7", "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "}, "santamode-speakerunprep": {"entities": {"santamode-snowball": {"name": "santamode-snowball", "display_name": "Snowball Game", "type": "terminal", "location": [1, 0], "url": "https://snowball2.kringlecastle.com/?challenge=santamode-snowball", "resource_url": "https://snowball2.kringlecastle.com/?challenge=santamode-snowball&id=979c4a2a-7220-400a-a243-3a33d8761732"}, "santamode-tanglecoalbox": {"name": "santamode-tanglecoalbox", "display_name": "Tangle Coalbox", "type": "npc", "location": [2, 0]}, "santamode-morcelnougat": {"name": "santamode-morcelnougat", "display_name": "Morcel Nougat", "type": "npc", "location": [5, 3]}, "santamode-thesnacken": {"name": "santamode-thesnacken", "display_name": "Release the Snacken", "type": "npc", "location": [7, 0]}}, "display_name": "Speaker UNPreparedness Room", "grid": "              \n    1111      \n 1111111      \n 11111111111  \n 11111 111111 \n 11111111111  \n 11111111111  \n 11111111111  \n              "}, "santamode-santavator3": {"entities": {"santamode-elevator3": {"name": "santamode-elevator3", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator3", "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator3&id=df7fab67-a95e-4165-9f66-0b27ce582935"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}, "santamode-workshop": {"entities": {"santamode-regex": {"name": "santamode-regex", "display_name": "Regex Toy Sorting", "type": "terminal", "location": [4, 0], "url": "https://present-sorter.kringlecastle.com/?challenge=santamode-regex", "resource_url": "https://present-sorter.kringlecastle.com/?challenge=santamode-regex&id=e88cbd4d-f684-472e-b671-583c9930284e"}, "santamode-mintycandycane": {"name": "santamode-mintycandycane", "display_name": "Minty Candycane", "type": "npc", "location": [5, 0]}}, "display_name": "Workshop", "grid": "               \n         1     \n  1111  1111   \n  1111111111   \n  1111111111   \n 11111111111   \n  11    1111   \n  11    1111   \n  1111111111   \n  1111111111   \n  11    1111   \n  11    1111   \n  1111111111   \n  1111111111   \n  1111111111   \n  1111111111   \n     1111111   \n   1 1111111   \n  1111111111   \n  1111111111   \n               \n               "}, "santamode-wrappingroom": {"entities": {"brokentag": {"name": "brokentag", "display_name": "Present Tag Generator", "type": "terminal", "location": [2, 2], "url": "https://tag-generator.kringlecastle.com/?challenge=brokentag", "resource_url": "https://tag-generator.kringlecastle.com/?challenge=brokentag&id=a40e9974-919d-443b-b780-466fdb22c977"}, "santamode-noelboetie": {"name": "santamode-noelboetie", "display_name": "Noel Boetie", "type": "npc", "location": [1, 2]}}, "display_name": "Wrapping Room", "grid": "            \n 111111111  \n 111111111  \n 1   111    \n 11  111    \n 111111111  \n 111111111  \n 111111111  \n       1    \n            "}, "santamode-darkness": {"display_name": "???", "grid": "         \n 11111   \n 11111   \n 111111  \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n         "}, "santamode-santavator2": {"entities": {"santamode-elevator2": {"name": "santamode-elevator2", "display_name": "Santavator", "type": "terminal", "location": [-1, 3], "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator2", "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator2&id=9e6d9f1c-f7d3-4b87-9b91-afda84c7d0c8"}}, "display_name": "Santavator", "grid": " 111 \n 111 \n 111 \n 111 \n  1  "}}
+{
+  "diningroom": {
+    "entities": {
+      "elfcode": {
+        "name": "elfcode",
+        "display_name": "Programming Concepts",
+        "type": "terminal",
+        "location": [
+          0,
+          0
+        ],
+        "url": "https://elfcode.kringlecastle.com?challenge=elfcode",
+        "resource_url": "https://elfcode.kringlecastle.com?challenge=elfcode&id=f2ca7a16-e9c5-4a40-9b20-726b10f24b2b"
+      },
+      "ribbbonbowford": {
+        "name": "ribbbonbowford",
+        "display_name": "Ribb Bonbowford",
+        "type": "npc",
+        "location": [
+          2,
+          0
+        ]
+      },
+      "nut": {
+        "name": "nut",
+        "display_name": "Hex Nut",
+        "type": "item",
+        "location": [
+          4,
+          3
+        ]
+      }
+    },
+    "display_name": "Dining Room",
+    "grid": "     1      \n  1 11111   \n    1111111 \n 1 1111111  \n 111111111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111111111  \n 1111111111 \n 111111111  \n 111111111  \n            "
+  },
+  "courtyard": {
+    "entities": {
+      "linux": {
+        "name": "linux",
+        "display_name": "Linux Primer",
+        "type": "terminal",
+        "location": [
+          16,
+          11
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=linux",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=linux&id=48b2b187-ffe5-4cf8-ba12-e606936d594b"
+      },
+      "santashop": {
+        "name": "santashop",
+        "display_name": "Santa Shop",
+        "type": "terminal",
+        "location": [
+          18,
+          11
+        ],
+        "url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santashop",
+        "resource_url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santashop&id=1d6fc6ba-452c-4efa-8748-8205ff566d44"
+      },
+      "jack-courtyard": {
+        "name": "jack-courtyard",
+        "display_name": "Jack Frost",
+        "type": "npc",
+        "location": [
+          12,
+          13
+        ]
+      },
+      "sugarplummary": {
+        "name": "sugarplummary",
+        "display_name": "Sugarplum Mary",
+        "type": "npc",
+        "location": [
+          17,
+          11
+        ]
+      },
+      "bubblelightington": {
+        "name": "bubblelightington",
+        "display_name": "Bubble Lightington",
+        "type": "npc",
+        "location": [
+          2,
+          11
+        ]
+      },
+      "googlebooth": {
+        "name": "googlebooth",
+        "display_name": "Google Booth",
+        "type": "npc",
+        "location": [
+          5,
+          5
+        ]
+      },
+      "sansbooth": {
+        "name": "sansbooth",
+        "display_name": "SANS.edu Booth",
+        "type": "npc",
+        "location": [
+          8,
+          4
+        ]
+      },
+      "splunkbooth": {
+        "name": "splunkbooth",
+        "display_name": "Splunk Booth",
+        "type": "npc",
+        "location": [
+          12,
+          4
+        ]
+      },
+      "rsacbooth": {
+        "name": "rsacbooth",
+        "display_name": "RSAC Booth",
+        "type": "npc",
+        "location": [
+          16,
+          4
+        ]
+      },
+      "greenlight": {
+        "name": "greenlight",
+        "display_name": "Green Bulb",
+        "type": "item",
+        "location": [
+          1,
+          2
+        ]
+      }
+    },
+    "display_name": "Courtyard",
+    "grid": "                        1    \n 111111111        111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n 1111111   1   1   11111111  \n 1111  1111111111111  11111  \n 11111111111111111111111111  \n  111111111111111111111111   \n  111111111111111111111111   \n  111111111111111111111111   \n  111111111111111111111111   \n  1 1111111111111   111111   \n  1 1111111111111   111111   \n 111111111111 111   1111111  \n 111111111111 1111111111111  \n 11111111111   111111111111  \n 111111111111 1111111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n      1              1       \n                             "
+  },
+  "secretgarden": {
+    "entities": {
+      "evanbooth": {
+        "name": "evanbooth",
+        "display_name": "Booth",
+        "type": "npc",
+        "location": [
+          3,
+          1
+        ]
+      }
+    },
+    "display_name": "Garden Party",
+    "grid": "          \n  11111   \n 111 111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "kitchen": {
+    "entities": {
+      "dialup": {
+        "name": "dialup",
+        "display_name": "33.6kbps",
+        "type": "terminal",
+        "location": [
+          10,
+          0
+        ],
+        "url": "https://dialup.kringlecastle.com/?challenge=dialup",
+        "resource_url": "https://dialup.kringlecastle.com/?challenge=dialup&id=64240146-49d5-4136-87f8-b6364aae7b23"
+      },
+      "redis": {
+        "name": "redis",
+        "display_name": "Redis Bug Hunt",
+        "type": "terminal",
+        "location": [
+          4,
+          5
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=redis",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=redis&id=dd7d2909-0706-49fe-80bc-1cdbbcf9fac3"
+      },
+      "fitzyshortstack": {
+        "name": "fitzyshortstack",
+        "display_name": "Fitzy Shortstack",
+        "type": "npc",
+        "location": [
+          9,
+          0
+        ]
+      },
+      "hollyevergreen": {
+        "name": "hollyevergreen",
+        "display_name": "Holly Evergreen",
+        "type": "npc",
+        "location": [
+          5,
+          5
+        ]
+      }
+    },
+    "display_name": "Kitchen",
+    "grid": "                \n      1111      \n 111111111      \n 1111111111 11  \n111111111111111 \n 1111111111111  \n 1111  1111111  \n 1111  1111111  \n                "
+  },
+  "entry": {
+    "entities": {
+      "santa-entryway": {
+        "name": "santa-entryway",
+        "display_name": "Santa",
+        "type": "npc",
+        "location": [
+          10,
+          -3
+        ]
+      },
+      "sparkleredberry": {
+        "name": "sparkleredberry",
+        "display_name": "Sparkle Redberry",
+        "type": "npc",
+        "location": [
+          14,
+          1
+        ]
+      },
+      "gingerbreddie": {
+        "name": "gingerbreddie",
+        "display_name": "Ginger Breddie",
+        "type": "npc",
+        "location": [
+          16,
+          5
+        ]
+      },
+      "pineysappington": {
+        "name": "pineysappington",
+        "display_name": "Piney Sappington",
+        "type": "npc",
+        "location": [
+          4,
+          2
+        ]
+      },
+      "nut2": {
+        "name": "nut2",
+        "display_name": "Hex Nut",
+        "type": "item",
+        "location": [
+          17,
+          2
+        ]
+      }
+    },
+    "display_name": "Entry",
+    "grid": "                     \n       111111        \n       111111        \n      11111 11       \n      11111 11       \n      11111111  11   \n 1  1 11111111 111   \n    1 111111111 111  \n    1 111111111 111  \n 1111 1111111111111  \n 111111111111111111  \n 1111111111111111 1  \n 1111111111111111 1  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n11111111111111111111 \n 111111111111111111  \n 111111111111111111  \n         11          \n                     \n                     \n                     \n                     \n                     \n                     "
+  },
+  "santavator1": {
+    "entities": {
+      "elevator": {
+        "name": "elevator",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=elevator",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator&id=eb6d1281-c847-4a89-9122-5de7e3fb3f58"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "greatroom": {
+    "entities": {
+      "angelcandysalt": {
+        "name": "angelcandysalt",
+        "display_name": "Angel Candysalt",
+        "type": "npc",
+        "location": [
+          3,
+          7
+        ]
+      }
+    },
+    "display_name": "Great Room",
+    "grid": "     1      \n 11111111   \n1111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 11  11111  \n 11  11111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n1111111111  \n 111111111  \n 111111111  \n            "
+  },
+  "approach": {
+    "entities": {
+      "tmux": {
+        "name": "tmux",
+        "display_name": "Unescape Tmux",
+        "type": "terminal",
+        "location": [
+          3,
+          4
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=tmux",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=tmux&id=ad4154a2-3ae8-4a0f-a021-c91e6a5ffb70"
+      },
+      "shell": {
+        "name": "shell",
+        "display_name": "Kringle Kiosk",
+        "type": "terminal",
+        "location": [
+          8,
+          17
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=shell",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=shell&id=a5832797-42ff-46b3-80a3-92304b38ba02"
+      },
+      "awsbucket": {
+        "name": "awsbucket",
+        "display_name": "Investigate S3 Bucket",
+        "type": "terminal",
+        "location": [
+          10,
+          17
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=awsbucket",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=awsbucket&id=519474d3-86a4-468a-a6f6-f781e563cc3b"
+      },
+      "santa-approach": {
+        "name": "santa-approach",
+        "display_name": "Santa",
+        "type": "npc",
+        "location": [
+          8,
+          7
+        ]
+      },
+      "pepperminstix": {
+        "name": "pepperminstix",
+        "display_name": "Pepper Minstix",
+        "type": "npc",
+        "location": [
+          2,
+          4
+        ]
+      },
+      "shinnyupatree": {
+        "name": "shinnyupatree",
+        "display_name": "Shinny Upatree",
+        "type": "npc",
+        "location": [
+          9,
+          17
+        ]
+      },
+      "jewelloggins": {
+        "name": "jewelloggins",
+        "display_name": "Jewel Loggins",
+        "type": "npc",
+        "location": [
+          2,
+          15
+        ]
+      },
+      "pierre": {
+        "name": "pierre",
+        "display_name": "Pierre",
+        "type": "npc",
+        "location": [
+          10,
+          6
+        ]
+      },
+      "marie": {
+        "name": "marie",
+        "display_name": "Marie",
+        "type": "npc",
+        "location": [
+          11,
+          7
+        ]
+      },
+      "jean-claude": {
+        "name": "jean-claude",
+        "display_name": "Jean-Claude",
+        "type": "npc",
+        "location": [
+          12,
+          6
+        ]
+      },
+      "nail": {
+        "name": "nail",
+        "display_name": "Nail",
+        "type": "npc",
+        "location": [
+          1,
+          0
+        ]
+      },
+      "candycane": {
+        "name": "candycane",
+        "display_name": "Broken Candycane",
+        "type": "item",
+        "location": [
+          7,
+          -1
+        ]
+      }
+    },
+    "display_name": "Castle Approach",
+    "grid": "            1             \n          11111           \n          11111           \n         11111111111      \n     111111111111111      \n     111111111111111      \n     1111 11111 1111      \n     11  11111111111      \n     11  11111111111      \n     111 111111 1 11      \n     11111111 1   11      \n     11111111 11 111      \n     111111111111111      \n     111111111111111      \n     111111111111111      \n     111111111111111      \n     111111111111111      \n     111111111111111      \n 1   11 111111111111      \n 1   11 111111111111      \n 111111111111   1111      \n 111111111111   1111      \n 111111111111   1111      \n     111111111111111      \n     111111111111111      \n                          \n                          \n                          "
+  },
+  "staging": {
+    "entities": {
+      "jingleringford": {
+        "name": "jingleringford",
+        "display_name": "Jingle Ringford",
+        "type": "npc",
+        "location": [
+          8,
+          1
+        ]
+      }
+    },
+    "display_name": "Staging",
+    "grid": "           \n     1     \n  111111111\n  111111 11\n  111111 11\n  111111111\n  111111111\n  111111111\n  111111111\n  111111111\n           \n           "
+  },
+  "netwars": {
+    "entities": {
+      "scapy": {
+        "name": "scapy",
+        "display_name": "Scapy Prepper",
+        "type": "terminal",
+        "location": [
+          8,
+          13
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=scapy",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=scapy&id=60cf93cc-af9d-4560-8777-d967c42b257a"
+      },
+      "canbus": {
+        "name": "canbus",
+        "display_name": "CAN-Bus Investigation",
+        "type": "terminal",
+        "location": [
+          1,
+          9
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=canbus",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=canbus&id=cebeff1a-d276-4e97-90d2-f74af2248710"
+      },
+      "jack": {
+        "name": "jack",
+        "display_name": "Jack Frost",
+        "type": "npc",
+        "location": [
+          4,
+          15
+        ]
+      },
+      "alabastersnowball": {
+        "name": "alabastersnowball",
+        "display_name": "Alabaster Snowball",
+        "type": "npc",
+        "location": [
+          7,
+          13
+        ]
+      },
+      "wunorseopenslae": {
+        "name": "wunorseopenslae",
+        "display_name": "Wunorse Openslae",
+        "type": "npc",
+        "location": [
+          2,
+          9
+        ]
+      },
+      "marble2": {
+        "name": "marble2",
+        "display_name": "Small Marble",
+        "type": "item",
+        "location": [
+          15,
+          17
+        ]
+      },
+      "yellowlight": {
+        "name": "yellowlight",
+        "display_name": "Yellow Bulb",
+        "type": "item",
+        "location": [
+          0,
+          5
+        ]
+      }
+    },
+    "display_name": "NetWars",
+    "grid": "                   \n 1111111111111111  \n 1111111111111111  \n 1  1111111111111  \n 1  1111111111111  \n 11111        111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n 11111        111  \n 1  1111111111111  \n 1  1111111111111  \n 1111111111111111  \n 1111111111111111  \n 111111   1111     \n 111111   1111 1   \n 1111 111 1111111  \n 1111 11111111111  \n 1111111111111111  \n                   \n                   "
+  },
+  "santavator5": {
+    "entities": {
+      "elevatorr": {
+        "name": "elevatorr",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=elevatorr",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevatorr&id=adafe4aa-571b-4f29-bb3c-ea103fd77c8e"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "talkslobby": {
+    "entities": {
+      "speaker": {
+        "name": "speaker",
+        "display_name": "Speaker UNPrep",
+        "type": "terminal",
+        "location": [
+          0,
+          1
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=speaker",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=speaker&id=adf116ce-f46f-4580-977c-b2c05ba317d5"
+      },
+      "jack-talks": {
+        "name": "jack-talks",
+        "display_name": "Jack Frost",
+        "type": "npc",
+        "location": [
+          6,
+          1
+        ]
+      },
+      "bushyevergreen": {
+        "name": "bushyevergreen",
+        "display_name": "Bushy Evergreen",
+        "type": "npc",
+        "location": [
+          1,
+          1
+        ]
+      },
+      "chimneyscissorsticks": {
+        "name": "chimneyscissorsticks",
+        "display_name": "Chimney Scissorsticks",
+        "type": "npc",
+        "location": [
+          19,
+          5
+        ]
+      },
+      "bowninecandle": {
+        "name": "bowninecandle",
+        "display_name": "Bow Ninecandle",
+        "type": "npc",
+        "location": [
+          11,
+          5
+        ]
+      },
+      "redlight": {
+        "name": "redlight",
+        "display_name": "Red Bulb",
+        "type": "item",
+        "location": [
+          21,
+          0
+        ]
+      }
+    },
+    "display_name": "Talks Lobby",
+    "grid": "   1  1  1  1  1  1  1    \n  111111111111111111111   \n   1111 1111111111111111  \n   1111 1111111111111111  \n111111111111111111111111  \n 11111111111111111111111  \n 11111111111 1111111   1  \n 11111111111 1111111  11  \n 11111111111111111111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                1111      \n                1111  1   \n                11111111  \n                11111111  \n                          "
+  },
+  "track1": {
+    "display_name": "Track 1",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track2": {
+    "display_name": "Track 2",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track3": {
+    "display_name": "Track 3",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track4": {
+    "display_name": "Track 4",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track5": {
+    "display_name": "Track 5",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track6": {
+    "display_name": "Track 6",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track7": {
+    "display_name": "Track 7",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "speakerunprep": {
+    "entities": {
+      "snowball": {
+        "name": "snowball",
+        "display_name": "Snowball Game",
+        "type": "terminal",
+        "location": [
+          1,
+          0
+        ],
+        "url": "https://snowball2.kringlecastle.com/?challenge=snowball",
+        "resource_url": "https://snowball2.kringlecastle.com/?challenge=snowball&id=03f7bf06-54be-4d9a-92cf-930b7a1b84f0"
+      },
+      "tanglecoalbox": {
+        "name": "tanglecoalbox",
+        "display_name": "Tangle Coalbox",
+        "type": "npc",
+        "location": [
+          2,
+          0
+        ]
+      },
+      "morcelnougat": {
+        "name": "morcelnougat",
+        "display_name": "Morcel Nougat",
+        "type": "npc",
+        "location": [
+          5,
+          3
+        ]
+      },
+      "thesnacken": {
+        "name": "thesnacken",
+        "display_name": "Release the Snacken",
+        "type": "npc",
+        "location": [
+          7,
+          0
+        ]
+      },
+      "workshop-button": {
+        "name": "workshop-button",
+        "display_name": "Elevator 1.5 Button",
+        "type": "item",
+        "location": [
+          10,
+          6
+        ]
+      }
+    },
+    "display_name": "Speaker UNPreparedness Room",
+    "grid": "              \n    1111      \n 1  1111      \n 11111111111  \n 11111 111111 \n 11111 11111  \n 11111111111  \n 11111111111  \n              "
+  },
+  "santavator3": {
+    "entities": {
+      "elevator3": {
+        "name": "elevator3",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=elevator3",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator3&id=c6fe3626-3204-4ba4-a71b-a25eb22f1013"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "santasoffice": {
+    "entities": {
+      "tinselupatree": {
+        "name": "tinselupatree",
+        "display_name": "Tinsel Upatree",
+        "type": "npc",
+        "location": [
+          4,
+          6
+        ]
+      }
+    },
+    "display_name": "Santa's Office",
+    "grid": "                \n       1        \n  111111111111  \n 1111111111111  \n 1111111111111  \n 1    1111111   \n 1    1111 111  \n 1111111111111  \n 1111 11111111  \n 1111 11111111  \n 1111111111111  \n      111       \n      111       \n      111       \n      111       \n      111       \n      111 1     \n      111111    \n      111111    \n                \n                "
+  },
+  "balcony": {
+    "entities": {
+      "santa-balcony": {
+        "name": "santa-balcony",
+        "display_name": "Santa",
+        "type": "npc",
+        "location": [
+          2,
+          1
+        ]
+      },
+      "jack-prisoner": {
+        "name": "jack-prisoner",
+        "display_name": "Jack Frost",
+        "type": "npc",
+        "location": [
+          6,
+          1
+        ]
+      },
+      "evesnowshoes": {
+        "name": "evesnowshoes",
+        "display_name": "Eve Snowshoes",
+        "type": "npc",
+        "location": [
+          0,
+          0
+        ]
+      }
+    },
+    "display_name": "Santa's Balcony",
+    "grid": "            \n  11111111  \n  1 111 11  \n 11 111 11  \n 111111111  \n 111111111  \n 111111111  \n     1      \n            "
+  },
+  "santavator4": {
+    "entities": {
+      "elevator4": {
+        "name": "elevator4",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=elevator4",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator4&id=e6ae347f-60dd-467b-ad0c-684431b665b1"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "workshop": {
+    "entities": {
+      "regex": {
+        "name": "regex",
+        "display_name": "Regex Toy Sorting",
+        "type": "terminal",
+        "location": [
+          4,
+          0
+        ],
+        "url": "https://present-sorter.kringlecastle.com/?challenge=regex",
+        "resource_url": "https://present-sorter.kringlecastle.com/?challenge=regex&id=a0394c19-d35a-4786-83b6-786b964fe89d"
+      },
+      "mintycandycane": {
+        "name": "mintycandycane",
+        "display_name": "Minty Candycane",
+        "type": "npc",
+        "location": [
+          5,
+          0
+        ]
+      },
+      "marble": {
+        "name": "marble",
+        "display_name": "Large Marble",
+        "type": "item",
+        "location": [
+          6,
+          9
+        ]
+      }
+    },
+    "display_name": "Workshop",
+    "grid": "             \n        1    \n 111   1111  \n 1111  1111  \n 1111111111  \n11111111111  \n 11    1111  \n 11    1111  \n 1111111111  \n 1111111111  \n 11    1111  \n 11    1111  \n 1111111111  \n 1111111111  \n 1111111111  \n 1111111111  \n    1111111  \n  1 1111111  \n 1111111111  \n 1111111111  \n             \n             "
+  },
+  "wrappingroom": {
+    "entities": {
+      "proxmark": {
+        "name": "proxmark",
+        "display_name": "Proxmark3",
+        "type": "item",
+        "location": [
+          4,
+          2
+        ]
+      },
+      "noelboetie": {
+        "name": "noelboetie",
+        "display_name": "Noel Boetie",
+        "type": "npc",
+        "location": [
+          1,
+          2
+        ]
+      },
+      "ball": {
+        "name": "ball",
+        "display_name": "Rubber Ball",
+        "type": "item",
+        "location": [
+          8,
+          6
+        ]
+      }
+    },
+    "display_name": "Wrapping Room",
+    "grid": "            \n 111111111  \n 111111111  \n 1   111    \n 1   111    \n 111111111  \n 111111111  \n 111111111  \n       1    \n            "
+  },
+  "darkness": {
+    "display_name": "???",
+    "grid": "         \n 11111   \n 11111   \n 111111  \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n         "
+  },
+  "santavator2": {
+    "entities": {
+      "elevator2": {
+        "name": "elevator2",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=elevator2",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator2&id=5c3bb0aa-aae4-43f0-a6fe-c8700f8ac802"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "santamode-entry": {
+    "entities": {
+      "santamode-sparkleredberry": {
+        "name": "santamode-sparkleredberry",
+        "display_name": "Sparkle Redberry",
+        "type": "npc",
+        "location": [
+          14,
+          1
+        ]
+      },
+      "santamode-gingerbreddie": {
+        "name": "santamode-gingerbreddie",
+        "display_name": "Ginger Breddie",
+        "type": "npc",
+        "location": [
+          16,
+          5
+        ]
+      },
+      "santamode-pineysappington": {
+        "name": "santamode-pineysappington",
+        "display_name": "Piney Sappington",
+        "type": "npc",
+        "location": [
+          4,
+          2
+        ]
+      }
+    },
+    "display_name": "Entry",
+    "grid": "                     \n       111111        \n       111111        \n      11111111       \n      11111111       \n      11111111  11   \n 1  1 11111111 111   \n    1 111111111 111  \n    1 1111111111111  \n 1111 1111111111111  \n 111111111111111111  \n 1111111111111111 1  \n 1111111111111111 1  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n11111111111111111111 \n 111111111111111111  \n 111111111111111111  \n         11          \n                     \n                     \n                     \n                     \n                     \n                     "
+  },
+  "santamode-santavator1": {
+    "entities": {
+      "santamode-elevator": {
+        "name": "santamode-elevator",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator&id=85abe5b0-d357-4285-8416-0f7b9561ba77"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "santamode-diningroom": {
+    "entities": {
+      "santamode-elfcode": {
+        "name": "santamode-elfcode",
+        "display_name": "Programming Concepts",
+        "type": "terminal",
+        "location": [
+          0,
+          0
+        ],
+        "url": "https://elfcode.kringlecastle.com?challenge=santamode-elfcode",
+        "resource_url": "https://elfcode.kringlecastle.com?challenge=santamode-elfcode&id=f7a133ce-4975-47dc-a4af-7a8e0ff89ea2"
+      },
+      "santamode-ribbbonbowford": {
+        "name": "santamode-ribbbonbowford",
+        "display_name": "Ribb Bonbowford",
+        "type": "npc",
+        "location": [
+          2,
+          0
+        ]
+      }
+    },
+    "display_name": "Dining Room",
+    "grid": "     1      \n  1 11111   \n 1111111111 \n 111111111  \n 111111111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111111111  \n 1111111111 \n 111111111  \n 111111111  \n            "
+  },
+  "santamode-courtyard": {
+    "entities": {
+      "santamode-linux": {
+        "name": "santamode-linux",
+        "display_name": "Linux Primer",
+        "type": "terminal",
+        "location": [
+          16,
+          11
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-linux",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-linux&id=61a4b360-14e1-48ab-a75c-259a7a64771b"
+      },
+      "santamode-santashop": {
+        "name": "santamode-santashop",
+        "display_name": "Santa Shop",
+        "type": "terminal",
+        "location": [
+          18,
+          11
+        ],
+        "url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santamode-santashop",
+        "resource_url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santamode-santashop&id=afd335e3-66b7-4955-9c21-e1338a4b34f9"
+      },
+      "santamode-sugarplummary": {
+        "name": "santamode-sugarplummary",
+        "display_name": "Sugarplum Mary",
+        "type": "npc",
+        "location": [
+          17,
+          11
+        ]
+      },
+      "santamode-bubblelightington": {
+        "name": "santamode-bubblelightington",
+        "display_name": "Bubble Lightington",
+        "type": "npc",
+        "location": [
+          2,
+          11
+        ]
+      },
+      "santamode-jack-courtyard": {
+        "name": "santamode-jack-courtyard",
+        "display_name": "Jack Frost",
+        "type": "npc",
+        "location": [
+          12,
+          13
+        ]
+      },
+      "santamode-googlebooth": {
+        "name": "santamode-googlebooth",
+        "display_name": "Google Booth",
+        "type": "npc",
+        "location": [
+          5,
+          5
+        ]
+      },
+      "santamode-sansbooth": {
+        "name": "santamode-sansbooth",
+        "display_name": "SANS.edu Booth",
+        "type": "npc",
+        "location": [
+          8,
+          4
+        ]
+      },
+      "santamode-splunkbooth": {
+        "name": "santamode-splunkbooth",
+        "display_name": "Splunk Booth",
+        "type": "npc",
+        "location": [
+          12,
+          4
+        ]
+      },
+      "santamode-rsacbooth": {
+        "name": "santamode-rsacbooth",
+        "display_name": "RSAC Booth",
+        "type": "npc",
+        "location": [
+          16,
+          4
+        ]
+      }
+    },
+    "display_name": "Courtyard",
+    "grid": "                            \n 111111111        111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 1111111   1   1   11111111 \n 1111  1111111111111  11111 \n 11111111111111111111111111 \n  111111111111111111111111  \n  111111111111111111111111  \n  111111111111111111111111  \n  111111111111111111111111  \n  1 1111111111111   111111  \n  1 1111111111111   111111  \n 111111111111 1111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n 11111111111111111111111111 \n      1              1      \n                            "
+  },
+  "santamode-kitchen": {
+    "entities": {
+      "santamode-dialup": {
+        "name": "santamode-dialup",
+        "display_name": "33.6kbps",
+        "type": "terminal",
+        "location": [
+          10,
+          0
+        ],
+        "url": "https://dialup.kringlecastle.com/?challenge=santamode-dialup",
+        "resource_url": "https://dialup.kringlecastle.com/?challenge=santamode-dialup&id=8bb871aa-3a60-4620-b0e4-4c042787f070"
+      },
+      "santamode-redis": {
+        "name": "santamode-redis",
+        "display_name": "Redis Bug Hunt",
+        "type": "terminal",
+        "location": [
+          4,
+          5
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-redis",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-redis&id=ff976a54-0dd6-47a1-b08e-ec4b82aaf7be"
+      },
+      "santamode-fitzyshortstack": {
+        "name": "santamode-fitzyshortstack",
+        "display_name": "Fitzy Shortstack",
+        "type": "npc",
+        "location": [
+          9,
+          0
+        ]
+      },
+      "santamode-hollyevergreen": {
+        "name": "santamode-hollyevergreen",
+        "display_name": "Holly Evergreen",
+        "type": "npc",
+        "location": [
+          5,
+          5
+        ]
+      }
+    },
+    "display_name": "Kitchen",
+    "grid": "                \n      1111      \n 1111111111     \n 1111111111111  \n111111111111111 \n 1111111111111  \n 1111  1111111  \n 1111111111111  \n                "
+  },
+  "santamode-greatroom": {
+    "entities": {
+      "santamode-angelcandysalt": {
+        "name": "santamode-angelcandysalt",
+        "display_name": "Angel Candysalt",
+        "type": "npc",
+        "location": [
+          3,
+          7
+        ]
+      }
+    },
+    "display_name": "Great Room",
+    "grid": "     1      \n 11111111   \n1111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 11  11111  \n 11  11111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n1111111111  \n 111111111  \n 111111111  \n            "
+  },
+  "santamode-approach": {
+    "entities": {
+      "santamode-tmux": {
+        "name": "santamode-tmux",
+        "display_name": "Unescape Tmux",
+        "type": "terminal",
+        "location": [
+          3,
+          4
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-tmux",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-tmux&id=c17b664a-b4a4-4d22-82eb-8179a4f3a979"
+      },
+      "santamode-shell": {
+        "name": "santamode-shell",
+        "display_name": "Kringle Kiosk",
+        "type": "terminal",
+        "location": [
+          8,
+          17
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-shell",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-shell&id=081d7fa3-be50-4d2e-b5ae-6c19f1d18f2e"
+      },
+      "santamode-awsbucket": {
+        "name": "santamode-awsbucket",
+        "display_name": "Investigate S3 Bucket",
+        "type": "terminal",
+        "location": [
+          10,
+          17
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-awsbucket",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-awsbucket&id=f26289fe-2a80-4f7f-b888-c56c44307fe1"
+      },
+      "santamode-pepperminstix": {
+        "name": "santamode-pepperminstix",
+        "display_name": "Pepper Minstix",
+        "type": "npc",
+        "location": [
+          2,
+          4
+        ]
+      },
+      "santamode-shinnyupatree": {
+        "name": "santamode-shinnyupatree",
+        "display_name": "Shinny Upatree",
+        "type": "npc",
+        "location": [
+          9,
+          17
+        ]
+      },
+      "santamode-jewelloggins": {
+        "name": "santamode-jewelloggins",
+        "display_name": "Jewel Loggins",
+        "type": "npc",
+        "location": [
+          2,
+          15
+        ]
+      },
+      "santamode-pierre": {
+        "name": "santamode-pierre",
+        "display_name": "Pierre",
+        "type": "npc",
+        "location": [
+          10,
+          6
+        ]
+      },
+      "santamode-marie": {
+        "name": "santamode-marie",
+        "display_name": "Marie",
+        "type": "npc",
+        "location": [
+          11,
+          7
+        ]
+      },
+      "santamode-jean-claude": {
+        "name": "santamode-jean-claude",
+        "display_name": "Jean-Claude",
+        "type": "npc",
+        "location": [
+          12,
+          6
+        ]
+      },
+      "santamode-nail": {
+        "name": "santamode-nail",
+        "display_name": "Nail",
+        "type": "npc",
+        "location": [
+          1,
+          0
+        ]
+      }
+    },
+    "display_name": "Castle Approach",
+    "grid": "            1            \n          11111          \n          11111          \n         11111111111     \n     111111111111111     \n     111111111111111     \n     1111 11111 1111     \n     11  11111111111     \n     111111111111111     \n     1111111111 1 11     \n     11111111111 111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n     111111111111111     \n 1   11 111111111111     \n 1   111111111111111     \n 111111111111   1111     \n 1111111111111111111     \n 1111111111111111111     \n     111111111111111     \n     111111111111111     \n                         \n                         \n                         "
+  },
+  "santamode-staging": {
+    "entities": {
+      "santamode-jingleringford": {
+        "name": "santamode-jingleringford",
+        "display_name": "Jingle Ringford",
+        "type": "npc",
+        "location": [
+          8,
+          1
+        ]
+      }
+    },
+    "display_name": "Staging",
+    "grid": "           \n     1     \n  111111111\n  111111 11\n  111111111\n  111111111\n  111111111\n  111111111\n  111111111\n  111111111\n           \n           "
+  },
+  "santamode-netwars": {
+    "entities": {
+      "santamode-scapy": {
+        "name": "santamode-scapy",
+        "display_name": "Scapy Prepper",
+        "type": "terminal",
+        "location": [
+          8,
+          13
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-scapy",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-scapy&id=2c4df948-300a-41ff-81e7-9b3eb3e26b99"
+      },
+      "santamode-arp": {
+        "name": "santamode-arp",
+        "display_name": "ARP Shenanigans",
+        "type": "terminal",
+        "location": [
+          6,
+          13
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-arp",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-arp&id=89c3370a-e0c4-4363-91a8-496becb27808"
+      },
+      "santamode-canbus": {
+        "name": "santamode-canbus",
+        "display_name": "CAN-Bus Investigation",
+        "type": "terminal",
+        "location": [
+          1,
+          9
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-canbus",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-canbus&id=8b5cad92-3f4c-4d45-a6ef-343fc0a66da6"
+      },
+      "candbus": {
+        "name": "candbus",
+        "display_name": "Sleigh CAN-D-Bus",
+        "type": "terminal",
+        "location": [
+          1,
+          2
+        ],
+        "url": "https://candbus.kringlecastle.com/?challenge=candbus",
+        "resource_url": "https://candbus.kringlecastle.com/?challenge=candbus&id=cc267c52-4fa3-4d8c-9a2e-411af5c58b2c"
+      },
+      "santamode-alabastersnowball": {
+        "name": "santamode-alabastersnowball",
+        "display_name": "Alabaster Snowball",
+        "type": "npc",
+        "location": [
+          7,
+          13
+        ]
+      },
+      "santamode-wunorseopenslae": {
+        "name": "santamode-wunorseopenslae",
+        "display_name": "Wunorse Openslae",
+        "type": "npc",
+        "location": [
+          2,
+          9
+        ]
+      },
+      "santamode-jack": {
+        "name": "santamode-jack",
+        "display_name": "Jack Frost",
+        "type": "npc",
+        "location": [
+          4,
+          15
+        ]
+      }
+    },
+    "display_name": "NetWars",
+    "grid": "                   \n 1111111111111111  \n 1111111111111111  \n 1  1111111111111  \n 1  1111111111111  \n 11111        111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n 11111        111  \n 1  1111111111111  \n 1  1111111111111  \n 1111111111111111  \n 1111111111111111  \n 111111   1111     \n 111111   1111 1   \n 1111 11111111111  \n 1111111111111111  \n 1111111111111111  \n                   \n                   "
+  },
+  "santamode-santavator5": {
+    "entities": {
+      "santamode-elevatorr": {
+        "name": "santamode-elevatorr",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevatorr",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevatorr&id=ebc38ba3-0214-4332-be69-dd881a9ba155"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "santamode-santasoffice": {
+    "entities": {
+      "santamode-tinselupatree": {
+        "name": "santamode-tinselupatree",
+        "display_name": "Tinsel Upatree",
+        "type": "npc",
+        "location": [
+          4,
+          6
+        ]
+      }
+    },
+    "display_name": "Santa's Office",
+    "grid": "                \n       1        \n  111111111111  \n 1111111111111  \n 1111111111111  \n 1    1111111   \n 1    1111 111  \n 1111111111111  \n 1111 11111111  \n 1111111111111  \n 1111111111111  \n      111       \n      111       \n      111       \n      111       \n      111       \n      111 1     \n      111111    \n      111111    \n                \n                "
+  },
+  "santamode-balcony": {
+    "entities": {
+      "santamode-evesnowshoes": {
+        "name": "santamode-evesnowshoes",
+        "display_name": "Eve Snowshoes",
+        "type": "npc",
+        "location": [
+          0,
+          0
+        ]
+      }
+    },
+    "display_name": "Santa's Balcony",
+    "grid": "            \n  11111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n     1      \n            "
+  },
+  "santamode-santavator4": {
+    "entities": {
+      "santamode-elevator4": {
+        "name": "santamode-elevator4",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator4",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator4&id=0d65a272-a04b-4849-a8ad-fc804dc707f0"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "santamode-talkslobby": {
+    "entities": {
+      "santamode-speaker": {
+        "name": "santamode-speaker",
+        "display_name": "Speaker UNPrep",
+        "type": "terminal",
+        "location": [
+          0,
+          1
+        ],
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-speaker",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-speaker&id=41877889-0ea1-46dd-97c3-13102d820247"
+      },
+      "santamode-bushyevergreen": {
+        "name": "santamode-bushyevergreen",
+        "display_name": "Bushy Evergreen",
+        "type": "npc",
+        "location": [
+          1,
+          1
+        ]
+      },
+      "santamode-chimneyscissorsticks": {
+        "name": "santamode-chimneyscissorsticks",
+        "display_name": "Chimney Scissorsticks",
+        "type": "npc",
+        "location": [
+          19,
+          5
+        ]
+      },
+      "santamode-bowninecandle": {
+        "name": "santamode-bowninecandle",
+        "display_name": "Bow Ninecandle",
+        "type": "npc",
+        "location": [
+          11,
+          5
+        ]
+      },
+      "santamode-jack-talks": {
+        "name": "santamode-jack-talks",
+        "display_name": "Jack Frost",
+        "type": "npc",
+        "location": [
+          6,
+          1
+        ]
+      }
+    },
+    "display_name": "Talks Lobby",
+    "grid": "   1  1  1  1  1  1  1    \n  111111111111111111111   \n   1111 1111111111111111  \n 11111111111111111111111  \n111111111111111111111111  \n 11111111111111111111111  \n 11111111111 1111111  11  \n 11111111111111111111111  \n 11111111111111111111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                1111      \n                1111  1   \n                11111111  \n                11111111  \n                          "
+  },
+  "santamode-track1": {
+    "display_name": "Track 1",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "santamode-track2": {
+    "display_name": "Track 2",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "santamode-track3": {
+    "display_name": "Track 3",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "santamode-track4": {
+    "display_name": "Track 4",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "santamode-track5": {
+    "display_name": "Track 5",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "santamode-track6": {
+    "display_name": "Track 6",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "santamode-track7": {
+    "display_name": "Track 7",
+    "grid": "          \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "santamode-speakerunprep": {
+    "entities": {
+      "santamode-snowball": {
+        "name": "santamode-snowball",
+        "display_name": "Snowball Game",
+        "type": "terminal",
+        "location": [
+          1,
+          0
+        ],
+        "url": "https://snowball2.kringlecastle.com/?challenge=santamode-snowball",
+        "resource_url": "https://snowball2.kringlecastle.com/?challenge=santamode-snowball&id=3fa78b30-7ad0-458e-9e13-e6fab7c1eecb"
+      },
+      "santamode-tanglecoalbox": {
+        "name": "santamode-tanglecoalbox",
+        "display_name": "Tangle Coalbox",
+        "type": "npc",
+        "location": [
+          2,
+          0
+        ]
+      },
+      "santamode-morcelnougat": {
+        "name": "santamode-morcelnougat",
+        "display_name": "Morcel Nougat",
+        "type": "npc",
+        "location": [
+          5,
+          3
+        ]
+      },
+      "santamode-thesnacken": {
+        "name": "santamode-thesnacken",
+        "display_name": "Release the Snacken",
+        "type": "npc",
+        "location": [
+          7,
+          0
+        ]
+      }
+    },
+    "display_name": "Speaker UNPreparedness Room",
+    "grid": "              \n    1111      \n 1111111      \n 11111111111  \n 11111 111111 \n 11111111111  \n 11111111111  \n 11111111111  \n              "
+  },
+  "santamode-santavator3": {
+    "entities": {
+      "santamode-elevator3": {
+        "name": "santamode-elevator3",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator3",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator3&id=772af1a4-6033-4cf5-9d5a-8059eea76381"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  },
+  "santamode-workshop": {
+    "entities": {
+      "santamode-regex": {
+        "name": "santamode-regex",
+        "display_name": "Regex Toy Sorting",
+        "type": "terminal",
+        "location": [
+          4,
+          0
+        ],
+        "url": "https://present-sorter.kringlecastle.com/?challenge=santamode-regex",
+        "resource_url": "https://present-sorter.kringlecastle.com/?challenge=santamode-regex&id=6ebaf022-ce0b-4885-b26d-183aa1e248d1"
+      },
+      "santamode-mintycandycane": {
+        "name": "santamode-mintycandycane",
+        "display_name": "Minty Candycane",
+        "type": "npc",
+        "location": [
+          5,
+          0
+        ]
+      }
+    },
+    "display_name": "Workshop",
+    "grid": "               \n         1     \n  1111  1111   \n  1111111111   \n  1111111111   \n 11111111111   \n  11    1111   \n  11    1111   \n  1111111111   \n  1111111111   \n  11    1111   \n  11    1111   \n  1111111111   \n  1111111111   \n  1111111111   \n  1111111111   \n     1111111   \n   1 1111111   \n  1111111111   \n  1111111111   \n               \n               "
+  },
+  "santamode-wrappingroom": {
+    "entities": {
+      "brokentag": {
+        "name": "brokentag",
+        "display_name": "Present Tag Generator",
+        "type": "terminal",
+        "location": [
+          2,
+          2
+        ],
+        "url": "https://tag-generator.kringlecastle.com/?challenge=brokentag",
+        "resource_url": "https://tag-generator.kringlecastle.com/?challenge=brokentag&id=b3ca8a3e-0bf9-4683-b6e5-2e7edb87d2d6"
+      },
+      "santamode-noelboetie": {
+        "name": "santamode-noelboetie",
+        "display_name": "Noel Boetie",
+        "type": "npc",
+        "location": [
+          1,
+          2
+        ]
+      }
+    },
+    "display_name": "Wrapping Room",
+    "grid": "            \n 111111111  \n 111111111  \n 1   111    \n 11  111    \n 111111111  \n 111111111  \n 111111111  \n       1    \n            "
+  },
+  "santamode-darkness": {
+    "display_name": "???",
+    "grid": "         \n 11111   \n 11111   \n 111111  \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n 11111   \n         "
+  },
+  "santamode-santavator2": {
+    "entities": {
+      "santamode-elevator2": {
+        "name": "santamode-elevator2",
+        "display_name": "Santavator",
+        "type": "terminal",
+        "location": [
+          -1,
+          3
+        ],
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator2",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator2&id=7a4d528c-fd9a-42a6-a1b4-237ea41dff7e"
+      }
+    },
+    "display_name": "Santavator",
+    "grid": " 111 \n 111 \n 111 \n 111 \n  1  "
+  }
+}
