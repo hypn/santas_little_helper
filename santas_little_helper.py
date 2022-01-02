@@ -186,6 +186,10 @@ def receive_until_terminal():
     while handle_response(ws.recv()) not in ['OPEN_TERMINAL', 'DENNIS_NEDRY']:
         pass
 
+def teleport_user(target_zone):
+    ws.send('{"type":"TELEPORT_USER","destination":"%s"}' % (target_zone))
+    receive_until_new_area()
+
 
 def goto_zone(target_zone):
     current_zone = current_state['current_area']
@@ -202,7 +206,7 @@ def goto_zone(target_zone):
 
     if path is None:
         err(f"Failed to find path to {target_zone} starting from {current_zone}")
-        err(f"Please move around in-game")
+        err(f"Please try moving somewhere else in-game")
         return
     for zone in path[1:]:
         goto_adjacent_zone(zone)
@@ -333,11 +337,25 @@ def teleport():
     target = input("Please enter the zone shortname you would like to teleport to: ")
 
     if known_portals.get(target) is None:
-        err("That zone does not exist")
-        exit()
-    else:
-        goto_zone(target)
+        print(f"{red}That zone does not exist or is not known")
 
+    starting_loc = current_state['current_area']
+    if current_state['current_area'] == target:
+        print("You're already at " + target)
+    else:
+        print("Trying to teleport to " + target)
+        teleport_user(target)
+
+        # check if we've been sent to "shenanigans" and if so return to starting location
+        if current_state['current_area'] == "shenanigans":
+            print(f"{yel}You've been moved to the \"shenanigans\" room! Moving back to {starting_loc}{off}")
+            teleport_user(starting_loc)
+
+        if current_state['current_area'] != target:
+            if known_portals.get(target) is None:
+                # walk to the target location if teleportation failed
+                print(f"\n{yel}Trying to walk from {starting_loc} to {target} instead...{off}")
+                goto_zone(target)
     print("")
 
 
