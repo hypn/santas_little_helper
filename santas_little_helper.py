@@ -122,10 +122,10 @@ def handle_response(r):
                     err(f"Found new unknown object named '{extra_info[room]['entities'][entity]['display_name']}'")
     elif m_type == "PSSST":
         for w in r_json['whisper']:
-            discover("Received new chat message")
             uid = r_json['whisper'][w]['uid']
             message = r_json['whisper'][w]['text']
             if message not in npc_chatter[uid]:
+                discover("Received new chat message")
                 npc_chatter[uid].append(message)
     elif m_type == "OPEN_TERMINAL":
         term_id = r_json['id']
