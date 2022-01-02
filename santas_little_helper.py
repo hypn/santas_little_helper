@@ -476,7 +476,7 @@ def list_items():
                         name = extra_info[zone]["entities"][entity]['display_name']
                         room = extra_info[zone]['display_name']
                         coords = extra_info[zone]["entities"][entity]['location']
-                        print(f"- {yel}{name}{off} in \"{cya}{room}{off}\" ({zone}) room at {coords}")
+                        print(f"- \"{yel}{name}{off}\" in \"{cya}{room}{off}\" at {cya}{coords}{off}")
     else:
         print(f"{red}No data! Use \"-c\" (\"--create_data\") to collect data.{off}")
 
@@ -491,7 +491,9 @@ def list_terminals():
                         name = extra_info[zone]["entities"][entity]['display_name']
                         room = extra_info[zone]['display_name']
                         coords = extra_info[zone]["entities"][entity]['location']
-                        print(f"- \"{yel}{name}{off}\" in \"{cya}{room}{off}\" ({zone}) room at {coords}")
+                        url = extra_info[zone]["entities"][entity]['url'] + '&id=1'
+                        print(f"- \"{yel}{name}{off}\" in {cya}{room}{off} at {cya}{coords}{off} ({blu}{url}{off})")
+        print(f"{red}Note: these links will not unlock progress or achievements in the game!{off}")
     else:
         print(f"{red}No data! Use \"-c\" (\"--create_data\") to collect data.{off}")
 
