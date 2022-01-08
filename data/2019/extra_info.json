@@ -9,8 +9,8 @@
           39,
           27
         ],
-        "url": "https://keypad.elfu.org?challenge=keypad",
-        "resource_url": "https://keypad.elfu.org?challenge=keypad"
+        "url": "https://keypad.elfu.org?challenge=keypad&id=123",
+        "resource_url": "https://keypad.elfu.org?challenge=keypad&id=123"
       },
       "santa-quad": {
         "name": "santa-quad",
@@ -44,8 +44,8 @@
           13,
           6
         ],
-        "url": "https://docker2019.kringlecon.com/?challenge=iptables",
-        "resource_url": "https://docker2019.kringlecon.com/?challenge=iptables"
+        "url": "https://docker2019.kringlecon.com/?challenge=iptables&id=123",
+        "resource_url": "https://docker2019.kringlecon.com/?challenge=iptables&id=123"
       },
       "shinnyupatree": {
         "name": "shinnyupatree",
@@ -124,8 +124,8 @@
           7,
           2
         ],
-        "url": "https://docker2019.kringlecon.com/?challenge=jq",
-        "resource_url": "https://docker2019.kringlecon.com/?challenge=jq"
+        "url": "https://docker2019.kringlecon.com/?challenge=jq&id=123",
+        "resource_url": "https://docker2019.kringlecon.com/?challenge=jq&id=123"
       },
       "sleighroutefinder": {
         "name": "sleighroutefinder",
@@ -135,8 +135,8 @@
           12,
           2
         ],
-        "url": "https://srf.elfu.org?challenge=sleighroutefinder",
-        "resource_url": "https://srf.elfu.org?challenge=sleighroutefinder"
+        "url": "https://srf.elfu.org?challenge=sleighroutefinder&id=123",
+        "resource_url": "https://srf.elfu.org?challenge=sleighroutefinder&id=123"
       },
       "wunorseopenslae": {
         "name": "wunorseopenslae",
@@ -221,8 +221,8 @@
           9,
           1
         ],
-        "url": "https://docker2019.kringlecon.com/?challenge=path",
-        "resource_url": "https://docker2019.kringlecon.com/?challenge=path"
+        "url": "https://docker2019.kringlecon.com/?challenge=path&id=123",
+        "resource_url": "https://docker2019.kringlecon.com/?challenge=path&id=123"
       },
       "sugarplummary": {
         "name": "sugarplummary",
@@ -247,8 +247,8 @@
           13,
           1
         ],
-        "url": "https://docker2019.kringlecon.com/?challenge=mongo",
-        "resource_url": "https://docker2019.kringlecon.com/?challenge=mongo"
+        "url": "https://docker2019.kringlecon.com/?challenge=mongo&id=123",
+        "resource_url": "https://docker2019.kringlecon.com/?challenge=mongo&id=123"
       },
       "hollyevergreen": {
         "name": "hollyevergreen",
@@ -273,8 +273,8 @@
           5,
           2
         ],
-        "url": "https://docker2019.kringlecon.com/?challenge=nyanshell",
-        "resource_url": "https://docker2019.kringlecon.com/?challenge=nyanshell"
+        "url": "https://docker2019.kringlecon.com/?challenge=nyanshell&id=123",
+        "resource_url": "https://docker2019.kringlecon.com/?challenge=nyanshell&id=123"
       },
       "alabastersnowball": {
         "name": "alabastersnowball",
@@ -327,8 +327,8 @@
           3,
           4
         ],
-        "url": "https://docker2019.kringlecon.com/?challenge=powershell",
-        "resource_url": "https://docker2019.kringlecon.com/?challenge=powershell"
+        "url": "https://docker2019.kringlecon.com/?challenge=powershell&id=123",
+        "resource_url": "https://docker2019.kringlecon.com/?challenge=powershell&id=123"
       },
       "sparkleredberry": {
         "name": "sparkleredberry",
@@ -362,8 +362,8 @@
           29,
           3
         ],
-        "url": "https://trail.elfu.org?challenge=trail",
-        "resource_url": "https://trail.elfu.org?challenge=trail"
+        "url": "https://trail.elfu.org?challenge=trail&id=123",
+        "resource_url": "https://trail.elfu.org?challenge=trail&id=123"
       },
       "graylog": {
         "name": "graylog",
@@ -373,8 +373,8 @@
           15,
           1
         ],
-        "url": "https://incident.elfu.org?challenge=graylog",
-        "resource_url": "https://incident.elfu.org?challenge=graylog"
+        "url": "https://incident.elfu.org?challenge=graylog&id=123",
+        "resource_url": "https://incident.elfu.org?challenge=graylog&id=123"
       },
       "pepperminstix": {
         "name": "pepperminstix",
@@ -408,8 +408,8 @@
           4,
           1
         ],
-        "url": "https://key.elfu.org?challenge=bitting-cutter",
-        "resource_url": "https://key.elfu.org?challenge=bitting-cutter"
+        "url": "https://key.elfu.org?challenge=bitting-cutter&id=123",
+        "resource_url": "https://key.elfu.org?challenge=bitting-cutter&id=123"
       }
     },
     "display_name": "Minty's Dorm Room",
@@ -425,8 +425,8 @@
           0,
           1
         ],
-        "url": "https://thisisit.elfu.org?challenge=bitting-keyhole",
-        "resource_url": "https://thisisit.elfu.org?challenge=bitting-keyhole"
+        "url": "https://thisisit.elfu.org?challenge=bitting-keyhole&id=123",
+        "resource_url": "https://thisisit.elfu.org?challenge=bitting-keyhole&id=123"
       }
     },
     "display_name": "Minty's Closet",
@@ -442,8 +442,8 @@
           30,
           13
         ],
-        "url": "https://fridosleigh.com?challenge=fridosleigh",
-        "resource_url": "https://fridosleigh.com?challenge=fridosleigh"
+        "url": "https://fridosleigh.com?challenge=fridosleigh&id=123",
+        "resource_url": "https://fridosleigh.com?challenge=fridosleigh&id=123"
       },
       "krampus-steamtunnel": {
         "name": "krampus-steamtunnel",
@@ -468,8 +468,8 @@
           18,
           6
         ],
-        "url": "https://docker2019.kringlecon.com/?challenge=edescape",
-        "resource_url": "https://docker2019.kringlecon.com/?challenge=edescape"
+        "url": "https://docker2019.kringlecon.com/?challenge=edescape&id=123",
+        "resource_url": "https://docker2019.kringlecon.com/?challenge=edescape&id=123"
       },
       "bushyevergreen": {
         "name": "bushyevergreen",

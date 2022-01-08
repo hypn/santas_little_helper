@@ -54,9 +54,9 @@
           5
         ],
         "name": "gnmap",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=gnmap",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=gnmap&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=gnmap"
+        "url": "https://docker2021.kringlecon.com/?challenge=gnmap&id=123"
       },
       "greasygopherguts": {
         "display_name": "Greasy GopherGuts",
@@ -101,9 +101,9 @@
           12
         ],
         "name": "log4jblue",
-        "resource_url": "https://log4j.kringlecon.com/?challenge=log4jblue",
+        "resource_url": "https://log4j.kringlecon.com/?challenge=log4jblue&id=123",
         "type": "terminal",
-        "url": "https://log4j.kringlecon.com/?challenge=log4jblue"
+        "url": "https://log4j.kringlecon.com/?challenge=log4jblue&id=123"
       },
       "log4jred": {
         "display_name": "Bonus! Red Log4Jack",
@@ -112,9 +112,9 @@
           12
         ],
         "name": "log4jred",
-        "resource_url": "https://log4j.kringlecon.com/?challenge=log4jred",
+        "resource_url": "https://log4j.kringlecon.com/?challenge=log4jred&id=123",
         "type": "terminal",
-        "url": "https://log4j.kringlecon.com/?challenge=log4jred"
+        "url": "https://log4j.kringlecon.com/?challenge=log4jred&id=123"
       },
       "logicmunchers": {
         "display_name": "Logic Munchers",
@@ -123,9 +123,9 @@
           4
         ],
         "name": "logicmunchers",
-        "resource_url": "https://logic.kringlecastle.com/?challenge=logicmunchers",
+        "resource_url": "https://logic.kringlecastle.com/?challenge=logicmunchers&id=123",
         "type": "terminal",
-        "url": "https://logic.kringlecastle.com/?challenge=logicmunchers"
+        "url": "https://logic.kringlecastle.com/?challenge=logicmunchers&id=123"
       },
       "noelboetie": {
         "display_name": "Noel Boetie",
@@ -171,9 +171,9 @@
           9
         ],
         "name": "exif",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=exif",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=exif&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=exif"
+        "url": "https://docker2021.kringlecon.com/?challenge=exif&id=123"
       },
       "googlebooth": {
         "display_name": "Google Booth",
@@ -191,9 +191,9 @@
           9
         ],
         "name": "osint",
-        "resource_url": "https://caramel.kringlecastle.com?challenge=osint",
+        "resource_url": "https://caramel.kringlecastle.com?challenge=osint&id=123",
         "type": "terminal",
-        "url": "https://caramel.kringlecastle.com?challenge=osint"
+        "url": "https://caramel.kringlecastle.com?challenge=osint&id=123"
       },
       "pineysappington": {
         "display_name": "Piney Sappington",
@@ -253,9 +253,9 @@
           0
         ],
         "name": "elfcode",
-        "resource_url": "https://elfcode21.kringlecastle.com?challenge=elfcode",
+        "resource_url": "https://elfcode21.kringlecastle.com?challenge=elfcode&id=123",
         "type": "terminal",
-        "url": "https://elfcode21.kringlecastle.com?challenge=elfcode"
+        "url": "https://elfcode21.kringlecastle.com?challenge=elfcode&id=123"
       },
       "ribbbonbowford": {
         "display_name": "Ribb Bonbowford",
@@ -279,9 +279,9 @@
           -1
         ],
         "name": "elevator",
-        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator",
+        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator&id=123",
         "type": "terminal",
-        "url": "https://elevator21.kringlecastle.com?challenge=elevator"
+        "url": "https://elevator21.kringlecastle.com?challenge=elevator&id=123"
       },
       "fitzyshortstack": {
         "display_name": "Fitzy Shortstack",
@@ -317,9 +317,9 @@
           3
         ],
         "name": "yara",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=yara",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=yara&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=yara"
+        "url": "https://docker2021.kringlecon.com/?challenge=yara&id=123"
       }
     },
     "grid": "                     \n       111111        \n       1 1111        \n      11 11111       \n      11111 11       \n      11111111       \n 1  1 11111111 111   \n    1 111111111 111  \n    11111111111 111  \n 111  1111111111111  \n 111  1111111111111  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n11111111111111111111 \n 111111111111111111  \n 111111111111111111  \n         11          \n                     \n                     \n                     \n                     \n                     \n                     "
@@ -334,9 +334,9 @@
           -1
         ],
         "name": "frostavator",
-        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator",
+        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator&id=123",
         "type": "terminal",
-        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator"
+        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator&id=123"
       },
       "pattronizer": {
         "display_name": "Pat Tronizer",
@@ -433,9 +433,9 @@
           -1
         ],
         "name": "frostavator",
-        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator",
+        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator&id=123",
         "type": "terminal",
-        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator"
+        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator&id=123"
       },
       "rubycyster": {
         "display_name": "Ruby Cyster",
@@ -468,9 +468,9 @@
           3
         ],
         "name": "imds",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=imds",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=imds&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=imds"
+        "url": "https://docker2021.kringlecon.com/?challenge=imds&id=123"
       },
       "noxiousodor": {
         "display_name": "Noxious O. D'or",
@@ -494,9 +494,9 @@
           0
         ],
         "name": "ltrace",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=ltrace",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=ltrace&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=ltrace"
+        "url": "https://docker2021.kringlecon.com/?challenge=ltrace&id=123"
       },
       "tinselupatree": {
         "display_name": "Tinsel Upatree",
@@ -529,9 +529,9 @@
           14
         ],
         "name": "elevator",
-        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator",
+        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator&id=123",
         "type": "terminal",
-        "url": "https://elevator21.kringlecastle.com?challenge=elevator"
+        "url": "https://elevator21.kringlecastle.com?challenge=elevator&id=123"
       },
       "hero": {
         "display_name": "Holiday Hero",
@@ -540,9 +540,9 @@
           3
         ],
         "name": "hero",
-        "resource_url": "https://hero.kringlecastle.com?challenge=hero",
+        "resource_url": "https://hero.kringlecastle.com?challenge=hero&id=123",
         "type": "terminal",
-        "url": "https://hero.kringlecastle.com?challenge=hero"
+        "url": "https://hero.kringlecastle.com?challenge=hero&id=123"
       }
     },
     "grid": "                   \n 1111111111111111  \n 1111111111111111  \n 1  1111111111111  \n     111111111111  \n  11 1        111  \n  111111111111111  \n  111111111111111  \n 1111111111111111  \n 11111        111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111     \n 1111111111111     \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n                   \n                   "
@@ -566,9 +566,9 @@
           9
         ],
         "name": "fpga",
-        "resource_url": "https://fpga.jackfrosttower.com/?challenge=fpga",
+        "resource_url": "https://fpga.jackfrosttower.com/?challenge=fpga&id=123",
         "type": "terminal",
-        "url": "https://fpga.jackfrosttower.com/?challenge=fpga"
+        "url": "https://fpga.jackfrosttower.com/?challenge=fpga&id=123"
       },
       "numbychilblain": {
         "display_name": "Numby Chilblain",
@@ -612,9 +612,9 @@
           14
         ],
         "name": "elevator",
-        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator",
+        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator&id=123",
         "type": "terminal",
-        "url": "https://elevator21.kringlecastle.com?challenge=elevator"
+        "url": "https://elevator21.kringlecastle.com?challenge=elevator&id=123"
       },
       "evesnowshoes": {
         "display_name": "Eve Snowshoes",
@@ -632,9 +632,9 @@
           5
         ],
         "name": "hohono",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=hohono",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=hohono&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=hohono"
+        "url": "https://docker2021.kringlecon.com/?challenge=hohono&id=123"
       }
     },
     "grid": "                \n       1        \n  111111111111  \n 1111111111111  \n 1111111111111  \n 1    1111111   \n 1    1111 111  \n 111  11111111  \n 111  11111111  \n 1111111111111  \n 1111111111111  \n      111       \n      111       \n      111       \n      111       \n      111       \n      111       \n      111111    \n      111111    \n                \n                "
@@ -700,9 +700,9 @@
           0
         ],
         "name": "ducky",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=ducky",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=ducky&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=ducky"
+        "url": "https://docker2021.kringlecon.com/?challenge=ducky&id=123"
       },
       "morcelnougat": {
         "display_name": "Morcel Nougat",
@@ -735,9 +735,9 @@
           0
         ],
         "name": "opengate",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=opengate",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=opengate&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=opengate"
+        "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=123"
       },
       "wifiDongle": {
         "display_name": "WiFi Dongle",
@@ -821,9 +821,9 @@
           15
         ],
         "name": "elevator",
-        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator",
+        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator&id=123",
         "type": "terminal",
-        "url": "https://elevator21.kringlecastle.com?challenge=elevator"
+        "url": "https://elevator21.kringlecastle.com?challenge=elevator&id=123"
       },
       "ipv6": {
         "display_name": "IPv6 Sandbox",
@@ -832,9 +832,9 @@
           5
         ],
         "name": "ipv6",
-        "resource_url": "https://docker2021.kringlecon.com/?challenge=ipv6",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=ipv6&id=123",
         "type": "terminal",
-        "url": "https://docker2021.kringlecon.com/?challenge=ipv6"
+        "url": "https://docker2021.kringlecon.com/?challenge=ipv6&id=123"
       },
       "jewelloggins": {
         "display_name": "Jewel Loggins",
@@ -858,9 +858,9 @@
           -1
         ],
         "name": "frostavator",
-        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator",
+        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator&id=123",
         "type": "terminal",
-        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator"
+        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator&id=123"
       },
       "grodygoiterson": {
         "display_name": "Grody Goiterson",

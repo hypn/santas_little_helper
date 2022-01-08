@@ -138,8 +138,8 @@ def handle_response(r):
                     if 'url' not in extra_info[room]['entities'][entity]:
                         discover("Received new terminal url for \"" + term_id +"\"")
                     resource_id = r_json['resourceId']
-                    extra_info[room]['entities'][entity]['url'] = url + "?challenge=" + term_id
-                    extra_info[room]['entities'][entity]['resource_url'] = url + "?challenge=" + term_id
+                    extra_info[room]['entities'][entity]['url'] = url + "?challenge=" + term_id + '&id=123'
+                    extra_info[room]['entities'][entity]['resource_url'] = url + "?challenge=" + term_id + '&id=123'
                     # extra_info[room]['entities'][entity]['resource_url'] = url + "?challenge=" + term_id + '&id=' + resource_id
 
     return m_type

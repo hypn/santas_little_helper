@@ -9,8 +9,8 @@
           0,
           0
         ],
-        "url": "https://elfcode.kringlecastle.com?challenge=elfcode",
-        "resource_url": "https://elfcode.kringlecastle.com?challenge=elfcode"
+        "url": "https://elfcode.kringlecastle.com?challenge=elfcode&id=123",
+        "resource_url": "https://elfcode.kringlecastle.com?challenge=elfcode&id=123"
       },
       "ribbbonbowford": {
         "name": "ribbbonbowford",
@@ -44,8 +44,8 @@
           16,
           11
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=linux",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=linux"
+        "url": "https://docker2020.kringlecon.com/?challenge=linux&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=linux&id=123"
       },
       "santashop": {
         "name": "santashop",
@@ -55,8 +55,8 @@
           18,
           11
         ],
-        "url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santashop",
-        "resource_url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santashop"
+        "url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santashop&id=123",
+        "resource_url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santashop&id=123"
       },
       "jack-courtyard": {
         "name": "jack-courtyard",
@@ -159,8 +159,8 @@
           10,
           0
         ],
-        "url": "https://dialup.kringlecastle.com/?challenge=dialup",
-        "resource_url": "https://dialup.kringlecastle.com/?challenge=dialup"
+        "url": "https://dialup.kringlecastle.com/?challenge=dialup&id=123",
+        "resource_url": "https://dialup.kringlecastle.com/?challenge=dialup&id=123"
       },
       "redis": {
         "name": "redis",
@@ -170,8 +170,8 @@
           4,
           5
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=redis",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=redis"
+        "url": "https://docker2020.kringlecon.com/?challenge=redis&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=redis&id=123"
       },
       "fitzyshortstack": {
         "name": "fitzyshortstack",
@@ -256,8 +256,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=elevator",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator"
+        "url": "https://elevator.kringlecastle.com?challenge=elevator&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator&id=123"
       }
     },
     "display_name": "Santavator",
@@ -288,8 +288,8 @@
           3,
           4
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=tmux",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=tmux"
+        "url": "https://docker2020.kringlecon.com/?challenge=tmux&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=tmux&id=123"
       },
       "shell": {
         "name": "shell",
@@ -299,8 +299,8 @@
           8,
           17
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=shell",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=shell"
+        "url": "https://docker2020.kringlecon.com/?challenge=shell&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=shell&id=123"
       },
       "awsbucket": {
         "name": "awsbucket",
@@ -310,8 +310,8 @@
           10,
           17
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=awsbucket",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=awsbucket"
+        "url": "https://docker2020.kringlecon.com/?challenge=awsbucket&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=awsbucket&id=123"
       },
       "santa-approach": {
         "name": "santa-approach",
@@ -423,8 +423,8 @@
           8,
           13
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=scapy",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=scapy"
+        "url": "https://docker2020.kringlecon.com/?challenge=scapy&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=scapy&id=123"
       },
       "canbus": {
         "name": "canbus",
@@ -434,8 +434,8 @@
           1,
           9
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=canbus",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=canbus"
+        "url": "https://docker2020.kringlecon.com/?challenge=canbus&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=canbus&id=123"
       },
       "jack": {
         "name": "jack",
@@ -496,8 +496,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=elevatorr",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=elevatorr"
+        "url": "https://elevator.kringlecastle.com?challenge=elevatorr&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevatorr&id=123"
       }
     },
     "display_name": "Santavator",
@@ -513,8 +513,8 @@
           0,
           1
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=speaker",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=speaker"
+        "url": "https://docker2020.kringlecon.com/?challenge=speaker&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=speaker&id=123"
       },
       "jack-talks": {
         "name": "jack-talks",
@@ -603,8 +603,8 @@
           1,
           0
         ],
-        "url": "https://snowball2.kringlecastle.com/?challenge=snowball",
-        "resource_url": "https://snowball2.kringlecastle.com/?challenge=snowball"
+        "url": "https://snowball2.kringlecastle.com/?challenge=snowball&id=123",
+        "resource_url": "https://snowball2.kringlecastle.com/?challenge=snowball&id=123"
       },
       "tanglecoalbox": {
         "name": "tanglecoalbox",
@@ -656,8 +656,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=elevator3",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator3"
+        "url": "https://elevator.kringlecastle.com?challenge=elevator3&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator3&id=123"
       }
     },
     "display_name": "Santavator",
@@ -721,8 +721,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=elevator4",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator4"
+        "url": "https://elevator.kringlecastle.com?challenge=elevator4&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator4&id=123"
       }
     },
     "display_name": "Santavator",
@@ -738,8 +738,8 @@
           4,
           0
         ],
-        "url": "https://present-sorter.kringlecastle.com/?challenge=regex",
-        "resource_url": "https://present-sorter.kringlecastle.com/?challenge=regex"
+        "url": "https://present-sorter.kringlecastle.com/?challenge=regex&id=123",
+        "resource_url": "https://present-sorter.kringlecastle.com/?challenge=regex&id=123"
       },
       "mintycandycane": {
         "name": "mintycandycane",
@@ -810,8 +810,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=elevator2",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator2"
+        "url": "https://elevator.kringlecastle.com?challenge=elevator2&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=elevator2&id=123"
       }
     },
     "display_name": "Santavator",
@@ -860,8 +860,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator"
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator&id=123"
       }
     },
     "display_name": "Santavator",
@@ -877,8 +877,8 @@
           0,
           0
         ],
-        "url": "https://elfcode.kringlecastle.com?challenge=santamode-elfcode",
-        "resource_url": "https://elfcode.kringlecastle.com?challenge=santamode-elfcode"
+        "url": "https://elfcode.kringlecastle.com?challenge=santamode-elfcode&id=123",
+        "resource_url": "https://elfcode.kringlecastle.com?challenge=santamode-elfcode&id=123"
       },
       "santamode-ribbbonbowford": {
         "name": "santamode-ribbbonbowford",
@@ -903,8 +903,8 @@
           16,
           11
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-linux",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-linux"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-linux&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-linux&id=123"
       },
       "santamode-santashop": {
         "name": "santamode-santashop",
@@ -914,8 +914,8 @@
           18,
           11
         ],
-        "url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santamode-santashop",
-        "resource_url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santamode-santashop"
+        "url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santamode-santashop&id=123",
+        "resource_url": "https://download.holidayhackchallenge.com/2020/santa-shop/?challenge=santamode-santashop&id=123"
       },
       "santamode-sugarplummary": {
         "name": "santamode-sugarplummary",
@@ -994,8 +994,8 @@
           10,
           0
         ],
-        "url": "https://dialup.kringlecastle.com/?challenge=santamode-dialup",
-        "resource_url": "https://dialup.kringlecastle.com/?challenge=santamode-dialup"
+        "url": "https://dialup.kringlecastle.com/?challenge=santamode-dialup&id=123",
+        "resource_url": "https://dialup.kringlecastle.com/?challenge=santamode-dialup&id=123"
       },
       "santamode-redis": {
         "name": "santamode-redis",
@@ -1005,8 +1005,8 @@
           4,
           5
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-redis",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-redis"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-redis&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-redis&id=123"
       },
       "santamode-fitzyshortstack": {
         "name": "santamode-fitzyshortstack",
@@ -1055,8 +1055,8 @@
           3,
           4
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-tmux",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-tmux"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-tmux&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-tmux&id=123"
       },
       "santamode-shell": {
         "name": "santamode-shell",
@@ -1066,8 +1066,8 @@
           8,
           17
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-shell",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-shell"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-shell&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-shell&id=123"
       },
       "santamode-awsbucket": {
         "name": "santamode-awsbucket",
@@ -1077,8 +1077,8 @@
           10,
           17
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-awsbucket",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-awsbucket"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-awsbucket&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-awsbucket&id=123"
       },
       "santamode-pepperminstix": {
         "name": "santamode-pepperminstix",
@@ -1172,8 +1172,8 @@
           8,
           13
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-scapy",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-scapy"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-scapy&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-scapy&id=123"
       },
       "santamode-arp": {
         "name": "santamode-arp",
@@ -1183,8 +1183,8 @@
           6,
           13
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-arp",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-arp"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-arp&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-arp&id=123"
       },
       "santamode-canbus": {
         "name": "santamode-canbus",
@@ -1194,8 +1194,8 @@
           1,
           9
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-canbus",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-canbus"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-canbus&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-canbus&id=123"
       },
       "candbus": {
         "name": "candbus",
@@ -1205,8 +1205,8 @@
           1,
           2
         ],
-        "url": "https://candbus.kringlecastle.com/?challenge=candbus",
-        "resource_url": "https://candbus.kringlecastle.com/?challenge=candbus"
+        "url": "https://candbus.kringlecastle.com/?challenge=candbus&id=123",
+        "resource_url": "https://candbus.kringlecastle.com/?challenge=candbus&id=123"
       },
       "santamode-alabastersnowball": {
         "name": "santamode-alabastersnowball",
@@ -1249,8 +1249,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevatorr",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevatorr"
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevatorr&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevatorr&id=123"
       }
     },
     "display_name": "Santavator",
@@ -1296,8 +1296,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator4",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator4"
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator4&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator4&id=123"
       }
     },
     "display_name": "Santavator",
@@ -1313,8 +1313,8 @@
           0,
           1
         ],
-        "url": "https://docker2020.kringlecon.com/?challenge=santamode-speaker",
-        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-speaker"
+        "url": "https://docker2020.kringlecon.com/?challenge=santamode-speaker&id=123",
+        "resource_url": "https://docker2020.kringlecon.com/?challenge=santamode-speaker&id=123"
       },
       "santamode-bushyevergreen": {
         "name": "santamode-bushyevergreen",
@@ -1394,8 +1394,8 @@
           1,
           0
         ],
-        "url": "https://snowball2.kringlecastle.com/?challenge=santamode-snowball",
-        "resource_url": "https://snowball2.kringlecastle.com/?challenge=santamode-snowball"
+        "url": "https://snowball2.kringlecastle.com/?challenge=santamode-snowball&id=123",
+        "resource_url": "https://snowball2.kringlecastle.com/?challenge=santamode-snowball&id=123"
       },
       "santamode-tanglecoalbox": {
         "name": "santamode-tanglecoalbox",
@@ -1438,8 +1438,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator3",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator3"
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator3&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator3&id=123"
       }
     },
     "display_name": "Santavator",
@@ -1455,8 +1455,8 @@
           4,
           0
         ],
-        "url": "https://present-sorter.kringlecastle.com/?challenge=santamode-regex",
-        "resource_url": "https://present-sorter.kringlecastle.com/?challenge=santamode-regex"
+        "url": "https://present-sorter.kringlecastle.com/?challenge=santamode-regex&id=123",
+        "resource_url": "https://present-sorter.kringlecastle.com/?challenge=santamode-regex&id=123"
       },
       "santamode-mintycandycane": {
         "name": "santamode-mintycandycane",
@@ -1481,8 +1481,8 @@
           2,
           2
         ],
-        "url": "https://tag-generator.kringlecastle.com/?challenge=brokentag",
-        "resource_url": "https://tag-generator.kringlecastle.com/?challenge=brokentag"
+        "url": "https://tag-generator.kringlecastle.com/?challenge=brokentag&id=123",
+        "resource_url": "https://tag-generator.kringlecastle.com/?challenge=brokentag&id=123"
       },
       "santamode-noelboetie": {
         "name": "santamode-noelboetie",
@@ -1511,8 +1511,8 @@
           -1,
           3
         ],
-        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator2",
-        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator2"
+        "url": "https://elevator.kringlecastle.com?challenge=santamode-elevator2&id=123",
+        "resource_url": "https://elevator.kringlecastle.com?challenge=santamode-elevator2&id=123"
       }
     },
     "display_name": "Santavator",
