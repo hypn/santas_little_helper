@@ -569,13 +569,13 @@ def main():
 
 def usage():
     print('Run this script with one of the following options:')
-    info("-h | --help -> print this help")
+    info("-h | --help        -> Print this help")
     info("-c | --create_data -> Generate the data file needed for teleporting and other functions")
-    info("-t | --teleport -> Teleport to a new location")
-    info("-g | --print_grid -> Print grid data for a zone")
-    info("-n | --npc-talk -> Talk to a certain NPC")
-    info("-i | --items -> List items")
-    info("-x | --terminals -> List terminals")
+    info("-t | --teleport    -> Teleport to a new location")
+    info("-g | --print_grid  -> Print grid data for a zone")
+    info("-n | --npc-talk    -> Talk to a certain NPC")
+    info("-i | --items       -> List items")
+    info("-x | --terminals   -> List terminals")
 
 def err(msg):
     print(f"{red}[-] {msg}{off}")
