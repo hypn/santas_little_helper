@@ -26,13 +26,13 @@ python3 santas_little_helper.py
 
 To use this script, fill in your email address near the top of the script (and set which KringleCon year you want to use it on - it will default to the latest Kringlecon). Run the python script (as above) and choose one of the command line options from the list below - you should use `-c` first to gather as much data as possible.
 
-    -h | --help -> print this help
-    -c | --create_data -> Generate the data file needed for teleporting and other functions
-    -t | --teleport -> Teleport to a new location
-    -g | --print_grid -> Print grid data for a zone
-    -n | --npc-talk -> Talk to a certain NPC
-    -i | --items -> List items
-
+    -h | --help        -> Print this help")
+    -c | --create_data -> Generate the data file needed for teleporting and other functions")
+    -t | --teleport    -> Teleport to a new location")
+    -g | --print_grid  -> Print grid data for a zone")
+    -n | --npc-talk    -> Talk to a certain NPC")
+    -i | --items       -> List items")
+    -x | --terminals   -> List terminals")
 
 ## Tips
 * ensure you've created the data before trying to teleport/print/talk/etc
