@@ -438,6 +438,15 @@ def npc_talk(npc):
 
 
 def npc_talk_select():
+    global npc_chatter
+    try:
+        with open(npc_chatter_file) as json_file:
+            good(f"Loading chatter dump from {npc_chatter_file}")
+            npc_chatter = json.load(json_file)
+            npc_chatter_size = len(json.dumps(npc_chatter))
+    except:
+        err(f"WARNING: No npc chatter data found in file {npc_chatter_file}. Starting from nothing")
+
     print("")
     good("Starting chatter module. Which npc would you like to talk to?")
     print(f"- dump (Dumps all NPC chats to {npc_chatter_file})")
@@ -459,14 +468,6 @@ def npc_talk_select():
     target = input("Please enter the npc shortname you would like to talk to: ")
 
     if target == "dump":
-        global npc_chatter
-        try:
-            with open(npc_chatter_file) as json_file:
-                good(f"Loading chatter dump from {npc_chatter_file}")
-                npc_chatter = json.load(json_file)
-        except:
-            err(f"WARNING: No npc chatter data found in file {npc_chatter_file}. Starting from nothing")
-
         for npc in npc_list:
             npc_talk(npc)
         with open(npc_chatter_file, 'w') as outfile:
@@ -480,6 +481,11 @@ def npc_talk_select():
         info(f"NPC: {npc_list[target]}")
         for message in npc_chatter[target]:
             print(f'- "{message}"')
+
+    if npc_chatter_size != len(json.dumps(npc_chatter)):
+        with open(npc_chatter_file, 'w') as outfile:
+            good(f"Dumping npc chatter data to {npc_chatter_file}")
+            json.dump(npc_chatter, outfile, indent=2)
 
     print("")
 
