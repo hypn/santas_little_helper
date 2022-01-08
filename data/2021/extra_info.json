@@ -1,0 +1,927 @@
+{
+  "approach": {
+    "display_name": "Castle Approach",
+    "entities": {
+      "bowninecandle": {
+        "display_name": "Bow Ninecandle",
+        "location": [
+          23,
+          12
+        ],
+        "name": "bowninecandle",
+        "type": "npc"
+      },
+      "callingbird1": {
+        "display_name": "Yeller",
+        "location": [
+          11,
+          11
+        ],
+        "name": "callingbird1",
+        "type": "npc"
+      },
+      "callingbird2": {
+        "display_name": "Seller",
+        "location": [
+          12,
+          12
+        ],
+        "name": "callingbird2",
+        "type": "npc"
+      },
+      "callingbird3": {
+        "display_name": "Quacker",
+        "location": [
+          13,
+          11
+        ],
+        "name": "callingbird3",
+        "type": "npc"
+      },
+      "callingbird4": {
+        "display_name": "Dealer",
+        "location": [
+          14,
+          12
+        ],
+        "name": "callingbird4",
+        "type": "npc"
+      },
+      "gnmap": {
+        "display_name": "Grepping for Gold",
+        "location": [
+          44,
+          5
+        ],
+        "name": "gnmap",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=gnmap",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=gnmap"
+      },
+      "greasygopherguts": {
+        "display_name": "Greasy GopherGuts",
+        "location": [
+          45,
+          5
+        ],
+        "name": "greasygopherguts",
+        "type": "npc"
+      },
+      "grimymctrollkins": {
+        "display_name": "Grimy McTrollkins",
+        "location": [
+          35,
+          2
+        ],
+        "name": "grimymctrollkins",
+        "type": "npc"
+      },
+      "ickymcgoop": {
+        "display_name": "Icky McGoop",
+        "location": [
+          28,
+          12
+        ],
+        "name": "ickymcgoop",
+        "type": "npc"
+      },
+      "jackapproach": {
+        "display_name": "Jack Frost",
+        "location": [
+          33,
+          14
+        ],
+        "name": "jackapproach",
+        "type": "npc"
+      },
+      "log4jblue": {
+        "display_name": "Bonus! Blue Log4Jack",
+        "location": [
+          24,
+          12
+        ],
+        "name": "log4jblue",
+        "resource_url": "https://log4j.kringlecon.com/?challenge=log4jblue",
+        "type": "terminal",
+        "url": "https://log4j.kringlecon.com/?challenge=log4jblue"
+      },
+      "log4jred": {
+        "display_name": "Bonus! Red Log4Jack",
+        "location": [
+          27,
+          12
+        ],
+        "name": "log4jred",
+        "resource_url": "https://log4j.kringlecon.com/?challenge=log4jred",
+        "type": "terminal",
+        "url": "https://log4j.kringlecon.com/?challenge=log4jred"
+      },
+      "logicmunchers": {
+        "display_name": "Logic Munchers",
+        "location": [
+          2,
+          4
+        ],
+        "name": "logicmunchers",
+        "resource_url": "https://logic.kringlecastle.com/?challenge=logicmunchers",
+        "type": "terminal",
+        "url": "https://logic.kringlecastle.com/?challenge=logicmunchers"
+      },
+      "noelboetie": {
+        "display_name": "Noel Boetie",
+        "location": [
+          1,
+          4
+        ],
+        "name": "noelboetie",
+        "type": "npc"
+      },
+      "santaapproach": {
+        "display_name": "Santa",
+        "location": [
+          16,
+          14
+        ],
+        "name": "santaapproach",
+        "type": "npc"
+      }
+    },
+    "grid": "                          11111111111                 1     \n                          11111111111                 1     \n                          11111111111                 1     \n                          11111111111                 1     \n                          11111111111                 1     \n                          11111111111                 1     \n                          11111111111                 1     \n                          11111111111                 1     \n                          11111111111                 1     \n                          11111111111                 1     \n            1             11111111111                 1     \n          11111           11111111111                 1     \n          11111           11111111111        1        1     \n         1111111          11111111111111111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111111111111111111111 11111111111111     \n111111111 11111 111111111111111111111111 11111111111111     \n111111  11111111111111111111111111111111111111111111111     \n111111  11111111111111111111111111111111111111111  1111     \n111111  11111111111111111111111111111111111111111  1111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111 1 111111111111111111111111111111111111     \n1111111111111111    11111111  11  111111111111111111111     \n11111111111111111 1 11111111   1  111111111111111111111     \n111111111111111111111 111111  11  1111 1111111111111111     \n111111111111111111111 1111111111111111 1111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111111111111111111111111111111111111     \n1111111111111111111111 11111111111111111111111111111111     \n                     1                                      \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            "
+  },
+  "balcony": {
+    "display_name": "Santa's Balcony",
+    "grid": "            \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n     1      \n            "
+  },
+  "courtyard": {
+    "display_name": "Courtyard",
+    "entities": {
+      "cyberus": {
+        "display_name": "Cyberus",
+        "location": [
+          10,
+          4
+        ],
+        "name": "cyberus",
+        "type": "npc"
+      },
+      "exif": {
+        "display_name": "Exif Metadata",
+        "location": [
+          18,
+          9
+        ],
+        "name": "exif",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=exif",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=exif"
+      },
+      "googlebooth": {
+        "display_name": "Google Booth",
+        "location": [
+          5,
+          5
+        ],
+        "name": "googlebooth",
+        "type": "npc"
+      },
+      "osint": {
+        "display_name": "Caramel Santaigo",
+        "location": [
+          7,
+          9
+        ],
+        "name": "osint",
+        "resource_url": "https://caramel.kringlecastle.com?challenge=osint",
+        "type": "terminal",
+        "url": "https://caramel.kringlecastle.com?challenge=osint"
+      },
+      "pineysappington": {
+        "display_name": "Piney Sappington",
+        "location": [
+          17,
+          9
+        ],
+        "name": "pineysappington",
+        "type": "npc"
+      },
+      "rsacbooth": {
+        "display_name": "RSAC Booth",
+        "location": [
+          16,
+          4
+        ],
+        "name": "rsacbooth",
+        "type": "npc"
+      },
+      "sansbooth": {
+        "display_name": "SANS.edu Booth",
+        "location": [
+          8,
+          4
+        ],
+        "name": "sansbooth",
+        "type": "npc"
+      },
+      "splunkbooth": {
+        "display_name": "Splunk Booth",
+        "location": [
+          12,
+          4
+        ],
+        "name": "splunkbooth",
+        "type": "npc"
+      },
+      "tanglecoalbox": {
+        "display_name": "Tangle Coalbox",
+        "location": [
+          6,
+          9
+        ],
+        "name": "tanglecoalbox",
+        "type": "npc"
+      }
+    },
+    "grid": "                             \n 111111111        111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n 1111111       1   11111111  \n 1111  1111 11111111  11111  \n 11111111111111111111111111  \n  111111111111111111111111   \n  111111111111111111111111   \n  11111  111111111  111111   \n  11111  111111111  111111   \n  111111111111111111111111   \n  111111111111111111111111   \n 11111111111111111111111111  \n 11111111111111111111111111  \n 111111111111 1111111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n 11111111111111111111111111  \n      1              1       \n                             "
+  },
+  "diningroom": {
+    "display_name": "Dining Room",
+    "entities": {
+      "elfcode": {
+        "display_name": "Elf Code Python",
+        "location": [
+          0,
+          0
+        ],
+        "name": "elfcode",
+        "resource_url": "https://elfcode21.kringlecastle.com?challenge=elfcode",
+        "type": "terminal",
+        "url": "https://elfcode21.kringlecastle.com?challenge=elfcode"
+      },
+      "ribbbonbowford": {
+        "display_name": "Ribb Bonbowford",
+        "location": [
+          2,
+          0
+        ],
+        "name": "ribbbonbowford",
+        "type": "npc"
+      }
+    },
+    "grid": "     1      \n  1 11111   \n    1111111 \n 111111111  \n 111111111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111   111  \n 111111111  \n 1111111111 \n 111111111  \n 111111111  \n            "
+  },
+  "entry": {
+    "display_name": "Entry",
+    "entities": {
+      "elevator": {
+        "display_name": "Santavator",
+        "location": [
+          15,
+          -1
+        ],
+        "name": "elevator",
+        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator",
+        "type": "terminal",
+        "url": "https://elevator21.kringlecastle.com?challenge=elevator"
+      },
+      "fitzyshortstack": {
+        "display_name": "Fitzy Shortstack",
+        "location": [
+          3,
+          3
+        ],
+        "name": "fitzyshortstack",
+        "type": "npc"
+      },
+      "santaentry": {
+        "display_name": "Santa",
+        "location": [
+          7,
+          -4
+        ],
+        "name": "santaentry",
+        "type": "npc"
+      },
+      "sparkleredberry": {
+        "display_name": "Sparkle Redberry",
+        "location": [
+          14,
+          1
+        ],
+        "name": "sparkleredberry",
+        "type": "npc"
+      },
+      "yara": {
+        "display_name": "Yara Analysis",
+        "location": [
+          4,
+          3
+        ],
+        "name": "yara",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=yara",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=yara"
+      }
+    },
+    "grid": "                     \n       111111        \n       1 1111        \n      11 11111       \n      11111 11       \n      11111111       \n 1  1 11111111 111   \n    1 111111111 111  \n    11111111111 111  \n 111  1111111111111  \n 111  1111111111111  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n 111111111111111111  \n11111111111111111111 \n 111111111111111111  \n 111111111111111111  \n         11          \n                     \n                     \n                     \n                     \n                     \n                     "
+  },
+  "frosttalkslobby": {
+    "display_name": "FrostFest Talks Lobby",
+    "entities": {
+      "frostavator": {
+        "display_name": "Frostavator",
+        "location": [
+          9,
+          -1
+        ],
+        "name": "frostavator",
+        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator",
+        "type": "terminal",
+        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator"
+      },
+      "pattronizer": {
+        "display_name": "Pat Tronizer",
+        "location": [
+          6,
+          4
+        ],
+        "name": "pattronizer",
+        "type": "npc"
+      }
+    },
+    "grid": "                              \n                              \n                              \n  1  1  1  1     1  1  1      \n 111 11111111111111111111     \n 111111111111111111111111     \n 111111111111111111111111     \n 111111111111111111111111     \n 111111111 111111111111111    \n 111111111 11111111111111     \n 111111111111111111111111     \n 111111111111111111111111     \n                              \n                              \n                              \n                              "
+  },
+  "frosttrack1": {
+    "display_name": "FrostFest Track 1",
+    "grid": "        \n 11111  \n 11111  \n   1    \n 11111  \n   1    \n 11111  \n 11111  \n 11111  \n   1    \n        "
+  },
+  "frosttrack2": {
+    "display_name": "FrostFest Track 2",
+    "grid": "        \n 11111  \n 11111  \n   1    \n 11111  \n   1    \n 11111  \n 11111  \n 11111  \n   1    \n        "
+  },
+  "frosttrack3": {
+    "display_name": "FrostFest Track 3",
+    "grid": "        \n 11111  \n 11111  \n   1    \n 11111  \n   1    \n 11111  \n 11111  \n 11111  \n   1    \n        "
+  },
+  "frosttrack4": {
+    "display_name": "FrostFest Track 4",
+    "grid": "        \n 11111  \n 11111  \n   1    \n 11111  \n   1    \n 11111  \n 11111  \n 11111  \n   1    \n        "
+  },
+  "frosttrack5": {
+    "display_name": "FrostFest Track 5",
+    "grid": "        \n 11111  \n 11111  \n   1    \n 11111  \n   1    \n 11111  \n 11111  \n 11111  \n   1    \n        "
+  },
+  "frosttrack6": {
+    "display_name": "FrostFest Track 6",
+    "grid": "        \n 11111  \n 11111  \n   1    \n 11111  \n   1    \n 11111  \n 11111  \n 11111  \n   1    \n        "
+  },
+  "frosttrack7": {
+    "display_name": "FrostFest Track 7",
+    "grid": "        \n 11111  \n 11111  \n   1    \n 11111  \n   1    \n 11111  \n 11111  \n 11111  \n   1    \n        "
+  },
+  "gallery": {
+    "display_name": "Jack's Studio",
+    "entities": {
+      "ingretatude": {
+        "display_name": "Ingreta Tude",
+        "location": [
+          1,
+          4
+        ],
+        "name": "ingretatude",
+        "type": "npc"
+      }
+    },
+    "grid": "          \n 11       \n 111111   \n 1111111  \n 1111111  \n   11111  \n   11111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "giftshop": {
+    "display_name": "FROST Gift Shop",
+    "entities": {
+      "jackgiftshop": {
+        "display_name": "Jack Frost",
+        "location": [
+          3,
+          4
+        ],
+        "name": "jackgiftshop",
+        "type": "npc"
+      }
+    },
+    "grid": "    1     \n    1     \n 1111111  \n 1111111  \n 1111111  \n 111 111  \n 111 111  \n 1111111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "greatroom": {
+    "display_name": "Great Room",
+    "entities": {
+      "angelcandysalt": {
+        "display_name": "Angel Candysalt",
+        "location": [
+          3,
+          7
+        ],
+        "name": "angelcandysalt",
+        "type": "npc"
+      }
+    },
+    "grid": "     1      \n 11111111   \n1111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n 111 11111  \n 11  11111  \n 111111111  \n 111111111  \n 111111111  \n 111111111  \n1111111111  \n 111111111  \n 111111111  \n            "
+  },
+  "jacksoffice": {
+    "display_name": "Jack's Office",
+    "entities": {
+      "frostavator": {
+        "display_name": "Frostavator",
+        "location": [
+          4,
+          -1
+        ],
+        "name": "frostavator",
+        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator",
+        "type": "terminal",
+        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator"
+      },
+      "rubycyster": {
+        "display_name": "Ruby Cyster",
+        "location": [
+          6,
+          7
+        ],
+        "name": "rubycyster",
+        "type": "npc"
+      }
+    },
+    "grid": "                                \n 11111           111 1111       \n 11111 111111111 111 1111       \n 11111   1111111 111  1         \n 11111 111111111 111 111        \n 11111 111111111 111 111        \n   1   111111111  1  111        \n 11111 11111111111111111        \n 11111 11111111111111111        \n 111111111    1111111111        \n 111111111    1111111111        \n 11111111111111111111111        \n 11111111111111111111111        \n 11111111111111111111111        \n                                \n                                "
+  },
+  "jacksrestroom": {
+    "display_name": "Jack's Executive Restroom",
+    "entities": {
+      "handle": {
+        "display_name": "Jason",
+        "location": [
+          3,
+          0
+        ],
+        "name": "handle",
+        "type": "npc"
+      },
+      "imds": {
+        "display_name": "IMDS Exploration",
+        "location": [
+          2,
+          3
+        ],
+        "name": "imds",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=imds",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=imds"
+      },
+      "noxiousodor": {
+        "display_name": "Noxious O. D'or",
+        "location": [
+          1,
+          3
+        ],
+        "name": "noxiousodor",
+        "type": "npc"
+      }
+    },
+    "grid": "          \n 111 1    \n 1111111  \n 1111111  \n 1  1111  \n 1  1111  \n 1111111  \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "kitchen": {
+    "display_name": "Kitchen",
+    "entities": {
+      "ltrace": {
+        "display_name": "Strace Ltrace Retrace",
+        "location": [
+          5,
+          0
+        ],
+        "name": "ltrace",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=ltrace",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=ltrace"
+      },
+      "tinselupatree": {
+        "display_name": "Tinsel Upatree",
+        "location": [
+          6,
+          0
+        ],
+        "name": "tinselupatree",
+        "type": "npc"
+      }
+    },
+    "grid": "                \n        1111    \n 11111  1111    \n 1111111111111  \n111111111111111 \n 1111111111111  \n 1111111111111  \n 1111111111111  \n                "
+  },
+  "netwars": {
+    "display_name": "NetWars",
+    "entities": {
+      "chimneyscissorsticks": {
+        "display_name": "Chimney Scissorsticks",
+        "location": [
+          0,
+          5
+        ],
+        "name": "chimneyscissorsticks",
+        "type": "npc"
+      },
+      "elevator": {
+        "display_name": "Santavator",
+        "location": [
+          13,
+          14
+        ],
+        "name": "elevator",
+        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator",
+        "type": "terminal",
+        "url": "https://elevator21.kringlecastle.com?challenge=elevator"
+      },
+      "hero": {
+        "display_name": "Holiday Hero",
+        "location": [
+          0,
+          3
+        ],
+        "name": "hero",
+        "resource_url": "https://hero.kringlecastle.com?challenge=hero",
+        "type": "terminal",
+        "url": "https://hero.kringlecastle.com?challenge=hero"
+      }
+    },
+    "grid": "                   \n 1111111111111111  \n 1111111111111111  \n 1  1111111111111  \n     111111111111  \n  11 1        111  \n  111111111111111  \n  111111111111111  \n 1111111111111111  \n 11111        111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n 1111111111111     \n 1111111111111     \n 1111111111111111  \n 1111111111111111  \n 1111111111111111  \n                   \n                   "
+  },
+  "rooftop": {
+    "display_name": "Frost Tower Rooftop",
+    "entities": {
+      "crunchysquishter": {
+        "display_name": "Crunchy Squishter",
+        "location": [
+          14,
+          9
+        ],
+        "name": "crunchysquishter",
+        "type": "npc"
+      },
+      "fpga": {
+        "display_name": "FPGA Programming",
+        "location": [
+          12,
+          9
+        ],
+        "name": "fpga",
+        "resource_url": "https://fpga.jackfrosttower.com/?challenge=fpga",
+        "type": "terminal",
+        "url": "https://fpga.jackfrosttower.com/?challenge=fpga"
+      },
+      "numbychilblain": {
+        "display_name": "Numby Chilblain",
+        "location": [
+          7,
+          9
+        ],
+        "name": "numbychilblain",
+        "type": "npc"
+      },
+      "rosemold": {
+        "display_name": "Rose Mold",
+        "location": [
+          13,
+          3
+        ],
+        "name": "rosemold",
+        "type": "npc"
+      },
+      "speakandspell": {
+        "display_name": "Speak & Spell",
+        "location": [
+          15,
+          9
+        ],
+        "name": "speakandspell",
+        "resource_url": "https://speakandspell.kringlecastle.com/?challenge=speakandspell",
+        "type": "terminal",
+        "url": "https://speakandspell.kringlecastle.com/?challenge=speakandspell"
+      }
+    },
+    "grid": "                    \n        1111111     \n        1111111     \n        1111111 1   \n        111111 111  \n        111111 111  \n      1 1111111111  \n 11111111111111111  \n 11111111111111111  \n 111111111111111    \n 1111111 1111 1     \n  111111 1111 1     \n   1111111111111    \n                    \n                    "
+  },
+  "santasoffice": {
+    "display_name": "Santa's Office",
+    "entities": {
+      "elevator": {
+        "display_name": "Santavator",
+        "location": [
+          8,
+          14
+        ],
+        "name": "elevator",
+        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator",
+        "type": "terminal",
+        "url": "https://elevator21.kringlecastle.com?challenge=elevator"
+      },
+      "evesnowshoes": {
+        "display_name": "Eve Snowshoes",
+        "location": [
+          3,
+          5
+        ],
+        "name": "evesnowshoes",
+        "type": "npc"
+      },
+      "hohono": {
+        "display_name": "HoHo ... No",
+        "location": [
+          4,
+          5
+        ],
+        "name": "hohono",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=hohono",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=hohono"
+      }
+    },
+    "grid": "                \n       1        \n  111111111111  \n 1111111111111  \n 1111111111111  \n 1    1111111   \n 1    1111 111  \n 111  11111111  \n 111  11111111  \n 1111111111111  \n 1111111111111  \n      111       \n      111       \n      111       \n      111       \n      111       \n      111       \n      111111    \n      111111    \n                \n                "
+  },
+  "shipinterior": {
+    "display_name": "The Third Kind",
+    "entities": {
+      "buttercup": {
+        "display_name": "Buttercup",
+        "location": [
+          6,
+          4
+        ],
+        "name": "buttercup",
+        "type": "npc"
+      },
+      "erinfection": {
+        "display_name": "Erin Fection",
+        "location": [
+          9,
+          3
+        ],
+        "name": "erinfection",
+        "type": "npc"
+      },
+      "icysickles": {
+        "display_name": "Icy Sickles",
+        "location": [
+          10,
+          6
+        ],
+        "name": "icysickles",
+        "type": "npc"
+      },
+      "jackship": {
+        "display_name": "Jack Frost",
+        "location": [
+          4,
+          5
+        ],
+        "name": "jackship",
+        "type": "npc"
+      },
+      "santaship": {
+        "display_name": "Santa",
+        "location": [
+          1,
+          3
+        ],
+        "name": "santaship",
+        "type": "npc"
+      }
+    },
+    "grid": "                \n    1111111     \n   111111111    \n  11111111111   \n 1 1111111 111  \n 111111 111111  \n 1111 11111111  \n 1111111111 11  \n  11111111111   \n   111111111    \n    1111111     \n       1        \n                "
+  },
+  "speakerunprep": {
+    "display_name": "Speaker UNPreparedness Room",
+    "entities": {
+      "ducky": {
+        "display_name": "Strange USB Device",
+        "location": [
+          6,
+          0
+        ],
+        "name": "ducky",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=ducky",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=ducky"
+      },
+      "morcelnougat": {
+        "display_name": "Morcel Nougat",
+        "location": [
+          5,
+          0
+        ],
+        "name": "morcelnougat",
+        "type": "npc"
+      }
+    },
+    "grid": "              \n  1111  1     \n 11111  1     \n 11111111111  \n 111111111111 \n 11111111111  \n 11111111111  \n 11111111111  \n              "
+  },
+  "staging": {
+    "display_name": "Staging",
+    "entities": {
+      "jingleringford": {
+        "display_name": "Jingle Ringford",
+        "location": [
+          7,
+          1
+        ],
+        "name": "jingleringford",
+        "type": "npc"
+      },
+      "opengate": {
+        "display_name": "Cranberry Pi Terminal",
+        "location": [
+          6,
+          0
+        ],
+        "name": "opengate",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=opengate",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=opengate"
+      },
+      "wifiDongle": {
+        "display_name": "WiFi Dongle",
+        "location": [
+          1,
+          5
+        ],
+        "name": "wifiDongle",
+        "type": "item"
+      }
+    },
+    "grid": "         \n    1    \n111111 11\n111111  1\n1111111 1\n111111111\n111111111\n111111111\n111111111\n111111111\n         \n         "
+  },
+  "stairwell1": {
+    "display_name": "Stairwell #1",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell10": {
+    "display_name": "Stairwell #10",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell11": {
+    "display_name": "Stairwell #11",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell12": {
+    "display_name": "Stairwell #12",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell13": {
+    "display_name": "Stairwell #14",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell14": {
+    "display_name": "Stairwell #15",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell15": {
+    "display_name": "Stairwell #16",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n11111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell2": {
+    "display_name": "Stairwell #2",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n11111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell3": {
+    "display_name": "Stairwell #3",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell4": {
+    "display_name": "Stairwell #4",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell5": {
+    "display_name": "Stairwell #5",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell6": {
+    "display_name": "Stairwell #6",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell7": {
+    "display_name": "Stairwell #7",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell8": {
+    "display_name": "Stairwell #8",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "stairwell9": {
+    "display_name": "Stairwell #9",
+    "grid": "  1   1    \n 1111111   \n 1111111   \n 1111111   \n 1111111   \n           "
+  },
+  "talkslobby": {
+    "display_name": "Talks Lobby",
+    "entities": {
+      "elevator": {
+        "display_name": "Santavator",
+        "location": [
+          20,
+          15
+        ],
+        "name": "elevator",
+        "resource_url": "https://elevator21.kringlecastle.com?challenge=elevator",
+        "type": "terminal",
+        "url": "https://elevator21.kringlecastle.com?challenge=elevator"
+      },
+      "ipv6": {
+        "display_name": "IPv6 Sandbox",
+        "location": [
+          21,
+          5
+        ],
+        "name": "ipv6",
+        "resource_url": "https://docker2021.kringlecon.com/?challenge=ipv6",
+        "type": "terminal",
+        "url": "https://docker2021.kringlecon.com/?challenge=ipv6"
+      },
+      "jewelloggins": {
+        "display_name": "Jewel Loggins",
+        "location": [
+          20,
+          5
+        ],
+        "name": "jewelloggins",
+        "type": "npc"
+      }
+    },
+    "grid": "   1  1  1  1  1  1  1    \n  111111111111111111111   \n 11111111111111111111111  \n 11111111111111111111111  \n111111111111111111111111  \n 11111111111111111111111  \n 11111111111111111111  1  \n 11111111111111111111  1  \n 11111111111111111111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                11111111  \n                1111      \n                1111      \n                11111111  \n                11111111  \n                          "
+  },
+  "towerlobby": {
+    "display_name": "Tower Lobby",
+    "entities": {
+      "frostavator": {
+        "display_name": "Frostavator",
+        "location": [
+          8,
+          -1
+        ],
+        "name": "frostavator",
+        "resource_url": "https://frostavator21.kringlecastle.com?challenge=frostavator",
+        "type": "terminal",
+        "url": "https://frostavator21.kringlecastle.com?challenge=frostavator"
+      },
+      "grodygoiterson": {
+        "display_name": "Grody Goiterson",
+        "location": [
+          7,
+          1
+        ],
+        "name": "grodygoiterson",
+        "type": "npc"
+      },
+      "hubrisselfington": {
+        "display_name": "Hubris Selfington",
+        "location": [
+          1,
+          9
+        ],
+        "name": "hubrisselfington",
+        "type": "npc"
+      },
+      "jacklobby": {
+        "display_name": "Jack Frost",
+        "location": [
+          9,
+          9
+        ],
+        "name": "jacklobby",
+        "type": "npc"
+      }
+    },
+    "grid": "                1     \n       111 11   1     \n 1111111 11111111111  \n 1111111 11111111111  \n 1111111111111111111  \n 1111111111111111111  \n 1111111111111111111  \n 1111111111111111111  \n        11111         \n 1111111111111111111  \n 1 1111111 111111111  \n 1  111111 111111111  \n 1111111111111111111  \n 1111111111111111111  \n 1111111111111111111  \n          1           \n                      "
+  },
+  "track1": {
+    "display_name": "KringleCon Track 1",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track2": {
+    "display_name": "KringleCon Track 2",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track3": {
+    "display_name": "KringleCon Track 3",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track4": {
+    "display_name": "KringleCon Track 4",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track5": {
+    "display_name": "KringleCon Track 5",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track6": {
+    "display_name": "KringleCon Track 6",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track7": {
+    "display_name": "KringleCon Track 7",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "shenanigans": {
+    "display_name": "__Shenanigans__",
+    "grid": "         1         \n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n                   "
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "approach": {
+    "approachentry": {
+      "name": "approachentry",
+      "real_id": "entry",
+      "x": 7,
+      "y": -3
+    },
+    "approachstaging": {
+      "name": "approachstaging",
+      "real_id": "staging",
+      "x": 16,
+      "y": 22
+    },
+    "approachtowerlobby": {
+      "name": "approachtowerlobby",
+      "real_id": "towerlobby",
+      "x": 40,
+      "y": -1
+    }
+  },
+  "balcony": {
+    "balconysantasoffice": {
+      "name": "balconysantasoffice",
+      "real_id": "santasoffice",
+      "x": 4,
+      "y": 6
+    }
+  },
+  "courtyard": {
+    "courtyarddiningroom": {
+      "name": "courtyarddiningroom",
+      "real_id": "diningroom",
+      "x": 5,
+      "y": 19
+    },
+    "courtyardgreatroom": {
+      "name": "courtyardgreatroom",
+      "real_id": "greatroom",
+      "x": 20,
+      "y": 19
+    }
+  },
+  "diningroom": {
+    "diningroomcourtyard": {
+      "name": "diningroomcourtyard",
+      "real_id": "courtyard",
+      "x": 4,
+      "y": -1
+    },
+    "diningroomentry": {
+      "name": "diningroomentry",
+      "real_id": "entry",
+      "x": 9,
+      "y": 13
+    },
+    "diningroomkitchen": {
+      "name": "diningroomkitchen",
+      "real_id": "kitchen",
+      "x": 9,
+      "y": 1
+    }
+  },
+  "entry": {
+    "entryapproach": {
+      "name": "entryapproach",
+      "real_id": "approach",
+      "x": 8,
+      "y": 13
+    },
+    "entrydiningroom": {
+      "name": "entrydiningroom",
+      "real_id": "diningroom",
+      "x": -1,
+      "y": 10
+    },
+    "entrygreatroom": {
+      "name": "entrygreatroom",
+      "real_id": "greatroom",
+      "x": 18,
+      "y": 10
+    }
+  },
+  "frosttalkslobby": {
+    "frosttalkslobbyfrosttrack1": {
+      "name": "frosttalkslobbyfrosttrack1",
+      "real_id": "frosttrack1",
+      "x": -2,
+      "y": -1
+    },
+    "frosttalkslobbyfrosttrack2": {
+      "name": "frosttalkslobbyfrosttrack2",
+      "real_id": "frosttrack2",
+      "x": 1,
+      "y": -1
+    },
+    "frosttalkslobbyfrosttrack3": {
+      "name": "frosttalkslobbyfrosttrack3",
+      "real_id": "frosttrack3",
+      "x": 4,
+      "y": -1
+    },
+    "frosttalkslobbyfrosttrack4": {
+      "name": "frosttalkslobbyfrosttrack4",
+      "real_id": "frosttrack4",
+      "x": 7,
+      "y": -1
+    },
+    "frosttalkslobbyfrosttrack5": {
+      "name": "frosttalkslobbyfrosttrack5",
+      "real_id": "frosttrack5",
+      "x": 13,
+      "y": -1
+    },
+    "frosttalkslobbyfrosttrack6": {
+      "name": "frosttalkslobbyfrosttrack6",
+      "real_id": "frosttrack6",
+      "x": 16,
+      "y": -1
+    },
+    "frosttalkslobbyfrosttrack7": {
+      "name": "frosttalkslobbyfrosttrack7",
+      "real_id": "frosttrack7",
+      "x": 19,
+      "y": -1
+    },
+    "frosttalkslobbystairwell2": {
+      "name": "frosttalkslobbystairwell2",
+      "real_id": "stairwell2",
+      "x": 21,
+      "y": 4
+    }
+  },
+  "frosttrack1": {
+    "frosttrack1frosttalkslobby": {
+      "name": "frosttrack1frosttalkslobby",
+      "real_id": "frosttalkslobby",
+      "x": 2,
+      "y": 8
+    }
+  },
+  "frosttrack2": {
+    "frosttrack2frosttalkslobby": {
+      "name": "frosttrack2frosttalkslobby",
+      "real_id": "frosttalkslobby",
+      "x": 2,
+      "y": 8
+    }
+  },
+  "frosttrack3": {
+    "frosttrack3frosttalkslobby": {
+      "name": "frosttrack3frosttalkslobby",
+      "real_id": "frosttalkslobby",
+      "x": 2,
+      "y": 8
+    }
+  },
+  "frosttrack4": {
+    "frosttrack4frosttalkslobby": {
+      "name": "frosttrack4frosttalkslobby",
+      "real_id": "frosttalkslobby",
+      "x": 2,
+      "y": 8
+    }
+  },
+  "frosttrack5": {
+    "frosttrack5frosttalkslobby": {
+      "name": "frosttrack5frosttalkslobby",
+      "real_id": "frosttalkslobby",
+      "x": 2,
+      "y": 8
+    }
+  },
+  "frosttrack6": {
+    "frosttrack6frosttalkslobby": {
+      "name": "frosttrack6frosttalkslobby",
+      "real_id": "frosttalkslobby",
+      "x": 2,
+      "y": 8
+    }
+  },
+  "frosttrack7": {
+    "frosttrack7frosttalkslobby": {
+      "name": "frosttrack7frosttalkslobby",
+      "real_id": "frosttalkslobby",
+      "x": 2,
+      "y": 8
+    }
+  },
+  "gallery": {
+    "galleryjacksoffice": {
+      "name": "galleryjacksoffice",
+      "real_id": "jacksoffice",
+      "x": 3,
+      "y": 8
+    }
+  },
+  "giftshop": {
+    "giftshopapproach": {
+      "name": "giftshopapproach",
+      "real_id": "approach",
+      "x": 3,
+      "y": 10
+    },
+    "giftshoptowerlobby": {
+      "name": "giftshoptowerlobby",
+      "real_id": "towerlobby",
+      "x": 3,
+      "y": -1
+    }
+  },
+  "greatroom": {
+    "greatroomcourtyard": {
+      "name": "greatroomcourtyard",
+      "real_id": "courtyard",
+      "x": 4,
+      "y": -1
+    },
+    "greatroomentry": {
+      "name": "greatroomentry",
+      "real_id": "entry",
+      "x": -1,
+      "y": 13
+    },
+    "greatroomkitchen": {
+      "name": "greatroomkitchen",
+      "real_id": "kitchen",
+      "x": -1,
+      "y": 1
+    }
+  },
+  "jacksoffice": {
+    "jacksofficegallery": {
+      "name": "jacksofficegallery",
+      "real_id": "gallery",
+      "x": -4,
+      "y": 4
+    },
+    "jacksofficejacksrestroom": {
+      "name": "jacksofficejacksrestroom",
+      "real_id": "jacksrestroom",
+      "x": 11,
+      "y": 4
+    },
+    "jacksofficestairwell15": {
+      "name": "jacksofficestairwell15",
+      "real_id": "stairwell15",
+      "x": 15,
+      "y": 1
+    }
+  },
+  "jacksrestroom": {
+    "jacksrestroomjacksoffice": {
+      "name": "jacksrestroomjacksoffice",
+      "real_id": "jacksoffice",
+      "x": 3,
+      "y": 8
+    }
+  },
+  "kitchen": {
+    "kitchendiningroom": {
+      "name": "kitchendiningroom",
+      "real_id": "diningroom",
+      "x": -1,
+      "y": 3
+    },
+    "kitchengreatroom": {
+      "name": "kitchengreatroom",
+      "real_id": "greatroom",
+      "x": 13,
+      "y": 3
+    }
+  },
+  "netwars": {},
+  "rooftop": {
+    "rooftopshipinterior": {
+      "name": "rooftopshipinterior",
+      "real_id": "shipinterior",
+      "x": 5,
+      "y": 5
+    },
+    "rooftopstairwell15": {
+      "name": "rooftopstairwell15",
+      "real_id": "stairwell15",
+      "x": 15,
+      "y": 2
+    }
+  },
+  "santasoffice": {
+    "santasofficebalcony": {
+      "name": "santasofficebalcony",
+      "real_id": "balcony",
+      "x": 6,
+      "y": -1
+    }
+  },
+  "shipinterior": {
+    "shipinteriorrooftop": {
+      "name": "shipinteriorrooftop",
+      "real_id": "rooftop",
+      "x": 6,
+      "y": 10
+    }
+  },
+  "speakerunprep": {
+    "speakerunpreptalkslobby": {
+      "name": "speakerunpreptalkslobby",
+      "real_id": "talkslobby",
+      "x": 11,
+      "y": 3
+    }
+  },
+  "staging": {
+    "stagingapproach": {
+      "name": "stagingapproach",
+      "real_id": "approach",
+      "x": 4,
+      "y": -1
+    }
+  },
+  "stairwell1": {
+    "stairwell2left": {
+      "name": "stairwell2left",
+      "real_id": "stairwell2",
+      "x": 5,
+      "y": -1
+    },
+    "stairwelltowerlobby": {
+      "name": "stairwelltowerlobby",
+      "real_id": "towerlobby",
+      "x": 1,
+      "y": -1
+    }
+  },
+  "stairwell10": {
+    "stairwell11left": {
+      "name": "stairwell11left",
+      "real_id": "stairwell11",
+      "x": 5,
+      "y": -1
+    },
+    "stairwell9right": {
+      "name": "stairwell9right",
+      "real_id": "stairwell9",
+      "x": 1,
+      "y": -1
+    }
+  },
+  "stairwell11": {
+    "stairwell10right": {
+      "name": "stairwell10right",
+      "real_id": "stairwell10",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell12left": {
+      "name": "stairwell12left",
+      "real_id": "stairwell12",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell12": {
+    "stairwell11right": {
+      "name": "stairwell11right",
+      "real_id": "stairwell11",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell13left": {
+      "name": "stairwell13left",
+      "real_id": "stairwell13",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell13": {
+    "stairwell12right": {
+      "name": "stairwell12right",
+      "real_id": "stairwell12",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell14left": {
+      "name": "stairwell14left",
+      "real_id": "stairwell14",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell14": {
+    "stairwell13right": {
+      "name": "stairwell13right",
+      "real_id": "stairwell13",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell15left": {
+      "name": "stairwell15left",
+      "real_id": "stairwell15",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell15": {
+    "stairwell14right": {
+      "name": "stairwell14right",
+      "real_id": "stairwell14",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell15jacksoffice": {
+      "name": "stairwell15jacksoffice",
+      "real_id": "jacksoffice",
+      "x": -1,
+      "y": 2
+    },
+    "stairwell15rooftop": {
+      "name": "stairwell15rooftop",
+      "real_id": "rooftop",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell2": {
+    "stairwell1right": {
+      "name": "stairwell1right",
+      "real_id": "stairwell1",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell2frosttalkslobby": {
+      "name": "stairwell2frosttalkslobby",
+      "real_id": "frosttalkslobby",
+      "x": -1,
+      "y": 2
+    },
+    "stairwell3left": {
+      "name": "stairwell3left",
+      "real_id": "stairwell3",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell3": {
+    "stairwell2right": {
+      "name": "stairwell2right",
+      "real_id": "stairwell2",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell4left": {
+      "name": "stairwell4left",
+      "real_id": "stairwell4",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell4": {
+    "stairwell3right": {
+      "name": "stairwell3right",
+      "real_id": "stairwell3",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell5left": {
+      "name": "stairwell5left",
+      "real_id": "stairwell5",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell5": {
+    "stairwell4right": {
+      "name": "stairwell4right",
+      "real_id": "stairwell4",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell6left": {
+      "name": "stairwell6left",
+      "real_id": "stairwell6",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell6": {
+    "stairwell5right": {
+      "name": "stairwell5right",
+      "real_id": "stairwell5",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell7left": {
+      "name": "stairwell7left",
+      "real_id": "stairwell7",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell7": {
+    "stairwell6right": {
+      "name": "stairwell6right",
+      "real_id": "stairwell6",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell8left": {
+      "name": "stairwell8left",
+      "real_id": "stairwell8",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell8": {
+    "stairwell7right": {
+      "name": "stairwell7right",
+      "real_id": "stairwell7",
+      "x": 1,
+      "y": -1
+    },
+    "stairwell9left": {
+      "name": "stairwell9left",
+      "real_id": "stairwell9",
+      "x": 5,
+      "y": -1
+    }
+  },
+  "stairwell9": {
+    "stairwell10left": {
+      "name": "stairwell10left",
+      "real_id": "stairwell10",
+      "x": 5,
+      "y": -1
+    },
+    "stairwell8right": {
+      "name": "stairwell8right",
+      "real_id": "stairwell8",
+      "x": 1,
+      "y": -1
+    }
+  },
+  "talkslobby": {
+    "talkslobbyspeakerunprep": {
+      "name": "talkslobbyspeakerunprep",
+      "real_id": "speakerunprep",
+      "x": -1,
+      "y": 3
+    },
+    "talkslobbytrack1": {
+      "name": "talkslobbytrack1",
+      "real_id": "track1",
+      "x": 2,
+      "y": -1
+    },
+    "talkslobbytrack2": {
+      "name": "talkslobbytrack2",
+      "real_id": "track2",
+      "x": 5,
+      "y": -1
+    },
+    "talkslobbytrack3": {
+      "name": "talkslobbytrack3",
+      "real_id": "track3",
+      "x": 8,
+      "y": -1
+    },
+    "talkslobbytrack4": {
+      "name": "talkslobbytrack4",
+      "real_id": "track4",
+      "x": 11,
+      "y": -1
+    },
+    "talkslobbytrack5": {
+      "name": "talkslobbytrack5",
+      "real_id": "track5",
+      "x": 14,
+      "y": -1
+    },
+    "talkslobbytrack6": {
+      "name": "talkslobbytrack6",
+      "real_id": "track6",
+      "x": 17,
+      "y": -1
+    },
+    "talkslobbytrack7": {
+      "name": "talkslobbytrack7",
+      "real_id": "track7",
+      "x": 20,
+      "y": -1
+    }
+  },
+  "towerlobby": {
+    "towerlobbygiftshop": {
+      "name": "towerlobbygiftshop",
+      "real_id": "giftshop",
+      "x": 9,
+      "y": 14
+    },
+    "towerlobbystairwell": {
+      "name": "towerlobbystairwell",
+      "real_id": "stairwell1",
+      "x": 15,
+      "y": -1
+    }
+  },
+  "track1": {
+    "track1talkslobby": {
+      "name": "track1talkslobby",
+      "real_id": "talkslobby",
+      "x": 3,
+      "y": 9
+    }
+  },
+  "track2": {
+    "track2talkslobby": {
+      "name": "track2talkslobby",
+      "real_id": "talkslobby",
+      "x": 3,
+      "y": 9
+    }
+  },
+  "track3": {
+    "track3talkslobby": {
+      "name": "track3talkslobby",
+      "real_id": "talkslobby",
+      "x": 3,
+      "y": 9
+    }
+  },
+  "track4": {
+    "track4talkslobby": {
+      "name": "track4talkslobby",
+      "real_id": "talkslobby",
+      "x": 3,
+      "y": 9
+    }
+  },
+  "track5": {
+    "track5talkslobby": {
+      "name": "track5talkslobby",
+      "real_id": "talkslobby",
+      "x": 3,
+      "y": 9
+    }
+  },
+  "track6": {
+    "track6talkslobby": {
+      "name": "track6talkslobby",
+      "real_id": "talkslobby",
+      "x": 3,
+      "y": 9
+    }
+  },
+  "track7": {
+    "track7talkslobby": {
+      "name": "track7talkslobby",
+      "real_id": "talkslobby",
+      "x": 3,
+      "y": 9
+    }
+  },
+  "shenanigans": {
+    "shenanigansapproach": {
+      "name": "shenanigansapproach",
+      "x": 9,
+      "y": -1,
+      "real_id": "approach"
+    }
+  }
+}
