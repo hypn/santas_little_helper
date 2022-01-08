@@ -440,7 +440,7 @@ def npc_talk(npc):
 def npc_talk_select():
     print("")
     good("Starting chatter module. Which npc would you like to talk to?")
-    print(f"- dump (Dumps all NPC chats to {npc_chatter_file}")
+    print(f"- dump (Dumps all NPC chats to {npc_chatter_file})")
     npc_list = {}
     for room in extra_info:
         if extra_info[room].get('entities') is None:
