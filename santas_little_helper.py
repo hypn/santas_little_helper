@@ -499,7 +499,7 @@ def list_items():
         for zone in extra_info:
             if "entities" in extra_info[zone]:
                 for entity in extra_info[zone]["entities"]:
-                    if extra_info[zone]["entities"][entity]['type'] == "item" or extra_info[zone]["entities"][entity]['display_name'] == "Treasure Chest":
+                    if extra_info[zone]["entities"][entity]['type'] == "item" or extra_info[zone]["entities"][entity]['display_name']  in ["Treasure Chest", "Hat Vending"]:
                         name = extra_info[zone]["entities"][entity]['display_name']
                         room = extra_info[zone]['display_name']
                         coords = extra_info[zone]["entities"][entity]['location']
