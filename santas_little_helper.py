@@ -348,7 +348,7 @@ def teleport():
         teleport_user(target)
 
         # check if we've been sent to "shenanigans" and if so return to starting location
-        if current_state['current_area'] == "shenanigans":
+        if current_state['current_area'] == "shenanigans" and target != "shenanigans":
             print(f"{yel}You've been moved to the \"shenanigans\" room! Moving back to {starting_loc}{off}")
             teleport_user(starting_loc)
 
