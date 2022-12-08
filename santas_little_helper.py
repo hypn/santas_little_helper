@@ -101,25 +101,26 @@ def handle_response(r):
                 discover(f"Found new portal from {current_state['current_area']} to {this_zone[exit['id']]['name']}")
     elif m_type == "SET_ENTITIES":
         for entity in r_json['entities']:
-            room = r_json['entities'][entity]['area']
-            if extra_info.get(room) is None:
-                extra_info[room] = {}
-            if extra_info[room].get('entities') is None:
-                extra_info[room]['entities'] = {}
-            if extra_info[room]['entities'].get(entity) is None:
-                extra_info[room]['entities'][entity] = {}
-                extra_info[room]['entities'][entity]['name'] = r_json['entities'][entity]['shortName']
-                extra_info[room]['entities'][entity]['display_name'] = r_json['entities'][entity]['displayName']
-                extra_info[room]['entities'][entity]['type'] = r_json['entities'][entity]['type']
-                extra_info[room]['entities'][entity]['location'] = r_json['entities'][entity]['location']
-                if extra_info[room]['entities'][entity]['type'] == 'npc':
-                    discover(f"Found new NPC named '{extra_info[room]['entities'][entity]['display_name']}'")
-                elif extra_info[room]['entities'][entity]['type'] == 'terminal':
-                    discover(f"Found new Terminal named '{extra_info[room]['entities'][entity]['display_name']}'")
-                elif extra_info[room]['entities'][entity]['type'] == 'item':
-                    discover(f"Found new Item named '{extra_info[room]['entities'][entity]['display_name']}'")
-                else:
-                    err(f"Found new unknown object named '{extra_info[room]['entities'][entity]['display_name']}'")
+            if 'area' in r_json['entities'][entity]:
+                room = r_json['entities'][entity]['area']
+                if extra_info.get(room) is None:
+                    extra_info[room] = {}
+                if extra_info[room].get('entities') is None:
+                    extra_info[room]['entities'] = {}
+                if extra_info[room]['entities'].get(entity) is None:
+                    extra_info[room]['entities'][entity] = {}
+                    extra_info[room]['entities'][entity]['name'] = r_json['entities'][entity]['shortName']
+                    extra_info[room]['entities'][entity]['display_name'] = r_json['entities'][entity]['displayName']
+                    extra_info[room]['entities'][entity]['type'] = r_json['entities'][entity]['type']
+                    extra_info[room]['entities'][entity]['location'] = r_json['entities'][entity]['location']
+                    if extra_info[room]['entities'][entity]['type'] == 'npc':
+                        discover(f"Found new NPC named '{extra_info[room]['entities'][entity]['display_name']}'")
+                    elif extra_info[room]['entities'][entity]['type'] == 'terminal':
+                        discover(f"Found new Terminal named '{extra_info[room]['entities'][entity]['display_name']}'")
+                    elif extra_info[room]['entities'][entity]['type'] == 'item':
+                        discover(f"Found new Item named '{extra_info[room]['entities'][entity]['display_name']}'")
+                    else:
+                        err(f"Found new unknown object named '{extra_info[room]['entities'][entity]['display_name']}'")
     elif m_type == "PSSST":
         for w in r_json['whisper']:
             uid = r_json['whisper'][w]['uid']
@@ -446,6 +447,8 @@ def npc_talk_select():
             npc_chatter_size = len(json.dumps(npc_chatter))
     except:
         err(f"WARNING: No npc chatter data found in file {npc_chatter_file}. Starting from nothing")
+        npc_chatter = {}
+        npc_chatter_size = 0
 
     print("")
     good("Starting chatter module. Which npc would you like to talk to?")
@@ -496,7 +499,7 @@ def list_items():
         for zone in extra_info:
             if "entities" in extra_info[zone]:
                 for entity in extra_info[zone]["entities"]:
-                    if extra_info[zone]["entities"][entity]['type'] == "item":
+                    if extra_info[zone]["entities"][entity]['type'] == "item" or extra_info[zone]["entities"][entity]['display_name'] == "Treasure Chest":
                         name = extra_info[zone]["entities"][entity]['display_name']
                         room = extra_info[zone]['display_name']
                         coords = extra_info[zone]["entities"][entity]['location']
