@@ -52,7 +52,8 @@
     "I challenge you to go on a quest to find and retrieve each of the five Rings.",
     "I'll put some initial goals in your badge for you.",
     "The holidays, and the whole world, are counting on you.",
-    "..."
+    "...",
+    "Adventurer! Hurry on into my castle. A holiday miracle has occured!"
   ],
   "northpole": [
     "I'm the North Pole!",
@@ -142,7 +143,46 @@
     "\ud83d\ude0f _My..._",
     "_Preciousesss...._",
     "_Don't worry, you are hidden. You are safe._",
-    "..."
+    "...",
+    "\ud83d\ude12_Who took you, Precious? How did they take you? Mustn't happen again._ ",
+    "\ud83d\ude42 **Oh, hello, humanses. Maybe we can offer help?**",
+    "\ud83d\ude0f **Yes... Grinchum will help the humanses.**",
+    "_We are trying to distract them from finding the rest of you, Preciouses, with talk of hints and coinses._",
+    "\ud83d\ude42 **Have you found the coffers yet? The ones at the end of hidden paths?**",
+    "\ud83d\ude0f **There's hintses in them, and coinses, they're veeerrryy special.**",
+    "\ud83d\ude42 **Just look hard, for little, bitty, speckles or other oddities.**",
+    "_Don't worry, they will not look for you, Preciouses. Shhh..._",
+    "\ud83d\ude42 **Go on, humanses. Start searching!**",
+    "\ud83d\ude16 _A second Precious is gone! Now we only have three._",
+    "\ud83e\udd28 **Why are you humanses nagging us? We are busy.** _grinchum..grinchum_",
+    "**You want to know about us? If we tell the naggy human, will it go away? Fine...**",
+    "\ud83e\udd7a **The jolly human and the elfses locked up the Preciouses, but I freed them all, and together we escaped.** ",
+    "**We fled, and we were so alone. We soon forgot the taste of Lembanh, the softness of snowflakes falling, even our name.**",
+    "**And we only wanted to eat raw fish: nigiri, maki, or shashimi. But we most likes gnawing the whole, living fish, so juicy sweet.**",
+    "**Then we saw the Sporcses, and they wanted my Preciouses all to themselves.**",
+    "**And the humanses came, but they just want coinses for their silly hats.**",
+    "**We only meant to protect you, Preciouses, from the naughty Elfses and Flobbitses and Sporcses, so we locked you away.**",
+    "\ud83d\ude0f **Now leave us alone, naggy human, we must find the two missing Preciouses.**",
+    "\ud83d\ude0f _First lost... second lost... third lost._ \ud83d\ude1f",
+    "_Where are they?_ \ud83d\ude26 _WHERE ARE THEY, preciouses?_",
+    "_No! Aaargh! Lost!_",
+    "\ud83d\ude16 **You - naggy human. Musn't bother us. \ud83d\ude31 Not its business!** _grinchum..grinchum_",
+    "\ud83e\udd7a _Four Preciouses - lost!_",
+    "\ud83d\ude2b _Noooo... grinchum..grinchum_",
+    "\ud83d\ude10 **..... naggy human doesn't _only_ want coinses and hatses.**",
+    "**...What... \ud83e\udd28has it got...**",
+    "\ud83d\ude20 **in its silly, little, badges!?**",
+    "\ud83d\ude27**Stole them... \ud83d\ude20 You STOLE them!**",
+    "\ud83d\ude21 **Raaaargh!! We will make sure naggy human never takes our last Precious!**",
+    "\ud83d\ude20 _We wants them... we needs them... Must.. have.. the Preciouses._",
+    "_They stole them from us, sneaky little humanses._",
+    "\ud83d\ude42 _No, not the humanses, they're my friends._",
+    "\ud83d\ude0f _You don't have any friends. NOBODY likes YOU. You're a liar, and a thief, and a.... grriiiiiiinch._",
+    "\ud83d\ude22 _Go away... we don't need you anymore. The humanses protect us now._",
+    "\ud83d\ude20 _Go away? I protected us. The preciouses are safe because of ME!_",
+    "\ud83d\ude42 _Leave now, and never.. come back._ \ud83d\ude03 _Leave now, and never.. come back!_",
+    "\ud83d\ude01_LEAVE NOW, AND NEVER.. COME BACK!_\ud83d\ude2c",
+    "**Friendly human, please go to jolly human's castle! Go on, we will meet you there!**"
   ],
   "morcelnougat": [
     "Hello, I'm Morcel Nougat, elf extraordinaire!",
@@ -193,7 +233,9 @@
     "Bro, you usually have good ideas, but this one is really terrible.",
     "Manipulating friends with social engineering isn't cool, Bro.",
     "Let's do it!",
-    "..."
+    "...",
+    "That Chorizo guy, Bro...",
+    "What a snob. It makes sense he wasn't invited to the pre-sale."
   ],
   "handle": [
     "Hey! It's me, Jason!",
@@ -224,7 +266,10 @@
     "I believe that if I can phrase these Suricata incantations correctly, they'll create a spell that will generate warnings.",
     "And hopefully those warnings will scare off the Snowrog!",
     "Only... I'm quite baffled. Maybe you can give it a go?",
-    "..."
+    "...",
+    "Woo hoo - you wielded Suricata magnificently! Thank you!",
+    "Now to shout the final warning of power to the Snowrog...",
+    "YOU...SHALL NOT...PASS!!!"
   ],
   "snowrog": [
     "_Fierce gusts of wind wreath about it and snow swirls in its aura_",
@@ -243,7 +288,12 @@
     "Speaking of, maybe you could help me out with cloning this repo?",
     "I've heard there's multiple methods, but I only know how to do one.",
     "If you need more help, check out the [panel of very senior DevOps experts.](https://youtu.be/vIQY_FH1SVk)",
-    "..."
+    "...",
+    "Wow - great work! Thank you!",
+    "Say, if you happen to be testing containers for security, there are some things you should think about.",
+    "Developers love to give ALL TeH PERMz so that things \"just work,\" but it can cause real problems.",
+    "It's always smart to check for excessive user and container permissions.",
+    "You never know! You might be able to interact with host processes or filesystems!"
   ],
   "alabastersnowball": [
     "Hey there! I'm Alabaster Snowball",
@@ -253,7 +303,17 @@
     "Can you please take a look and answer a few questions for me?",
     "First, we need to know where the attacker is coming from.",
     "If you haven't looked at Wireshark's *Statistics* menu, this might be a good time!",
-    "..."
+    "...",
+    "Alice? I totally expected Eve! Well how about forced browsing? What's the first URL path they found that way?",
+    "The misses will have HTTP status code `404` and, in this case, the successful guesses return `200`.",
+    "Great! Just one more challenge! It looks like they made the server pull credentials from IMDS. What URL was forced?",
+    "AWS uses a specific IP address for IMDS lookups. Searching for that in the PCAP should get you there quickly.",
+    "Fantastic! It seems simpler now that I've seen it once.  Thanks for showing me!",
+    "Hey, so maybe I can help you out a bit with the door to the mines.",
+    "First, it'd be great to bring an Elvish keyboard, but if you can't find one, I'm sure other input will do.",
+    "Instead, take a minute to read the HTML/JavaScript source and consider how the locks are processed.",
+    "Next, take a look at the `Content-Security-Policy` header. That drives how certain content is handled.",
+    "Lastly, remember that input sanitization might happen on either the client or server ends!"
   ],
   "haltandybuck": [
     "Oh hi, I'm Hal Tandybuck. And who might you be?",
@@ -261,7 +321,10 @@
     "It actually reminds me of this locked crate I had three years ago...",
     "I doubt we'll get much in the way of debug output.",
     "Think you can help me get through?",
-    "..."
+    "...",
+    "Wha - what?? You opened all the locks?!  Well then...",
+    "Did you see the nearby terminal with evidence of an XXE attack?",
+    "Maybe take a close look at that kind of thing."
   ],
   "sulfrod": [
     "Hey! You - come here!",
@@ -269,7 +332,11 @@
     "I need my terminal to be stronger, like me! ",
     "_flexes_",
     "You're gonna do that for me so I can bust into this cloud machine thing.",
-    "..."
+    "...",
+    "Ha! Now I have the ring!",
+    "This computer stuff sure is easy if you just make someone do it for you.",
+    "Wait.. the computer gave **you** the ring? Gah, whatever.",
+    "This never happened, got it? Now beat it, nerd!"
   ],
   "gertysnowburrow": [
     "Well now, look who's venturing down into the caves!",
@@ -278,7 +345,17 @@
     "And, not that I should be telling you, but I'm trying to figure out what Alabaster Snowball's done this time.",
     "Word is, he committed some secrets to [a code repo](https://haugfactory.com/asnowball/aws_scripts.git).",
     "If you're feeling so inclined, you can try and find them for me.",
-    "..."
+    "...",
+    "Say, you got it done, didn't you?",
+    "Well now, you might just be able to tackle the other AWS terminal down here.",
+    "It's a bit more involved, but you've got the credentials to get it started now.",
+    "Before you try it, you should know the difference between managed and inline policies.",
+    "Short version: inline policies apply to one identity (user, role, group), and managed policies can be attached to many identities.",
+    "There are different AWS CLI commands to interact with each kind.",
+    "Other than that, the important bit is to know a bit about cloud or IAM privilege escalation.",
+    "Sometimes attackers find access to more resources by just trying things until something works.",
+    "But if they have access to the `iam` service inside the AWS CLI, they might just be able to ask what access they have!",
+    "You can do it!"
   ],
   "jillunderpole": [
     "Umm, can I help you?",
@@ -287,7 +364,13 @@
     "Cloud? Sure, whatever you want to call it.",
     "Anyway, you're welcome to try this out, if you think you know what you're doing.",
     "You'll have to learn some basics about the AWS command line interface (CLI) to be successful though.",
-    "..."
+    "...",
+    "Wait, you got it done, didn't you?",
+    "Ok, consider me impressed. You could probably help Gerty, too.",
+    "The first trick'll be running the Trufflehog tool.",
+    "It's as good at sniffing out secrets as I am at finding mushrooms!",
+    "After that, it's just a matter of getting to the secret the tool found.",
+    "I'd bet a basket of portobellos you'll get this done!"
   ],
   "wombleycube": [
     "Hey there! I'm Wombley Cube. It's so nice to see a friendly face.",
@@ -300,7 +383,21 @@
     "Of course, have a look at my inventory!",
     "_Oh, and if you haven't noticed, I've slipped hints for defeating these Sporcs around the tunnels!_",
     "_Keep your eyes open, and you'll find all five of them. Wait, maybe it's six?_",
-    "..."
+    "...",
+    "Nice hat! I think Ed Skoudis would say the same. It looks great on you.",
+    "_So, here's what we've uncovered so far. Keep this confidential, ok?_",
+    "_Earlier, I overheard that disgruntled customer in the office saying he wanted in on the \"rug pull\"._",
+    "_If our suspicions are correct, that's why the sporcs want an invite to the presale so badly._",
+    "_Once the \"Bored Sporc Rowboat Society\" NFTs officially go on sale, the sporcs will upsell them._",
+    "_After most of the NFTs are purchased by unwitting victims, the Sporcs are going to take the money and abandon the project._",
+    "_Mission #1 is to find a way to get on that presale list to confirm our suspicions and thwart their dastardly scheme!_",
+    "_We also think there's a Ring hidden there, so drop Mission #2 on them and rescue that ring!_",
+    "Thank you for your business, dear customer!",
+    "You've done your duty, agent.",
+    "Excellent work, especially on Mission #2! I'll log this entry back at STINC HQ.",
+    "Keep doing work like this, and you'll be sitting on the STINC throne, leading the agency someday.",
+    "Nobody will know of the job you did here today, but the STINC thanks you.",
+    "I'm just being dramatic, **everyone's** gonna know how awesome you are!"
   ],
   "palzari": [
     "Hello, dear. Come down to visit your tiddly elf friend?",
@@ -309,14 +406,24 @@
     "Use this KTM to buy your darling little hats, and nothing more. If you decide to be a brat, well...",
     "I'll disappear you into the Devnull Chasm, and nobody will ever see you again. Do we have an understanding?",
     "Very good. Run along now, dear.",
-    "..."
+    "...",
+    "Tsk tsk tsk, I thought I told you to play nice?",
+    "The only reason you're not in time-out is because Luigi doesn't seem convinced that you're a little rascal.",
+    "He's not as clever as he likes to think. But once he comes around...",
+    "You better watch out, dear. And when I catch you, you better not cry. Or do, not even Santa will hear you."
   ],
   "chorizo": [
     "Do you not have the slightest inclination of who I am?",
     "How did I, Count Chorizo, Herald of Rrrrepugnance, not receive an invitation to the presale?",
     "I could purchase every one of your wares, but now you shan't have a single cent from me!",
     "I will see to it that you **nevah** do business in these warrens agayn!",
-    "..."
+    "...",
+    "_Well...I...never..._",
+    "How was a plebeian such as yourself granted access to the pre-sale?",
+    "I present thee with a proffer to purchase the NFT you've acquired for twice the price.",
+    "Hwhat? You shan't vend to me? Have you any idea who I am?",
+    "You just refused the abhorrent Count Chorizo!",
+    "I shall ensure you are **nevah** able to transact with that NFT agayn!"
   ],
   "luigi": [
     "Psst. Hey, slick - over here. Myeah.",
@@ -329,7 +436,11 @@
     "BSRS NFTs are a swell investment. They'll be worth a pretty penny, and that's a promise. ",
     "So when they're purchasable, you better snatch 'em up before the other boneheads *ahem* I mean,  eggheads do.",
     "I got a business to run. You can't buy nothin' right now, so scram. Kapeesh?",
-    "..."
+    "...",
+    "What!? How'd you get on the list? What's that? You's a double agent, and you're actually workin' for us? ",
+    "I don't know if I buy that, but you're on the list, so... myeah.",
+    "Somethin' about this ain't sittin' right with me, but there's no reversing transactions with cryptocurrency.",
+    "That NFT is yours to keep, but if I find out you're lyin' to me, Palzari's gonna pay you a visit. Kapeesh?"
   ],
   "slicmer": [
     "Don't bug me, kid. Luigi needs me to keep an eye on these offers you can't refute. ",
@@ -340,11 +451,22 @@
     "So if I spot anything that don't look right, I can let Luigi know, and Palzari will get to the bottom of it.",
     "She looks sweet, but she's actually the boss' enforcer. Have you talked to her yet? She even scares me!",
     "It sure would be fun to watch you get on her bad side. Heh heh.",
-    "..."
+    "...",
+    "Hmph... this is so **boring**...",
+    "\"This is a serious task\" he said, \"not a sporc headbutting-party\" he said.",
+    "\"Mess this up, Slicmer, and I'll tie a rock to your feet and throw you down a well!\" he said. ",
+    "I think this job was just to keep me out of his way. Luigi thinks I'm a blockhead.",
+    "Well I think _he's_ a -- Huh? Wait a minute...",
+    "Hey! Boss! I think I see somethin'!"
   ],
   "rippinproudboot": [
     "Have you managed to help Tinsel with his prison escape?",
-    "..."
+    "...",
+    "How unexpected, you were actually able to help!",
+    "Well, then I must apoligize for my dubious greeting.",
+    "Us Flobbits can't help it sometimes, it's just in our nature.",
+    "Right then, there are other Flobbits that need assistance further into the burrows.",
+    "Thank you, and off you go."
   ],
   "tinselupatree": [
     "Hiya hiya, I'm Tinsel Upatree!",
@@ -353,13 +475,24 @@
     "It takes a few seconds to start up, but then you're logged into a super secure container environment!",
     "Or maybe it isn't so secure? I've heard about container escapes, and it has me a tad worried.",
     "Do you think you could test this one for me? I'd appreciate it!",
-    "..."
+    "...",
+    "Great! Thanks so much for your help!",
+    "Now that you've helped me with this, I have time to tell you about the deployment tech I've been working on!",
+    "Continuous Integration/Continuous Deployment pipelines allow developers to iterate and innovate quickly.",
+    "With this project, once I push a commit, a GitLab runner will automatically deploy the changes to production.",
+    "WHOOPS! I didn\u2019t mean to commit that to `http://gitlab.flag.net.internal/rings-of-powder/wordpress.flag.net.internal.git`...",
+    "Unfortunately, if attackers can get in that pipeline, they can make an awful mess of things!"
   ],
   "akbowl": [
     "Huh - what? Why do you disturb Akbowl?",
     "I'm trying to get the ring in here for the Sporc Chief.",
     "Unlucky for me it's lost in this water basin thing.",
     "You will *not* get it out before Akbowl!",
-    "..."
+    "...",
+    "No! That's not yours!",
+    "This birdbath showed me images of this happening.",
+    "But I didn't believe it because nobody is better than Akbowl!",
+    "Akbowl's head is the hardest! That's what the other sporcs tell me.",
+    "I guess Akbowl's head is not the smartest."
   ]
 }
