@@ -8,6 +8,358 @@
     "Click on the badge on your avatar.  That\u2019s where you will see your Objectives, Hints, and gathered Items for the Holiday Hack Challenge.",
     "We\u2019ve also got handy links to the KringleCon talks and more there for you!",
     "Next, click on that machine to the left and create a crypto wallet for yourself. Don't lose that key!",
+    "...",
+    "Great!  Your orientation is now complete!  You can enter through the gate now.  Have FUN!!!"
+  ],
+  "chimneyscissorsticks": [
+    "You may be wondering where Frost Tower from last year went.",
+    "Well, it turns out the entire tower was a giant rocketship!",
+    "After the Frostians returned last year and brought Jack Frost to justice\u2026",
+    "The entire building launched into space, returning Jack and the Trolls to their home planet.",
+    "So that concluded last year\u2019s caper! But I hear that something is amiss this year too!",
+    "Some of my fellow elves have burrowed under the snow, and even deeper.",
+    "They\u2019ve uncovered some strange stuff down there!",
+    "You should definitely check it out!",
+    "..."
+  ],
+  "sansbooth": [
+    "Happy holidays from the best college in cybersecurity!",
+    "We have programs for bachelor's degrees, undergraduate certificates, master's degrees, and graduate certificates.",
+    "Visit [our website](https://www.sans.edu/) to learn all about the college!",
+    "..."
+  ],
+  "cyberus": [
+    "woof! woof!!",
+    "WHO SAID THAT??",
+    "I\u2019m Cyberus, the mascot of the [SANS.edu](https://www.sans.edu/) college!",
+    "Go SANS.edu Sentinels!!!!",
+    "..."
+  ],
+  "googlebooth": [
+    "Google is a proud sponsor of KringleCon and the Holiday Hack Challenge. We wish you a happy holiday hacking season.",
+    "[Meet Security Engineers at Google](https://www.youtube.com/watch?v=-6ZbrfSRWKc)",
+    "..."
+  ],
+  "santaapproach": [
+    "Welcome to the North Pole, intrepid traveler!",
+    "Wow, we had quite a storm last night!",
+    "My castle door is sealed shut behind a giant snowbank.",
+    "The Elves have decided to burrow under the snow to get everything ready for our holiday deliveries.",
+    "But there's another wrinkle: my Five Golden Rings have _gone missing_.",
+    "Without the magic of the Rings, we simply can't launch the holiday season.",
+    "My reindeer won't fly; I won't be able to zip up and down chimneys.",
+    "What's worse, without the magic Rings, I can't fit the millions of cookies in my belly!",
+    "I challenge you to go on a quest to find and retrieve each of the five Rings.",
+    "I'll put some initial goals in your badge for you.",
+    "The holidays, and the whole world, are counting on you.",
+    "..."
+  ],
+  "northpole": [
+    "I'm the North Pole!",
+    "If you have a keen eye, you may have noticed that I changed location from last year.",
+    "If you're into science, and you want to know how I managed to move, [check this out](https://www.bbc.com/news/science-environment-52550973)!",
+    "..."
+  ],
+  "garlandcandlesticks": [
+    "Hi, I'm Garland Candlesticks. Welcome to the Netwars room!",
+    "The same whimsical minds behind this event also build other games.",
+    "I mean ranges. They're cyber ranges.",
+    "And they're for training - not fun. Not even a little. \ud83d\ude04",
+    "..."
+  ],
+  "callingbird1": [
+    "GREAT JOB!",
+    "..."
+  ],
+  "callingbird3": [
+    "BEEP BEEP!",
+    "..."
+  ],
+  "callingbird2": [
+    "I managed to convince the boss to give you the best price EVER!",
+    "..."
+  ],
+  "callingbird4": [
+    "You hit the jackpot!",
+    "..."
+  ],
+  "rosemold": [
+    "I'm Rose Mold. What planet are _you_ from?",
+    "What am _I_ doing here? I could ask the same of you!",
+    "Collecting web, cloud, elfen rings...  What about onion rings?  A Sebring?",
+    "n00bs...",
+    "..."
+  ],
+  "santaentry": [
+    "Congratulations! You have foiled Grinchum's foul plan and recovered the Golden Rings!",
+    "And by the magic of the rings, Grinchum has been restored back to his true, merry self: Smilegol!",
+    "You see, all Flobbits are drawn to the Rings, but somehow, Smilegol was able to snatch them from my castle.",
+    "To anyone but me, their allure becomes irresistable the more Rings someone possesses. ",
+    "That allure eventually tarnishes the holder's Holiday Spirit, which is about *giving*, not possesing.",
+    "That's exactly what happened to Smilegol; that selfishness morphed him into Grinchum.",
+    "But thanks to you, Grinchum is no more, and the holiday season is saved!",
+    "Ho ho ho, happy holidays!",
+    "..."
+  ],
+  "smilegolentry": [
+    "I must give you my most thankful of thanks, and most sorry of sorries.",
+    "I'm not sure what happened, but I just couldn't resist the Rings' call.",
+    "But once you returned the Rings to Santa, I was no longer so spellbound.",
+    "I could think clearly again, so I shouted off that awful persona. ",
+    "And that grouchy Grinchum was gone for good. Now, I can be me again, just in time for gift giving.",
+    "This is a lesson I won't soon forget, and I certainly won't forget you.",
+    "I wish you smooth sailing on wherever your next voyage takes you!",
+    "..."
+  ],
+  "evesnowshoes": [
+    "Hello there, super helper! I'm Eve Snowshoes.",
+    "The other elves and I are *so* glad you were able to help recover the rings!",
+    "The holidays wouldn't have been the same without your hard work.",
+    "If you'd like, you can order [special swag](https://my-store-d61669.creator-spring.com/) that's *only* available to our victors!",
+    "Thank you!",
+    "..."
+  ],
+  "angelcandysalt": [
+    "Greetings North Pole savior! I'm Angel Candysalt!",
+    "A euphemism? No, that's my name. Why are people _still_  asking me that?",
+    "Anywho, thank you for everything you've done.",
+    "You'll go down in history!",
+    "..."
+  ],
+  "timpytoque": [
+    "Thank you for saving Smilegol and protecting the Rings.",
+    "You will always be a friend of the Flobbits.",
+    "..."
+  ],
+  "canary1": [
+    "_chirp_",
+    "I tot I taw a Grinchum... ",
+    "I did, I did!",
+    "_chirp chirp_",
+    "..."
+  ],
+  "grinchum": [
+    "\ud83d\ude0f _My..._",
+    "_Preciousesss...._",
+    "_Don't worry, you are hidden. You are safe._",
+    "..."
+  ],
+  "morcelnougat": [
+    "Hello, I'm Morcel Nougat, elf extraordinaire!",
+    "I was in the first group of elves that started digging into the snow.",
+    "Eventually, we burrowed deep enough that we came upon an already existing tunnel network.",
+    "As we explored it, we encountered a people that claimed to be the Flobbits.",
+    "We were all astonished, because we learn a little about the Flobbits in history class, but nobody's ever seen them.",
+    "They were part of the Great Schism hundreds of years ago that split the Munchkins and the Elves.",
+    "Not much else was known, until we met them in the tunnels! Turns out, their exodus took them to Middle Earth.",
+    "They only appear when the 5 Rings are in jeopardy. Though, the Rings weren't lost until after we started digging. Hmm...",
+    "Anyways, be careful as you venture down further. I hear something sinister is in the depths of these tunnels.",
+    "..."
+  ],
+  "canary2": [
+    "_chirp_",
+    "Did you know us canaries have a very storied history?",
+    "We were once considered fashionable, and only owned by royalty who cherished us for our beautiful songs.",
+    "Oh, and have you ever heard the saying [\"Canary in a coal mine\"](https://en.wikipedia.org/wiki/Domestic_canary)?",
+    "_chirp chirp_",
+    "..."
+  ],
+  "tanglecoalbox": [
+    "Hey there, Gumshoe. Tangle Coalbox here again.",
+    "Morcel told you all about the Flobbits, right? Well, be careful ahead.",
+    "Once thought to be the stuff of myths, the Sporcs truly are real, and as mean as they are in the stories.",
+    "Once we gained the Flobbits' trust, they taught us all about the Sporcs. They, too, were part of the Great Schism.",
+    "They were another people who split off from the colony of Frostians in Oz, though, they're more closely related to the trolls.",
+    "The Flobbits, on the other hand, are more like the Munchkins. Like the Flobbits, the Sporcs appear when the rings are at risk.",
+    "Digging far down into the ground causes them to emerge, too. Seems we created a perfect storm. Whoops!",
+    "They're definitely up to no good, and trying to get the Rings for themselves. Tread lightly, friend, and good luck!",
+    "..."
+  ],
+  "canary3": [
+    "_cough_",
+    "ello poppet!",
+    "_cough cough_",
+    "..."
+  ],
+  "brozeek": [
+    "Cro! Slicmer got me on the BSRS pre-sale!",
+    "Now all we gotta do is swap outfits, then you can go back in there as me.",
+    "Tell Slicmer you lost your wallet key, so you made a new wallet and need to add it to the list.",
+    "Then give him your wallet address, and we'll both be able to buy an NFT!",
+    "Social engineering at its finest, Cro.",
+    "..."
+  ],
+  "crozag": [
+    "Bro, you usually have good ideas, but this one is really terrible.",
+    "Manipulating friends with social engineering isn't cool, Bro.",
+    "Let's do it!",
+    "..."
+  ],
+  "handle": [
+    "Hey! It's me, Jason!",
+    "I'm not dead. I'm merely resting.",
+    "Look at my beautiful yellow plumage!",
+    "..."
+  ],
+  "sparkleredberry": [
+    "You got it - wonderful!",
+    "So hey, when you're looking at the next terminal, remember you have multiple filetypes and tools you can utilize.",
+    "Conveniently for us, we can use programs already installed on every Windows computer.",
+    "So if you brought your own Windows machine, you can save the files to it and use whatever method is your favorite.",
+    "Oh yeah! If you wanna learn more, or get stuck, I hear [Eric Pursley's talk](https://youtu.be/5NZeHYPMXAE) is about this very topic.",
+    "..."
+  ],
+  "dustygiftwrap": [
+    "Say, you did it! Thanks a million!",
+    "Now we can mix in the proper ingredients and stop attracting the Snowrog!",
+    "I'm all set now! Can you help Fitzy over there wield the exalted Suricata?",
+    "It can be a bit mystifying at first, but this [Suricata Tome](https://suricata.readthedocs.io/en/suricata-6.0.0/rules/intro.html) should help you fathom it. ",
+    "I sure hope you can make it work!",
+    "..."
+  ],
+  "fitzyshortstack": [
+    "Hm?.. Hello...",
+    "Sorry, I don't mean to be uncharaceristically short with you.",
+    "There's just this abominable Snowrog here, and I'm trying to comprehend Suricata to stop it from getting into the kitchen.",
+    "I believe that if I can phrase these Suricata incantations correctly, they'll create a spell that will generate warnings.",
+    "And hopefully those warnings will scare off the Snowrog!",
+    "Only... I'm quite baffled. Maybe you can give it a go?",
+    "..."
+  ],
+  "snowrog": [
+    "_Fierce gusts of wind wreath about it and snow swirls in its aura_",
+    "_Its frozen mane shimmers, and chilled air fogs behind it_ ",
+    "_Its left hand made of fingers of tongue-affixing icicles_",
+    "_Its right a fist like that of a densely packed snowball_",
+    "_The Snowrog focuses on you with an icy-cold glare_",
+    "_And bellows a roar more thunderous than an avalanche_",
+    "..."
+  ],
+  "bowninecandle": [
+    "Well hello! I'm Bow Ninecandle!",
+    "Have you ever used Git before? It's so neat!",
+    "It adds so much convenience to DevOps, like those times when a new person joins the team.",
+    "They can just clone the project, and start helping out right away!",
+    "Speaking of, maybe you could help me out with cloning this repo?",
+    "I've heard there's multiple methods, but I only know how to do one.",
+    "If you need more help, check out the [panel of very senior DevOps experts.](https://youtu.be/vIQY_FH1SVk)",
+    "..."
+  ],
+  "alabastersnowball": [
+    "Hey there! I'm Alabaster Snowball",
+    "And I have to say, I'm a bit distressed.",
+    "I was working with the dwarves and their Boria mines, and I found some disturbing activity!",
+    "Looking through [these artifacts](https://storage.googleapis.com/hhc22_player_assets/boriaArtifacts.zip), I think something naughty's going on.",
+    "Can you please take a look and answer a few questions for me?",
+    "First, we need to know where the attacker is coming from.",
+    "If you haven't looked at Wireshark's *Statistics* menu, this might be a good time!",
+    "..."
+  ],
+  "haltandybuck": [
+    "Oh hi, I'm Hal Tandybuck. And who might you be?",
+    "I'm hanging out by the door to the mines here because, well, I haven't figured out the locks yet.",
+    "It actually reminds me of this locked crate I had three years ago...",
+    "I doubt we'll get much in the way of debug output.",
+    "Think you can help me get through?",
+    "..."
+  ],
+  "sulfrod": [
+    "Hey! You - come here!",
+    "You look like someone who knows how to do this nerd stuff.",
+    "I need my terminal to be stronger, like me! ",
+    "_flexes_",
+    "You're gonna do that for me so I can bust into this cloud machine thing.",
+    "..."
+  ],
+  "gertysnowburrow": [
+    "Well now, look who's venturing down into the caves!",
+    "And well, who might you be, exactly?",
+    "I'm Gerty Snowburrow, if you need to know.",
+    "And, not that I should be telling you, but I'm trying to figure out what Alabaster Snowball's done this time.",
+    "Word is, he committed some secrets to [a code repo](https://haugfactory.com/asnowball/aws_scripts.git).",
+    "If you're feeling so inclined, you can try and find them for me.",
+    "..."
+  ],
+  "jillunderpole": [
+    "Umm, can I help you?",
+    "Me? I'm Jill Underpole, thank you very much.",
+    "I'm working on this here smoke terminal.",
+    "Cloud? Sure, whatever you want to call it.",
+    "Anyway, you're welcome to try this out, if you think you know what you're doing.",
+    "You'll have to learn some basics about the AWS command line interface (CLI) to be successful though.",
+    "..."
+  ],
+  "wombleycube": [
+    "Hey there! I'm Wombley Cube. It's so nice to see a friendly face.",
+    "What's an elf doing all the way down here with all these sporcs, you ask?",
+    "I'm selling snazzy, fancy-pants hats! You can buy them with Kringlecoin.",
+    "_The reason I set up shop here is to gather intel on that shady Luigi._",
+    "_I'm a member of the STINC: Santa's Team of Intelligent Naughty Catchers._",
+    "_He and his gang are up to no good, I'm sure of it. We've got a real Code Brown here._",
+    "_Purchase a hat so we look inconspicuous, and I'll clue you in on what we think they're scheming._",
+    "Of course, have a look at my inventory!",
+    "_Oh, and if you haven't noticed, I've slipped hints for defeating these Sporcs around the tunnels!_",
+    "_Keep your eyes open, and you'll find all five of them. Wait, maybe it's six?_",
+    "..."
+  ],
+  "palzari": [
+    "Hello, dear. Come down to visit your tiddly elf friend?",
+    "You two are just adorable, playing hero and braving our flaming domain.",
+    "Sure, we'll tolerate you playing here, but please behave, won't you? ",
+    "Use this KTM to buy your darling little hats, and nothing more. If you decide to be a brat, well...",
+    "I'll disappear you into the Devnull Chasm, and nobody will ever see you again. Do we have an understanding?",
+    "Very good. Run along now, dear.",
+    "..."
+  ],
+  "chorizo": [
+    "Do you not have the slightest inclination of who I am?",
+    "How did I, Count Chorizo, Herald of Rrrrepugnance, not receive an invitation to the presale?",
+    "I could purchase every one of your wares, but now you shan't have a single cent from me!",
+    "I will see to it that you **nevah** do business in these warrens agayn!",
+    "..."
+  ],
+  "luigi": [
+    "Psst. Hey, slick - over here. Myeah.",
+    "You look like a sucker *ahem* I mean, savvy. ",
+    "I got some exclusive, very rare, very valuable NFTs for sale.",
+    "But I run a KringleCoin-only business. Kapeesh?",
+    "Ever buy somethin' with cryptocurrency before?",
+    "Didn't think so, but if you wheel and deal with ya' pal Luigi here, now you can!",
+    "But we're currently in pre-sale, and you gotta be on the list.  Myeah, see?",
+    "BSRS NFTs are a swell investment. They'll be worth a pretty penny, and that's a promise. ",
+    "So when they're purchasable, you better snatch 'em up before the other boneheads *ahem* I mean,  eggheads do.",
+    "I got a business to run. You can't buy nothin' right now, so scram. Kapeesh?",
+    "..."
+  ],
+  "slicmer": [
+    "Don't bug me, kid. Luigi needs me to keep an eye on these offers you can't refute. ",
+    "The boss told me to watch them for any shifty transactions from wallets that aren't on the pre-sale list.",
+    "He said to use this Block Explo... Exploder... thing.",
+    "With this, I can see all the movement of the uh... non-fungusable tokens.",
+    "Once on the blockchain, it's there forever for the whole world to see.",
+    "So if I spot anything that don't look right, I can let Luigi know, and Palzari will get to the bottom of it.",
+    "She looks sweet, but she's actually the boss' enforcer. Have you talked to her yet? She even scares me!",
+    "It sure would be fun to watch you get on her bad side. Heh heh.",
+    "..."
+  ],
+  "rippinproudboot": [
+    "Have you managed to help Tinsel with his prison escape?",
+    "..."
+  ],
+  "tinselupatree": [
+    "Hiya hiya, I'm Tinsel Upatree!",
+    "Check me out, I'm working side-by-side with a real-life Flobbit. Epic!",
+    "Anyway, would ya' mind looking at this terminal with me?",
+    "It takes a few seconds to start up, but then you're logged into a super secure container environment!",
+    "Or maybe it isn't so secure? I've heard about container escapes, and it has me a tad worried.",
+    "Do you think you could test this one for me? I'd appreciate it!",
+    "..."
+  ],
+  "akbowl": [
+    "Huh - what? Why do you disturb Akbowl?",
+    "I'm trying to get the ring in here for the Sporc Chief.",
+    "Unlucky for me it's lost in this water basin thing.",
+    "You will *not* get it out before Akbowl!",
     "..."
   ]
 }
