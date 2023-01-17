@@ -1,0 +1,284 @@
+{
+  "staging": {
+    "stagingapproach": {
+      "name": "stagingapproach",
+      "x": 4,
+      "y": -1,
+      "real_id": "approach"
+    }
+  },
+  "approach": {
+    "approachshenanigans": {
+      "name": "approachshenanigans",
+      "x": -2,
+      "y": -13,
+      "real_id": "shenanigans"
+    },
+    "approachnetwars": {
+      "name": "approachnetwars",
+      "x": -11,
+      "y": -3,
+      "real_id": "netwars"
+    },
+    "approachentry": {
+      "name": "approachentry",
+      "x": 7,
+      "y": -3,
+      "real_id": "entry"
+    },
+    "approachunderground1": {
+      "name": "approachunderground1",
+      "x": 16,
+      "y": 3,
+      "real_id": "underground1"
+    },
+    "approachstaging": {
+      "name": "approachstaging",
+      "x": 7,
+      "y": 21,
+      "real_id": "staging"
+    }
+  },
+  "shenanigans": {
+    "shenanigansapproach": {
+      "name": "shenanigansapproach",
+      "x": 9,
+      "y": -1,
+      "real_id": "approach"
+    }
+  },
+  "netwars": {
+    "netwarsapproach": {
+      "name": "netwarsapproach",
+      "x": 5,
+      "y": 13,
+      "real_id": "approach"
+    }
+  },
+  "entry": {
+    "entryapproach": {
+      "name": "entryapproach",
+      "x": 8,
+      "y": 13,
+      "real_id": "approach"
+    }
+  },
+  "underground1": {
+    "underground1approach": {
+      "name": "underground1approach",
+      "x": 7,
+      "y": 0,
+      "real_id": "approach"
+    },
+    "underground1halloftalks": {
+      "name": "underground1halloftalks",
+      "x": 4,
+      "y": 12,
+      "real_id": "halloftalks"
+    },
+    "underground1level1": {
+      "name": "underground1level1",
+      "x": 29,
+      "y": 27,
+      "real_id": "level1"
+    },
+    "underground1level2": {
+      "name": "underground1level2",
+      "x": 6,
+      "y": 37,
+      "real_id": "level2"
+    },
+    "underground1level3": {
+      "name": "underground1level3",
+      "x": 25,
+      "y": 50,
+      "real_id": "level3"
+    },
+    "underground1level4": {
+      "name": "underground1level4",
+      "x": 5,
+      "y": 62,
+      "real_id": "level4"
+    },
+    "underground1level5": {
+      "name": "underground1level5",
+      "x": 19,
+      "y": 78,
+      "real_id": "level5"
+    }
+  },
+  "halloftalks": {
+    "halloftalkstrack7": {
+      "name": "halloftalkstrack7",
+      "x": 7,
+      "y": 0,
+      "real_id": "track7"
+    },
+    "halloftalkstrack6": {
+      "name": "halloftalkstrack6",
+      "x": 11,
+      "y": 0,
+      "real_id": "track6"
+    },
+    "halloftalkstrack5": {
+      "name": "halloftalkstrack5",
+      "x": 15,
+      "y": 0,
+      "real_id": "track5"
+    },
+    "halloftalkstrack4": {
+      "name": "halloftalkstrack4",
+      "x": 19,
+      "y": 0,
+      "real_id": "track4"
+    },
+    "halloftalkstrack3": {
+      "name": "halloftalkstrack3",
+      "x": 23,
+      "y": 0,
+      "real_id": "track3"
+    },
+    "halloftalkstrack2": {
+      "name": "halloftalkstrack2",
+      "x": 27,
+      "y": 0,
+      "real_id": "track2"
+    },
+    "halloftalkstrack1": {
+      "name": "halloftalkstrack1",
+      "x": 31,
+      "y": 0,
+      "real_id": "track1"
+    },
+    "halloftalksunderground1": {
+      "name": "halloftalksunderground1",
+      "x": 36,
+      "y": 0,
+      "real_id": "underground1"
+    }
+  },
+  "track7": {
+    "track7halloftalks": {
+      "name": "track7halloftalks",
+      "x": 3,
+      "y": 9,
+      "real_id": "halloftalks"
+    }
+  },
+  "track6": {
+    "track6halloftalks": {
+      "name": "track6halloftalks",
+      "x": 3,
+      "y": 9,
+      "real_id": "halloftalks"
+    }
+  },
+  "track5": {
+    "track5halloftalks": {
+      "name": "track5halloftalks",
+      "x": 3,
+      "y": 9,
+      "real_id": "halloftalks"
+    }
+  },
+  "track4": {
+    "track4halloftalks": {
+      "name": "track4halloftalks",
+      "x": 3,
+      "y": 9,
+      "real_id": "halloftalks"
+    }
+  },
+  "track3": {
+    "track3halloftalks": {
+      "name": "track3halloftalks",
+      "x": 3,
+      "y": 9,
+      "real_id": "halloftalks"
+    }
+  },
+  "track2": {
+    "track2halloftalks": {
+      "name": "track2halloftalks",
+      "x": 3,
+      "y": 9,
+      "real_id": "halloftalks"
+    }
+  },
+  "track1": {
+    "track1halloftalks": {
+      "name": "track1halloftalks",
+      "x": 3,
+      "y": 9,
+      "real_id": "halloftalks"
+    }
+  },
+  "level1": {
+    "level1underground1": {
+      "name": "level1underground1",
+      "x": 1,
+      "y": 0,
+      "real_id": "underground1"
+    }
+  },
+  "level2": {
+    "level2underground1": {
+      "name": "level2underground1",
+      "x": 1,
+      "y": 0,
+      "real_id": "underground1"
+    },
+    "level2elfhouse": {
+      "name": "level2elfhouse",
+      "x": 42,
+      "y": 2,
+      "real_id": "elfhouse"
+    }
+  },
+  "level3": {
+    "level3underground1": {
+      "name": "level3underground1",
+      "x": 1,
+      "y": 0,
+      "real_id": "underground1"
+    },
+    "level3fountain": {
+      "name": "level3fountain",
+      "x": 35,
+      "y": 0,
+      "real_id": "fountain"
+    }
+  },
+  "level4": {
+    "level4underground1": {
+      "name": "level4underground1",
+      "x": 18,
+      "y": 0,
+      "real_id": "underground1"
+    }
+  },
+  "level5": {
+    "level5underground1": {
+      "name": "level5underground1",
+      "x": 3,
+      "y": 4,
+      "real_id": "underground1"
+    }
+  },
+  "elfhouse": {
+    "elfhouselevel2": {
+      "name": "elfhouselevel2",
+      "x": 7,
+      "y": 0,
+      "real_id": "level2"
+    }
+  },
+  "fountain": {
+    "fountainlevel3": {
+      "name": "fountainlevel3",
+      "x": 1,
+      "y": 0,
+      "real_id": "level3"
+    }
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "staging": {
+    "entities": {
+      "orientation": {
+        "name": "orientation",
+        "display_name": "First Terminal",
+        "type": "terminal",
+        "location": [
+          6,
+          0
+        ],
+        "url": "https://hhc22-wetty.kringlecon.com/?challenge=orientation&id=123",
+        "resource_url": "https://hhc22-wetty.kringlecon.com/?challenge=orientation&id=123"
+      },
+      "atmcreate": {
+        "name": "atmcreate",
+        "display_name": "Crypto Wallet Creator",
+        "type": "terminal",
+        "location": [
+          2,
+          2
+        ],
+        "url": "https://prod-ktm-create.kringle.co.in?challenge=atmcreate&id=123",
+        "resource_url": "https://prod-ktm-create.kringle.co.in?challenge=atmcreate&id=123"
+      },
+      "jingleringford": {
+        "name": "jingleringford",
+        "display_name": "Jingle Ringford",
+        "type": "npc",
+        "location": [
+          7,
+          1
+        ]
+      }
+    },
+    "display_name": "Staging",
+    "grid": "         \n    1    \n111111 11\n111111  1\n11 1111 1\n111111111\n111111111\n111111111\n111111111\n111111111\n         \n         "
+  },
+  "approach": {
+    "entities": {
+      "atm": {
+        "name": "atm",
+        "display_name": "KringleCoin Teller Machine (KTM)",
+        "type": "terminal",
+        "location": [
+          4,
+          12
+        ],
+        "url": "https://prod-ktm.kringle.co.in?challenge=atm&id=123",
+        "resource_url": "https://prod-ktm.kringle.co.in?challenge=atm&id=123"
+      },
+      "chimneyscissorsticks": {
+        "name": "chimneyscissorsticks",
+        "display_name": "Chimney Scissorsticks",
+        "type": "npc",
+        "location": [
+          30,
+          1
+        ]
+      },
+      "sansbooth": {
+        "name": "sansbooth",
+        "display_name": "SANS.edu Booth",
+        "type": "npc",
+        "location": [
+          -11,
+          5
+        ]
+      },
+      "cyberus": {
+        "name": "cyberus",
+        "display_name": "Cyberus",
+        "type": "npc",
+        "location": [
+          -9,
+          5
+        ]
+      },
+      "googlebooth": {
+        "name": "googlebooth",
+        "display_name": "Google Booth",
+        "type": "npc",
+        "location": [
+          -13,
+          6
+        ]
+      },
+      "santaapproach": {
+        "name": "santaapproach",
+        "display_name": "Santa",
+        "type": "npc",
+        "location": [
+          7,
+          12
+        ]
+      },
+      "northpole": {
+        "name": "northpole",
+        "display_name": "North Pole",
+        "type": "npc",
+        "location": [
+          17,
+          13
+        ]
+      }
+    },
+    "display_name": "Castle Approach",
+    "grid": "111111111 11111                     111111111111                \n111111111 11                        111111111111                \n111111111 11                        111111111111                \n111111111 11                        111111111111                \n111111111 11                        111111111111                \n111111111 11                        111111111111                \n111111111 11                        111111111111                \n111111111 11                        111111111111                \n111     1 11                        111111111111                \n11        11                        111111111111                \n1    1 11111           1            111111111111                \n    11111111         11111                111111                \n111111111111         11111          111111    11                \n111111111111        1111111         1111111111                  \n11111111111111111111111111111      11111111111                  \n11111111111111111111111111111      1111111111111                \n11111111111111111111 11111 1    1   111111111111                \n111111111111111111111111111111111111111111111111                \n1111     1111111  111111111111111111111111111111                \n11  111   11111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n11111111111111111111 11 111111111111111111 11111                \n11111111111111111111 11 111111111 1111111   1111                \n111111111111111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n11111111 111111111111111111111111111111111111111                \n111111111 11111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n111111111111111111111111111111111111111111111111                \n111111111111111111111  1  1111111111111111111111                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                "
+  },
+  "shenanigans": {
+    "entities": {
+      "santamagic": {
+        "name": "santamagic",
+        "display_name": "Santa Magic",
+        "type": "terminal",
+        "location": [
+          16,
+          5
+        ],
+        "url": "https://prod-santa-magic.kringle.co.in?challenge=santamagic&id=123",
+        "resource_url": "https://prod-santa-magic.kringle.co.in?challenge=santamagic&id=123"
+      }
+    },
+    "display_name": "__Shenanigans__",
+    "grid": "         1         \n1111111111111111111\n1 111111111111111 1\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111 11\n1111111111111111 11\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n1111111111111111111\n                   "
+  },
+  "netwars": {
+    "entities": {
+      "garlandcandlesticks": {
+        "name": "garlandcandlesticks",
+        "display_name": "Garland Candlesticks",
+        "type": "npc",
+        "location": [
+          8,
+          1
+        ]
+      }
+    },
+    "display_name": "Netwars",
+    "grid": "             \n 1111111111  \n 11111111 1  \n 11111111 1  \n 1111111111  \n 1        1  \n 1111111111  \n 1111111111  \n 1111111111  \n 1        1  \n 1111111111  \n 1111111111  \n 1111111111  \n 1111111111  \n      1      \n             "
+  },
+  "entry": {
+    "entities": {
+      "callingbird1": {
+        "name": "callingbird1",
+        "display_name": "Yeller",
+        "type": "npc",
+        "location": [
+          13,
+          1
+        ]
+      },
+      "callingbird3": {
+        "name": "callingbird3",
+        "display_name": "Quacker",
+        "type": "npc",
+        "location": [
+          15,
+          1
+        ]
+      },
+      "callingbird2": {
+        "name": "callingbird2",
+        "display_name": "Seller",
+        "type": "npc",
+        "location": [
+          14,
+          2
+        ]
+      },
+      "callingbird4": {
+        "name": "callingbird4",
+        "display_name": "Dealer",
+        "type": "npc",
+        "location": [
+          16,
+          2
+        ]
+      },
+      "rosemold": {
+        "name": "rosemold",
+        "display_name": "Rose Mold",
+        "type": "npc",
+        "location": [
+          1,
+          3
+        ]
+      },
+      "santaentry": {
+        "name": "santaentry",
+        "display_name": "Santa",
+        "type": "npc",
+        "location": [
+          7,
+          3
+        ]
+      },
+      "smilegolentry": {
+        "name": "smilegolentry",
+        "display_name": "Smilegol",
+        "type": "npc",
+        "location": [
+          11,
+          4
+        ]
+      },
+      "evesnowshoes": {
+        "name": "evesnowshoes",
+        "display_name": "Eve Snowshoes",
+        "type": "npc",
+        "location": [
+          4,
+          5
+        ]
+      },
+      "angelcandysalt": {
+        "name": "angelcandysalt",
+        "display_name": "Angel Candysalt",
+        "type": "npc",
+        "location": [
+          15,
+          8
+        ]
+      },
+      "timpytoque": {
+        "name": "timpytoque",
+        "display_name": "Timpy Toque",
+        "type": "npc",
+        "location": [
+          2,
+          10
+        ]
+      }
+    },
+    "display_name": "Entry",
+    "grid": "                     \n       111111        \n       111111        \n      11111111       \n      11111111       \n      11111111       \n 1  1 11111111 111   \n    1111111111 1 11  \n    1111111111    1  \n 1 11111 111111 1    \n 1 11111 111 111111  \n 1111 111111 111111  \n 1111 1111111111111  \n 111111111111111111  \n 111111111111111 11  \n 111111111111111 11  \n 11 111111111111111  \n 11 111111111111111  \n 111111111111111111  \n         11          \n                     \n                     \n                     \n                     \n                     \n                     "
+  },
+  "underground1": {
+    "entities": {
+      "treasurechest2": {
+        "name": "treasurechest2",
+        "display_name": "Treasure Chest",
+        "type": "terminal",
+        "location": [
+          15,
+          17
+        ],
+        "url": "https://hhc22-lootbox-2.kringleconworkshop.com?challenge=treasurechest2&id=123",
+        "resource_url": "https://hhc22-lootbox-2.kringleconworkshop.com?challenge=treasurechest2&id=123"
+      },
+      "treasurechest4": {
+        "name": "treasurechest4",
+        "display_name": "Treasure Chest",
+        "type": "terminal",
+        "location": [
+          0,
+          41
+        ],
+        "url": "https://hhc22-lootbox-4.kringleconworkshop.com?challenge=treasurechest4&id=123",
+        "resource_url": "https://hhc22-lootbox-4.kringleconworkshop.com?challenge=treasurechest4&id=123"
+      },
+      "treasurechest5": {
+        "name": "treasurechest5",
+        "display_name": "Treasure Chest",
+        "type": "terminal",
+        "location": [
+          23,
+          68
+        ],
+        "url": "https://hhc22-lootbox-5.kringleconworkshop.com?challenge=treasurechest5&id=123",
+        "resource_url": "https://hhc22-lootbox-5.kringleconworkshop.com?challenge=treasurechest5&id=123"
+      },
+      "canary1": {
+        "name": "canary1",
+        "display_name": "Canary",
+        "type": "npc",
+        "location": [
+          18,
+          25
+        ]
+      },
+      "grinchum": {
+        "name": "grinchum",
+        "display_name": "Grinchum",
+        "type": "npc",
+        "location": [
+          20,
+          26
+        ]
+      },
+      "morcelnougat": {
+        "name": "morcelnougat",
+        "display_name": "Morcel Nougat",
+        "type": "npc",
+        "location": [
+          10,
+          36
+        ]
+      },
+      "canary2": {
+        "name": "canary2",
+        "display_name": "Canary",
+        "type": "npc",
+        "location": [
+          19,
+          45
+        ]
+      },
+      "tanglecoalbox": {
+        "name": "tanglecoalbox",
+        "display_name": "Tangle Coalbox",
+        "type": "npc",
+        "location": [
+          21,
+          49
+        ]
+      },
+      "canary3": {
+        "name": "canary3",
+        "display_name": "Canary",
+        "type": "npc",
+        "location": [
+          14,
+          60
+        ]
+      },
+      "brozeek": {
+        "name": "brozeek",
+        "display_name": "Brozeek",
+        "type": "npc",
+        "location": [
+          16,
+          61
+        ]
+      },
+      "crozag": {
+        "name": "crozag",
+        "display_name": "Crozag",
+        "type": "npc",
+        "location": [
+          17,
+          61
+        ]
+      },
+      "handle": {
+        "name": "handle",
+        "display_name": "Jason",
+        "type": "npc",
+        "location": [
+          21,
+          76
+        ]
+      }
+    },
+    "display_name": "Underground #1",
+    "grid": "       111                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n    11111111111111111111          \n                       1          \n                       1          \n            111111111  1          \n            1       1  1          \n            1       1  1          \n            1111    1  1          \n                    1  1          \n                    1  1          \n                    1  1          \n                 1111  1          \n                 1     1          \n                 1111111          \n                       1          \n                       1          \n             11111111111111111    \n             1                    \n             1                    \n             1                    \n             1                    \n             1                    \n             1                    \n             1                    \n             1                    \n             1                    \n      1111111111111111            \n      1              1            \n      1              1            \n      1              1            \n      1          111111           \n1111111           1               \n      1           1               \n      1          111111           \n      1              1            \n      1              1            \n      1          111111           \n      1           1               \n      1           1               \n      11111111111111111111        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n         1                        \n     1111111111111111             \n                    1             \n                    1             \n                    1             \n                    1             \n                    1             \n                    1             \n                    1  111 111 111\n                    1    1 1 1 1 1\n                    1    1 1 111 1\n                    1  111 1     1\n                    1  1   1     1\n                    1  111 1     1\n                    1    1 1     1\n                    1    111     1\n                    1            1\n                  1111111111111111"
+  },
+  "halloftalks": {
+    "entities": {
+      "treasurechest1": {
+        "name": "treasurechest1",
+        "display_name": "Treasure Chest",
+        "type": "terminal",
+        "location": [
+          0,
+          -1
+        ],
+        "url": "https://hhc22-lootbox-1.kringleconworkshop.com?challenge=treasurechest1&id=123",
+        "resource_url": "https://hhc22-lootbox-1.kringleconworkshop.com?challenge=treasurechest1&id=123"
+      }
+    },
+    "display_name": "Hall of Talks",
+    "grid": "                                     \n1111111111111111111111111111111111111\n                                     "
+  },
+  "track7": {
+    "display_name": "Track #7",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track6": {
+    "display_name": "Track #6",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track5": {
+    "display_name": "Track #5",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track4": {
+    "display_name": "Track #4",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track3": {
+    "display_name": "Track #3",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track2": {
+    "display_name": "Track #2",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "track1": {
+    "display_name": "Track #1",
+    "grid": "          \n 1111111  \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n    1     \n 1111111  \n 1111111  \n    1     \n          "
+  },
+  "level1": {
+    "entities": {
+      "wireshark": {
+        "name": "wireshark",
+        "display_name": "Wireshark Phishing",
+        "type": "terminal",
+        "location": [
+          9,
+          -1
+        ],
+        "url": "https://hhc22-wetty.kringlecon.com/?challenge=wireshark&id=123",
+        "resource_url": "https://hhc22-wetty.kringlecon.com/?challenge=wireshark&id=123"
+      },
+      "eventlogs": {
+        "name": "eventlogs",
+        "display_name": "Windows Event Logs",
+        "type": "terminal",
+        "location": [
+          17,
+          -1
+        ],
+        "url": "https://hhc22-wetty.kringlecon.com/?challenge=eventlogs&id=123",
+        "resource_url": "https://hhc22-wetty.kringlecon.com/?challenge=eventlogs&id=123"
+      },
+      "suricata": {
+        "name": "suricata",
+        "display_name": "Suricata Regatta",
+        "type": "terminal",
+        "location": [
+          26,
+          -1
+        ],
+        "url": "https://hhc22-wetty.kringlecon.com/?challenge=suricata&id=123",
+        "resource_url": "https://hhc22-wetty.kringlecon.com/?challenge=suricata&id=123"
+      },
+      "treasurechest3": {
+        "name": "treasurechest3",
+        "display_name": "Treasure Chest",
+        "type": "terminal",
+        "location": [
+          11,
+          6
+        ],
+        "url": "https://hhc22-lootbox-3.kringleconworkshop.com?challenge=treasurechest3&id=123",
+        "resource_url": "https://hhc22-lootbox-3.kringleconworkshop.com?challenge=treasurechest3&id=123"
+      },
+      "sparkleredberry": {
+        "name": "sparkleredberry",
+        "display_name": "Sparkle Redberry",
+        "type": "npc",
+        "location": [
+          8,
+          -1
+        ]
+      },
+      "dustygiftwrap": {
+        "name": "dustygiftwrap",
+        "display_name": "Dusty Giftwrap",
+        "type": "npc",
+        "location": [
+          16,
+          -1
+        ]
+      },
+      "grinchum": {
+        "name": "grinchum",
+        "display_name": "Grinchum",
+        "type": "npc",
+        "location": [
+          21,
+          -1
+        ]
+      },
+      "fitzyshortstack": {
+        "name": "fitzyshortstack",
+        "display_name": "Fitzy Shortstack",
+        "type": "npc",
+        "location": [
+          25,
+          -1
+        ]
+      },
+      "snowrog": {
+        "name": "snowrog",
+        "display_name": "Snowrog",
+        "type": "npc",
+        "location": [
+          33,
+          -1
+        ]
+      }
+    },
+    "display_name": "Tolkien Ring",
+    "grid": "                                       \n 1111111111111111111111111111 111111111\n                  1                    \n                 11                    \n                11                     \n               11                      \n              11                       \n             11                        \n           111                         \n                                       "
+  },
+  "level2": {
+    "entities": {
+      "intro": {
+        "name": "intro",
+        "display_name": "Clone with a Difference",
+        "type": "terminal",
+        "location": [
+          25,
+          3
+        ],
+        "url": "https://hhc22-wetty.kringlecon.com/?challenge=intro&id=123",
+        "resource_url": "https://hhc22-wetty.kringlecon.com/?challenge=intro&id=123"
+      },
+      "bowninecandle": {
+        "name": "bowninecandle",
+        "display_name": "Bow Ninecandle",
+        "type": "npc",
+        "location": [
+          24,
+          3
+        ]
+      }
+    },
+    "display_name": "Elfen Ring",
+    "grid": "    1                                                 \n    1                                                 \n    1                                        1        \n    1                                        1        \n    1                   11111                1        \n    1                    1                   1        \n111 111111111111111111111111111111111111111111 1111   "
+  },
+  "level3": {
+    "entities": {
+      "minedoor": {
+        "name": "minedoor",
+        "display_name": "Boria Mine Door",
+        "type": "terminal",
+        "location": [
+          34,
+          -1
+        ],
+        "url": "https://hhc22-novel.kringlecon.com?challenge=minedoor&id=123",
+        "resource_url": "https://hhc22-novel.kringlecon.com?challenge=minedoor&id=123"
+      },
+      "boriapcap": {
+        "name": "boriapcap",
+        "display_name": "Boria PCAP Mining",
+        "type": "link",
+        "location": [
+          18,
+          -1
+        ]
+      },
+      "alabastersnowball": {
+        "name": "alabastersnowball",
+        "display_name": "Alabaster Snowball",
+        "type": "npc",
+        "location": [
+          17,
+          -1
+        ]
+      },
+      "haltandybuck": {
+        "name": "haltandybuck",
+        "display_name": "Hal Tandybuck",
+        "type": "npc",
+        "location": [
+          33,
+          -1
+        ]
+      }
+    },
+    "display_name": "Web Ring",
+    "grid": "                  1                 \n 11111111111111111111111111111111111\n                                    "
+  },
+  "level4": {
+    "entities": {
+      "aws201": {
+        "name": "aws201",
+        "display_name": "AWS CLI 201",
+        "type": "terminal",
+        "location": [
+          10,
+          3
+        ],
+        "url": "https://hhc22-wetty.kringlecon.com/?challenge=aws201&id=123",
+        "resource_url": "https://hhc22-wetty.kringlecon.com/?challenge=aws201&id=123"
+      },
+      "treasurechest6": {
+        "name": "treasurechest6",
+        "display_name": "Treasure Chest",
+        "type": "terminal",
+        "location": [
+          0,
+          16
+        ],
+        "url": "https://hhc22-lootbox-6.kringleconworkshop.com?challenge=treasurechest6&id=123",
+        "resource_url": "https://hhc22-lootbox-6.kringleconworkshop.com?challenge=treasurechest6&id=123"
+      },
+      "aws101": {
+        "name": "aws101",
+        "display_name": "AWS CLI 101",
+        "type": "terminal",
+        "location": [
+          13,
+          17
+        ],
+        "url": "https://hhc22-wetty.kringlecon.com/?challenge=aws101&id=123",
+        "resource_url": "https://hhc22-wetty.kringlecon.com/?challenge=aws101&id=123"
+      },
+      "sulfrod": {
+        "name": "sulfrod",
+        "display_name": "Sulfrod",
+        "type": "npc",
+        "location": [
+          9,
+          3
+        ]
+      },
+      "gertysnowburrow": {
+        "name": "gertysnowburrow",
+        "display_name": "Gerty Snowburrow",
+        "type": "npc",
+        "location": [
+          12,
+          9
+        ]
+      },
+      "jillunderpole": {
+        "name": "jillunderpole",
+        "display_name": "Jill Underpole",
+        "type": "npc",
+        "location": [
+          14,
+          17
+        ]
+      },
+      "grinchum": {
+        "name": "grinchum",
+        "display_name": "Grinchum",
+        "type": "npc",
+        "location": [
+          9,
+          21
+        ]
+      }
+    },
+    "display_name": "Cloud Ring",
+    "grid": "                  1\n                  1\n                  1\n                  1\n       1111       1\n       1          1\n       1          1\n       1          1\n       1          1\n       1          1\n       1  11111   1\n       1  1       1\n       1  1       1\n       1  1       1\n       1  1       1\n       1  1       1\n       1  1       1\n1111   1  1       1\n   1   1 11111111 1\n   1   1       1  1\n   1   1       1  1\n   1   1       1  1\n   1111111111111111"
+  },
+  "level5": {
+    "entities": {
+      "hats": {
+        "name": "hats",
+        "display_name": "Hat Vending",
+        "type": "terminal",
+        "location": [
+          9,
+          3
+        ],
+        "url": "https://prod-hats-vending.kringle.co.in?challenge=hats&id=123",
+        "resource_url": "https://prod-hats-vending.kringle.co.in?challenge=hats&id=123"
+      },
+      "atm": {
+        "name": "atm",
+        "display_name": "KringleCoin Teller Machine (KTM)",
+        "type": "terminal",
+        "location": [
+          14,
+          3
+        ],
+        "url": "https://prod-ktm.kringle.co.in?challenge=atm&id=123",
+        "resource_url": "https://prod-ktm.kringle.co.in?challenge=atm&id=123"
+      },
+      "bsrs": {
+        "name": "bsrs",
+        "display_name": "Bored Sporc Rowboat Society",
+        "type": "terminal",
+        "location": [
+          12,
+          14
+        ],
+        "url": "https://boredsporcrowboatsociety.com/?challenge=bsrs&id=123",
+        "resource_url": "https://boredsporcrowboatsociety.com/?challenge=bsrs&id=123"
+      },
+      "browser": {
+        "name": "browser",
+        "display_name": "Blockchain Explorer",
+        "type": "terminal",
+        "location": [
+          15,
+          14
+        ],
+        "url": "https://prod-blockbrowser.kringle.co.in?challenge=browser&id=123",
+        "resource_url": "https://prod-blockbrowser.kringle.co.in?challenge=browser&id=123"
+      },
+      "grinchum": {
+        "name": "grinchum",
+        "display_name": "Grinchum",
+        "type": "npc",
+        "location": [
+          5,
+          3
+        ]
+      },
+      "wombleycube": {
+        "name": "wombleycube",
+        "display_name": "Wombley Cube",
+        "type": "npc",
+        "location": [
+          8,
+          3
+        ]
+      },
+      "palzari": {
+        "name": "palzari",
+        "display_name": "Palzari",
+        "type": "npc",
+        "location": [
+          13,
+          3
+        ]
+      },
+      "chorizo": {
+        "name": "chorizo",
+        "display_name": "Chorizo",
+        "type": "npc",
+        "location": [
+          9,
+          14
+        ]
+      },
+      "luigi": {
+        "name": "luigi",
+        "display_name": "Luigi",
+        "type": "npc",
+        "location": [
+          11,
+          14
+        ]
+      },
+      "slicmer": {
+        "name": "slicmer",
+        "display_name": "Slicmer",
+        "type": "npc",
+        "location": [
+          14,
+          14
+        ]
+      }
+    },
+    "display_name": "Burning Ring of Fire",
+    "grid": "                    \n                    \n                    \n                    \n 1111111111111111111\n 1                  \n 1                  \n 1                  \n 1                  \n 1                  \n 1                  \n 1                  \n 1                  \n 1                  \n 1                  \n 111111111111111    "
+  },
+  "elfhouse": {
+    "entities": {
+      "cicd": {
+        "name": "cicd",
+        "display_name": "Jolly CI/CD",
+        "type": "terminal",
+        "location": [
+          5,
+          -6
+        ],
+        "url": "https://hhc22-cicd.kringlecon.com?challenge=cicd&id=123",
+        "resource_url": "https://hhc22-cicd.kringlecon.com?challenge=cicd&id=123"
+      },
+      "escape": {
+        "name": "escape",
+        "display_name": "Prison Escape",
+        "type": "terminal",
+        "location": [
+          2,
+          -1
+        ],
+        "url": "https://hhc22-escapeh.kringlecon.com?challenge=escape&id=123",
+        "resource_url": "https://hhc22-escapeh.kringlecon.com?challenge=escape&id=123"
+      },
+      "grinchum": {
+        "name": "grinchum",
+        "display_name": "Grinchum",
+        "type": "npc",
+        "location": [
+          1,
+          -6
+        ]
+      },
+      "rippinproudboot": {
+        "name": "rippinproudboot",
+        "display_name": "Rippin Proudboot",
+        "type": "npc",
+        "location": [
+          6,
+          -6
+        ]
+      },
+      "tinselupatree": {
+        "name": "tinselupatree",
+        "display_name": "Tinsel Upatree",
+        "type": "npc",
+        "location": [
+          3,
+          -1
+        ]
+      }
+    },
+    "display_name": "Elf House",
+    "grid": "          \n 111111111\n         1\n         1\n         1\n         1\n 111111111\n          \n          \n          \n          \n          \n          "
+  },
+  "fountain": {
+    "entities": {
+      "mirror": {
+        "name": "mirror",
+        "display_name": "Glamtariel's Fountain",
+        "type": "link",
+        "location": [
+          6,
+          -1
+        ]
+      },
+      "akbowl": {
+        "name": "akbowl",
+        "display_name": "Akbowl",
+        "type": "npc",
+        "location": [
+          5,
+          -1
+        ]
+      },
+      "grinchum": {
+        "name": "grinchum",
+        "display_name": "Grinchum",
+        "type": "npc",
+        "location": [
+          8,
+          -1
+        ]
+      }
+    },
+    "display_name": "Fountain",
+    "grid": "      1  \n 11111111\n         "
+  }
+}
