@@ -23,7 +23,8 @@
     "Can you believe ChatNPT suggested this trip to the Geese Islands this year? I'm so thrilled!",
     "Kudos to ChatNPT, eh? The sunshine, the waves, and my surfboard \u2013 simply loving it!",
     "So, what do you have planned? Care to join me in a Linux session?",
-    "..."
+    "...",
+    "Wow, if your surfing skills are as good as your Linux skills, you could be winning competitions!"
   ],
   "boothgoogle": [
     "Google is a proud sponsor of the Holiday Hack Challenge. We wish you a happy holiday hacking season.",
@@ -90,5 +91,184 @@
     "Just remember, it's all about having fun and sharing the joy of the holiday season with each other.",
     "So, are you in? We'd really love your company in this epic snowball battle!",
     "..."
+  ],
+  "noelboetie": [
+    "Hey there, Noel Boetie speaking! I recently tried using ChatNPT to generate my penetration testing report.",
+    "It's a pretty nifty tool, but there are a few issues in the output that I've noticed.",
+    "I need some guidance in finding any errors in the way it generated the content, especially those odd hallucinations in the LLM output.",
+    "I know it's not perfect, but I'd really appreciate the extra eyes on this one.",
+    "Some of the issues might be subtle, so don't be afraid to dig deep and ask for further clarification if you're unsure.",
+    "I've heard that you folks are experts about LLM outputs and their common issues, so I trust you can help me with this.",
+    "Your input will be invaluable to me, so please feel free to share any insights or findings you may have.",
+    "I'm looking forward to working with you all and improving the quality of the ChatNPT-generated penetration testing report.",
+    "Thanks in advance for your help! I truly appreciate it! Let's make this report the best it can be!",
+    "..."
+  ],
+  "sparkleredberry": [
+    "Hey, Sparkle Redberry here! So, I've been trying to learn about Azure and the Azure CLI and it's driving me nuts.",
+    "Alabaster Snowball decided to use Azure to host some of his fancy new IT stuff on Geese Islands, and now us elves have to learn it too.",
+    "Anyway, I know it's important and everyone says it's not as difficult as it seems, but honestly it still feels like quite a challenge for me.",
+    "Alabaster sent us this [Azure CLI reference](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest) as well. It's super handy, he said. Honestly, it just confuses me even more.",
+    "If you can spare a moment, would you mind giving me a hand with this terminal? I'd be really grateful! Pretty please, with holly leaves on top!",
+    "..."
+  ],
+  "pepperminstix": [
+    "Well hello there! I'm Pepper Minstix.",
+    "Say, do you like cotton candy by any chance?",
+    "I used to own a little cotton candy maker, but I like cotton candy so much that I decided to upgrade. Behold! The _Cotton Candy Colossus 2.0_.",
+    "Can I interest you in free cotton candy? What do you say! They are absolutely amazing!",
+    "Have fun on the Geese Islands! There's still more to discover --",
+    "Like sailing your boat along the various coast lines to find new ports, catch some fish, meet new friends, or provide your expertise and assistance where needed.",
+    "After you complete all the challenges, come back here for a surprise!",
+    "..."
+  ],
+  "wunorseopenslae": [
+    "Welcome, brave souls, to the most thrilling cyber quest of the year! Ready your wits and sharpen your skills, for the digital realm awaits!",
+    "I'm Wunorse, your helper in this festive cyber journey. Whether you're a seasoned hacker or a budding cyber sleuth, you're in for an epic experience!",
+    "As we embark on this adventure, remember, every challenge is a chance to shine brighter! Let's tackle these puzzles with the joy and teamwork befitting this jolly season!",
+    "Keep your eyes peeled for clues and your spirits high. In the world of NetWars, every click can lead to wonderful discoveries!",
+    "May your codes be bug-free and your solutions creative. Let NetWars begin, and may the best cyber elf win!",
+    "Let the games begin!",
+    "..."
+  ],
+  "shiftymcshuffles": [
+    "Hey there, stranger! Fancy a game of cards? Luck's on your side today, I can feel it.",
+    "Step right up, test your wit! These cards could be your ticket to fortune.",
+    "Trust me, I've got a good eye for winners, and you've got the look of luck about you.",
+    "Plus, I'd wager you've never played this game before, as this isn't any ordinary deck of cards. It's made with [Python](https://www.tenable.com/blog/python-nan-injection).",
+    "The name of the game is to bamboozle the dealer.",
+    "So whad'ya think? Are you clever enough?",
+    "..."
+  ],
+  "wombleycubechiaroscurocity": [
+    "Wombley Cube here, welcome to Chiaroscuro City!",
+    "Have you heard about my latest project?",
+    "I've been so inspired by these wonderful islands I've decided to write a short story!",
+    "The title? It's \"The Enchanted Voyage of Santa and his Elves to the Geese Islands.\" Sounds exciting, right?",
+    "Here, have this [audiobook](https://www.holidayhackchallenge.com/2023/wombleycube_the_enchanted_voyage.mp3.zip) copy and enjoy the adventure at your convenience, my friend!",
+    "Consider it a welcome gift from yours truly, to make your holiday even more delightful.",
+    "Trust me, this captivating tale of fiction is going to take you on a magical journey you won't forget.",
+    "Oh, and I promise it will provide some great entertainment while you explore the rest of Geese Islands!",
+    "Hey, did you have a chance to listen to my [audiobook](https://www.holidayhackchallenge.com/2023/wombleycube_the_enchanted_voyage.mp3.zip) yet?",
+    "So, what did you think?",
+    "I've got a pretty suave voice, right?",
+    "..."
+  ],
+  "goosenoir": [
+    "mmooooOOOO",
+    "..."
+  ],
+  "tanglecoalbox": [
+    "Greetings, rookie. Tangle Coalbox of Kusto Detective Agency here.",
+    "I've got a network infection case on Film Noir Island that needs your expertise.",
+    "Seems like someone clicked a phishing link within a client's organization, and trouble's brewing.",
+    "I'm swamped with cases, so I need an extra pair of hands. You up for the challenge?",
+    "You'll be utilizing the Azure Data Explorer and those KQL skills of yours to investigate this incident.",
+    "Before you start, you'll need to (create a free cluster)[https://dataexplorer.azure.com/freecluster].",
+    "Keep your eyes peeled for suspicious activity, IP addresses, and patterns that'll help us crack this case wide open.",
+    "Remember, kid, time is of the essence. The sooner we can resolve this issue, the better.",
+    "If you run into any problems, just give me a holler, I've got your back.",
+    "Good hunting, and let's bring this cyber criminal to justice.",
+    "Once you've got the intel we need, report back and we'll plan our next move. Stay sharp, rookie.",
+    "..."
+  ],
+  "jewelloggins": [
+    "What are _you_ doing here, and who are you?",
+    "Me first? I'm Jewel Loggins. And I was trekking through the jungle and happened to find this place.",
+    "I liked this spot and decided to set up camp. Seeing you here is quite the surprise.",
+    "Well, because the only other person I've ever seen come here is Wombley Cube.",
+    "I thought this tram station in the middle of the jungle was strange to begin with, but then Wombley added to the intrigue.",
+    "I guess all this spy stuff is typical for him, so maybe I shouldn't think much of it. I'm sure everything's fine.",
+    "Every time he comes here, he says something to the speaker. Then, the door opens, and he rides the tram somewhere.",
+    "I gave it a try, but the door didn't open for me. Knowing Wombley, it's some kind of secret passphrase.",
+    "If you wanna see where the tram goes, I think you need to find out what that passphrase is.",
+    "Ribb Bonbowford over at Coggoggle Marina on Steampunk Island works with Wombley. Try asking if he knows.",
+    "I hope you find it. I'll be here when you get back!",
+    "..."
+  ],
+  "goosespace": [
+    "GRUNT",
+    "..."
+  ],
+  "goosesteampunk": [
+    "cluck cluck",
+    "..."
+  ],
+  "ribbbonbowford": [
+    "Hi there, could you do me a quick favor?",
+    "Can you go and check on Alabaster Snowball for me? He's at Rainraster Cliffs on Pixel Island. I heard some rumors he's been experimenting with ChatNPT again and I'm a little worried about what he's cooking up.",
+    "Thank you so much!",
+    "Please let me know what you find out. ",
+    "..."
+  ],
+  "jason": [
+    "Hi, I'm Jason!",
+    "I'm not dead.",
+    "I'm just soaking up the sun's gnarly vibes, bro!",
+    "..."
+  ],
+  "alabastersnowball": [
+    "Hey there! I'm currently a bit swamped with this Azure deployment. ",
+    "Once I'm done I'll tell you about it. It's pretty awesome!",
+    "You'll need a bit of Azure knowledge though. Sparkle Redberry can help you get up to speed on that. You can find her at the Rudolph's Rest Resort on Christmas Island.",
+    "..."
+  ],
+  "pineysappington": [
+    "Hey there, friend! Piney Sappington here.",
+    "You look like someone who's good with puzzles and games.",
+    "I could really use your help with this Elf Hunt game I'm stuck on.",
+    "I think it has something to do with manipulating JWTs, but I'm a bit lost.",
+    "If you help me out, I might share some juicy secrets I've discovered.",
+    "Let's just say things around here haven't been exactly... normal.",
+    "So, what do ya say? Are you in?",
+    "Oh, brilliant! I just know we'll crack this game together.",
+    "I can't wait to see what we uncover, and remember, mum's the word!",
+    "Thanks a bunch! Keep your eyes open and your ears to the ground.",
+    "..."
+  ],
+  "goosepixel": [
+    "hisssss",
+    "..."
+  ],
+  "poinsettiamcmittens": [
+    "Excuse me, but you're interrupting my fishing serenity. Oh, you'd like to know how to become as good at fishing as I am?",
+    "Well, first of all, thank you for noticing my flair for fishing. It's not just about looking good beside the lake, you know.",
+    "The key is in the details, much like crafting the perfect toy. Observe the water, the weather, and the fish\u2019s habits - it's a science and an art.",
+    "Of course, it helps to have a natural charm. Fish seem to find me irresistible. Must be my sparkling personality... or maybe it's just the glitter of my allure.",
+    "Oh, the mysteries of the aquatic life around these islands are as elusive as, well, a clever compliment. But you'll get one if you probe enough.",
+    "Remember, patience is more than a virtue in fishing; it\u2019s a strategy. Like waiting for the right time to use flattery, you wait for the right moment to strike.",
+    "Go see if you can catch, say, 20 different types of fish!",
+    "..."
+  ],
+  "goosemisfit": [
+    "Beep beep",
+    "..."
+  ],
+  "garlandcandlesticks": [
+    "Hey there, I'm Garland Candlesticks! I could really use your help with something.",
+    "You see, I have this important pamphlet in my luggage, but I just can't remember the combination to open it!",
+    "Chris Elgee gave a talk recently that might help me with this problem. Did you attend that?",
+    "I seem to recall Chris mentioning a technique to figure out the combinations...",
+    "I have faith in you! We'll get that luggage open in no time.",
+    "This pamphlet is crucial for me, so I can't thank you enough for your assistance.",
+    "Once we retrieve it, I promise to treat you to a frosty snack on me!",
+    "..."
+  ],
+  "dustygiftwrap": [
+    "Arrr, matey, shiver me timbers! There be buried treasure herrrrre.",
+    "Just kidding, I'm not really a pirate, I was just hoping it would make finding the treasure easier.",
+    "I guess you heard about the fabled buried treasure, too? I didn't expect to see anyone else here. This uncharted islet was hard to find.",
+    "There are 3 buried treasures in total, each in its own uncharted area around Geese Islands.",
+    "I've been searching for hours now with no luck, and these strange toys are starting to give me the creeps.",
+    "Maybe you'll be able to find it. Here, use my Gameboy Cartridge Detector. Go into your items and test it to make sure it's still working.",
+    "When you get close to the treasure, it'll start sounding off. The closer you get, the louder the sound.",
+    "No need to activate or fiddle with it. It just works!",
+    "I bet one of these creepy toys has the treasure, and I'm sure not going anywhere near them!",
+    "If you find the treasure, come back and show me, and I'll tell you what I was able to research about it.",
+    "Good luck!",
+    "...",
+    "Whoa, you found it!",
+    "It's a... video game cartridge? Coooooollll... I mean, arrrrrr....",
+    "So, here's what my research uncovered. Not sure what it all means, maybe you can make sense of it."
   ]
 }

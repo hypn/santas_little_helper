@@ -7,5 +7,88 @@
       "real_id": "timeout"
     }
   },
-  "timeout": {}
+  "timeout": {},
+  "ci-rudolphsrest": {
+    "ci-rudolphsrestci-sandcastle_lobby": {
+      "name": "ci-rudolphsrestci-sandcastle_lobby",
+      "x": 24,
+      "y": 10,
+      "real_id": "ci-sandcastle_lobby"
+    },
+    "boat": {
+      "name": "boat",
+      "x": 48,
+      "y": 44,
+      "real_id": "timeout"
+    }
+  },
+  "ci-sandcastle_lobby": {
+    "ci-sandcastle_lobbynetwars": {
+      "name": "ci-sandcastle_lobbynetwars",
+      "x": 24,
+      "y": 14,
+      "real_id": "netwars"
+    },
+    "ci-sandcastle_lobbyci-rudolphsrest": {
+      "name": "ci-sandcastle_lobbyci-rudolphsrest",
+      "x": 40,
+      "y": 18,
+      "real_id": "ci-rudolphsrest"
+    }
+  },
+  "netwars": {
+    "netwarsci-sandcastle_lobby": {
+      "name": "netwarsci-sandcastle_lobby",
+      "x": 5,
+      "y": 13,
+      "real_id": "ci-sandcastle_lobby"
+    }
+  },
+  "fni-chiaroscurocity": {
+    "fni-chiaroscurocityfni-gumshoealleypioffice": {
+      "name": "fni-chiaroscurocityfni-gumshoealleypioffice",
+      "x": 13,
+      "y": 6,
+      "real_id": "fni-gumshoealleypioffice"
+    },
+    "boat": {
+      "name": "boat",
+      "x": 52,
+      "y": 68,
+      "real_id": "timeout"
+    }
+  },
+  "fni-gumshoealleypioffice": {
+    "fni-gumshoealleypiofficefni-chiaroscurocity": {
+      "name": "fni-gumshoealleypiofficefni-chiaroscurocity",
+      "x": 6,
+      "y": 8,
+      "real_id": "fni-chiaroscurocity"
+    }
+  },
+  "spi-coggogglemarina": {
+    "boat": {
+      "name": "boat",
+      "x": 24,
+      "y": 5,
+      "real_id": "timeout"
+    }
+  },
+  "pi-rainrastercliffs": {},
+  "imt-tarnishedtrove": {
+    "boat": {
+      "name": "boat",
+      "x": 53,
+      "y": 93,
+      "real_id": "timeout"
+    }
+  },
+  "imt-squarewheelyard": {
+    "boat": {
+      "name": "boat",
+      "x": 59,
+      "y": 0,
+      "real_id": "timeout"
+    }
+  }
 }
