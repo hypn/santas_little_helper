@@ -1,0 +1,11 @@
+{
+  "staging": {
+    "boat": {
+      "name": "boat",
+      "x": 5,
+      "y": 25,
+      "real_id": "timeout"
+    }
+  },
+  "timeout": {}
+}

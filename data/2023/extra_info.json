@@ -1,0 +1,41 @@
+{
+  "staging": {
+    "entities": {
+      "orientation": {
+        "name": "orientation",
+        "display_name": "First Terminal",
+        "type": "terminal",
+        "location": [
+          7,
+          12
+        ],
+        "url": "https://hhc23-wetty.holidayhackchallenge.com?challenge=orientation&id=123",
+        "resource_url": "https://hhc23-wetty.holidayhackchallenge.com?challenge=orientation&id=123"
+      },
+      "jingleringford": {
+        "name": "jingleringford",
+        "display_name": "Jingle Ringford",
+        "type": "npc",
+        "location": [
+          8,
+          13
+        ]
+      },
+      "fishingpole": {
+        "name": "fishingpole",
+        "display_name": "Fishing Pole",
+        "type": "item",
+        "location": [
+          12,
+          14
+        ]
+      }
+    },
+    "display_name": "Orientation",
+    "grid": "      1111111         \n     111111111        \n     11 111 11        \n     111111111        \n                      \n     111111111        \n     111111111        \n     111111111        \n     111111111        \n    11111111111       \n   1111111111111      \n  111 11111111111     \n 11   1111 1 11111    \n 1     111  111111    \n 1111111111 111111    \n 11111 11111111111    \n  111   111  1111     \n        111           \n        111           \n        111           \n        111           \n        111           \n        111           \n        111           \n        111           \n        111           \n        111           \n        111           "
+  },
+  "timeout": {
+    "display_name": "Timeout",
+    "grid": "        \n 1111111\n 1111111\n 1111111\n 1111111\n 1111111\n 1111111\n 1111111"
+  }
+}
