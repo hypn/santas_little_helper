@@ -112,7 +112,7 @@ def handle_response(r):
                 if extra_info[room]['entities'].get(entity) is None:
                     extra_info[room]['entities'][entity] = {}
                     extra_info[room]['entities'][entity]['name'] = r_json['entities'][entity]['shortName']
-                    extra_info[room]['entities'][entity]['display_name'] = r_json['entities'][entity]['displayName']
+                    extra_info[room]['entities'][entity]['display_name'] = r_json['entities'][entity].get("displayName", extra_info[room]['entities'][entity]['name'])
                     extra_info[room]['entities'][entity]['type'] = r_json['entities'][entity]['type']
                     extra_info[room]['entities'][entity]['location'] = r_json['entities'][entity]['location']
                     if extra_info[room]['entities'][entity]['type'] == 'npc':
