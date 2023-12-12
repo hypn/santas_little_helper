@@ -75,7 +75,11 @@
     "And it's all thanks to a little nudge from ChatNPT.",
     "Now, why not start off your vacation with a snowball fight with Morcel, or check out my surf shack on the other end of the beach?",
     "However you decide to relax, be sure to soak in all the whimsical beauty of these magical islands, and enjoy the activities to the fullest!",
-    "..."
+    "...",
+    "Congratulations! You are a true snowball fight champion and thank you so much for helping out Ginger Breddie!",
+    "Oh, it feels like the warm and gentle winds are starting to pick up!",
+    "The perfect time to head back to your boat and embark on an adventure to all the other whimsical places the Geese Islands have to offer!",
+    "Safe travels my friend and thank you again for your help!"
   ],
   "goosechristmas": [
     "Honk honk",
@@ -90,7 +94,8 @@
     "There's also ways to make the elves' snowballs do no damage, and all kinds of other shenanigans, but you didn't hear that from me.",
     "Just remember, it's all about having fun and sharing the joy of the holiday season with each other.",
     "So, are you in? We'd really love your company in this epic snowball battle!",
-    "..."
+    "...",
+    "You're like a snowball fighting ninja! A real-life legend. Can I have your autograph!?"
   ],
   "noelboetie": [
     "Hey there, Noel Boetie speaking! I recently tried using ChatNPT to generate my penetration testing report.",
@@ -102,7 +107,8 @@
     "Your input will be invaluable to me, so please feel free to share any insights or findings you may have.",
     "I'm looking forward to working with you all and improving the quality of the ChatNPT-generated penetration testing report.",
     "Thanks in advance for your help! I truly appreciate it! Let's make this report the best it can be!",
-    "..."
+    "...",
+    "Great job on completing that challenge! Ever thought about how your newfound skills might come into play later on? Keep that mind sharp, and remember, today's victories are tomorrow's strategies!"
   ],
   "sparkleredberry": [
     "Hey, Sparkle Redberry here! So, I've been trying to learn about Azure and the Azure CLI and it's driving me nuts.",
@@ -110,7 +116,15 @@
     "Anyway, I know it's important and everyone says it's not as difficult as it seems, but honestly it still feels like quite a challenge for me.",
     "Alabaster sent us this [Azure CLI reference](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest) as well. It's super handy, he said. Honestly, it just confuses me even more.",
     "If you can spare a moment, would you mind giving me a hand with this terminal? I'd be really grateful! Pretty please, with holly leaves on top!",
-    "..."
+    "...",
+    "Wow, you did it!",
+    "It makes quite a bit more sense to me now. Thank you so much!",
+    "That Azure Function App [URL](https://northpole-ssh-certs-fa.azurewebsites.net/api/create-cert?code=candy-cane-twirl) you came across in the terminal looked interesting.",
+    "It might be part of that new project Alabaster has been working on with the help of ChatNPT.",
+    "Let me tell you, since he started using ChatNPT he's been introducing a lot of amazing innovation across the islands.",
+    "Knowing Alabaster, he'll be delighted to tell you all about it! I think I last saw him on Pixel island.",
+    "By the way, as part of the Azure documentation he sent the elves, Alabaster also noted that if Azure CLI tools aren't available in an Azure VM we should use the [Azure REST API](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/how-to-use-vm-token) instead.",
+    "I'm not really sure what that means, but I guess I know what I'll be studying up on next."
   ],
   "pepperminstix": [
     "Well hello there! I'm Pepper Minstix.",
@@ -211,7 +225,15 @@
     "Hey there! I'm currently a bit swamped with this Azure deployment. ",
     "Once I'm done I'll tell you about it. It's pretty awesome!",
     "You'll need a bit of Azure knowledge though. Sparkle Redberry can help you get up to speed on that. You can find her at the Rudolph's Rest Resort on Christmas Island.",
-    "..."
+    "...",
+    "Hello there! Alabaster Snowball at your service.",
+    "I could use your help with my fancy new Azure server at **ssh-server-vm.santaworkshopgeeseislands.org**.",
+    "ChatNPT suggested I upgrade the host to use SSH certificates, such a great idea!",
+    "It even generated ready-to-deploy code for an [Azure Function App](https://northpole-ssh-certs-fa.azurewebsites.net/api/create-cert?code=candy-cane-twirl) so elves can request their own certificates. What a timesaver!",
+    "I'm a little wary though. I'd appreciate it if you could take a peek and confirm everything's secure before I deploy this configuration to all the Geese Islands servers.",
+    "Generate yourself a certificate and use the _monitor_ account to access the host. See if you can grab my TODO list.",
+    "If you haven't heard of SSH certificates, Thomas Bouve gave an introductory talk and demo on that topic recently.",
+    "Oh, and if you need to peek at the Function App code, there's a handy [Azure REST API endpoint](https://learn.microsoft.com/en-us/rest/api/appservice/web-apps/get-source-control) which will give you details about how the Function App is deployed."
   ],
   "pineysappington": [
     "Hey there, friend! Piney Sappington here.",
@@ -224,7 +246,9 @@
     "Oh, brilliant! I just know we'll crack this game together.",
     "I can't wait to see what we uncover, and remember, mum's the word!",
     "Thanks a bunch! Keep your eyes open and your ears to the ground.",
-    "..."
+    "...",
+    "Well done! You've brilliantly won Elf Hunt! I couldn't be more thrilled. Keep up the fine work, my friend!",
+    "What have you found there? The Captain's Journal? Yeah, he comes around a lot. You can find his comms office over at Brass Buoy Port on Steampunk Island."
   ],
   "goosepixel": [
     "hisssss",
@@ -252,7 +276,8 @@
     "I have faith in you! We'll get that luggage open in no time.",
     "This pamphlet is crucial for me, so I can't thank you enough for your assistance.",
     "Once we retrieve it, I promise to treat you to a frosty snack on me!",
-    "..."
+    "...",
+    "Wow, you did it! I knew you could crack the code. Thank you so much!"
   ],
   "dustygiftwrap": [
     "Arrr, matey, shiver me timbers! There be buried treasure herrrrre.",
@@ -270,5 +295,66 @@
     "Whoa, you found it!",
     "It's a... video game cartridge? Coooooollll... I mean, arrrrrr....",
     "So, here's what my research uncovered. Not sure what it all means, maybe you can make sense of it."
+  ],
+  "bowninecandle": [
+    "Hey there! I'm Bow Ninecandle, and I've got a bit of a... 'pressing' situation.",
+    "You see, I need to get into the lavatory, but here's the twist: it's secured with a combination padlock.",
+    "Talk about bad timing, right? I could really use your help to figure this out before things get... well, urgent.",
+    "I'm sure there are some clever tricks and tips floating around [the web](https://www.youtube.com/watch?v=27rE5ZvWLU0) that can help us crack this code without too much of a flush... I mean fuss.",
+    "Remember, we're aiming for quick and easy solutions here - nothing too complex.",
+    "Once we've gathered a few possible combinations, let's team up and try them out.",
+    "I'm crossing my legs - I mean fingers - hoping we can unlock this door soon.",
+    "After all, everyone knows that the key to holiday happiness is an accessible lavatory!",
+    "Let's dive into this challenge and hopefully, we won't have to 'hold it' for too long! Ready to help me out?",
+    "..."
+  ],
+  "chimneyscissorsticks": [
+    "Ahoy there, I'm Chimney Scissorsticks!",
+    "You may have noticed some mischief-makers planning to stir up trouble ashore.",
+    "They've made many radio broadcasts which the captain has been monitoring with his new software defined radio (SDR).",
+    "The new SDR uses some fancy JWT technology to control access.",
+    "The captain has a knack for shortening words, some sorta abbreviation trick.",
+    "Not familiar with JWT values? No worries; just think of it as a clue-solving game.",
+    "I've seen that the Captain likes to carry his journal with him wherever he goes.",
+    "If only I could find the planned \"go-date\", \"go-time\", and radio frequency they plan to use.",
+    "Remember, the captain's abbreviations are your guiding light through this mystery!",
+    "Once we find a JWT value, these villains won't stand a chance.",
+    "The closer we are, the sooner we'll be thwarting their pesky plans!",
+    "We need to recreate an administrative JWT value to successfully transmit a message.",
+    "Good luck, matey! I've no doubts about your cleverness in cracking this conundrum!",
+    "...",
+    "Heya, think you could help Piney Sappington on Rainraster Cliffs on Pixel Island and then give me a hand?"
+  ],
+  "evesnowshoes": [
+    "Greetings, fellow adventurer! Welcome to Scaredy-Kite Heights, the trailhead of the trek through the mountains on the way to the wonderful Squarewheel Yard!",
+    "I'm Eve Snowshoes, resident tech hobbyist, and I hear Alabaster is in quite the predicament.",
+    "Our dear Alabaster forgot his password. He's been racking his jingle bells of memory with no luck.",
+    "I've been trying to handle this password recovery thing parallel to this hashcat business myself but it seems like I am missing some tricks.",
+    "So, what do you say, chief, ready to get your hands on some hashcat action and help a distraught elf out?",
+    "..."
+  ],
+  "rosemold": [
+    "What am I doing in this saloon? The better question is: what planet are _you_ from?",
+    "Yes, I\u2019m a troll from the Planet Frost. I decided to stay on Earth after Holiday Hack 2021 and live among the elves because I made such dear friends here.",
+    "Whatever. Do you know much about privilege escalation techniques on Linux?",
+    "You're asking why? How about I'll tell you why after you help me.",
+    "And you might have to use that big brain of yours to get creative, bub.",
+    "..."
+  ],
+  "tinselupatree": [
+    "I discovered what looked liike an old pirate map in the attic of one of those huts in Rainraster Cliffs, and it actually led somewhere!",
+    "But now that I've seen where it leads, I think this might've been a bad idea. This place is scary! Maybe you want to take it from here?",
+    "There are 3 buried treasures in total, each in its own uncharted area around Geese Islands.",
+    "I've been searching for a bit, but the mustiness down here is making me sneeze!",
+    "Maybe you'll be able to find it. Here, use my Gameboy Cartridge Detector. Go into your items and test it to make sure it's still working.",
+    "When you get close to the treasure, it'll start sounding off. The closer you get, the louder the sound.",
+    "No need to activate or fiddle with it. It just works!",
+    "I bet it's somewhere right...  near...  ACHOOO!",
+    "If you find the treasure, come back and show me, and I'll tell you what I was able to research about it.",
+    "Good luck!",
+    "...",
+    "Whoa, you found it!",
+    "What version is it?",
+    "Did you know that many games had multiple versions released? Word is: volume 2 has 2 versions!"
   ]
 }

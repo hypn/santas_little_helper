@@ -90,5 +90,36 @@
       "y": 0,
       "real_id": "timeout"
     }
-  }
+  },
+  "spi-brassbouyport": {
+    "boat": {
+      "name": "boat",
+      "x": 50,
+      "y": 14,
+      "real_id": "timeout"
+    }
+  },
+  "imt-scaredykiteheights": {
+    "imt-scaredykiteheightsimt-ostrichsaloon": {
+      "name": "imt-scaredykiteheightsimt-ostrichsaloon",
+      "x": 49,
+      "y": 5,
+      "real_id": "imt-ostrichsaloon"
+    },
+    "boat": {
+      "name": "boat",
+      "x": 11,
+      "y": 33,
+      "real_id": "timeout"
+    }
+  },
+  "imt-ostrichsaloon": {
+    "imt-ostrichsaloonimt-scaredykiteheights": {
+      "name": "imt-ostrichsaloonimt-scaredykiteheights",
+      "x": 7,
+      "y": 9,
+      "real_id": "imt-scaredykiteheights"
+    }
+  },
+  "pi-driftbitgrotto": {}
 }
