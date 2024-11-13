@@ -25,7 +25,7 @@ if which_year == "":
     # determine which year to use (only use current year in December, otherwise previous year)
     year = int(date.today().strftime("%Y"))
     month = int(date.today().strftime("%m"))
-    if month < 12:
+    if month < 11:
         year = year - 1
     year = str(year)
 else:
@@ -36,8 +36,8 @@ if not os.path.exists("data/" + year):
     os.makedirs("data/" + year)
 
 ws_url = 'wss://' + year + '.kringlecon.com/ws'
-if year == "2023":
-    ws_url = 'wss://2023.holidayhackchallenge.com/ws'
+if year > "2022":
+    ws_url = 'wss://' + year + '.holidayhackchallenge.com/ws'
 
 portal_data_file = 'data/' + year + '/portal_data.json'
 extra_info_file = 'data/' + year + '/extra_info.json'
