@@ -121,5 +121,49 @@
       "real_id": "imt-scaredykiteheights"
     }
   },
-  "pi-driftbitgrotto": {}
+  "pi-driftbitgrotto": {},
+  "spi-rustyquay": {
+    "boat": {
+      "name": "boat",
+      "x": 3,
+      "y": 29,
+      "real_id": "timeout"
+    }
+  },
+  "si-capecosmic_inside": {
+    "si-capecosmic_insidesi-spaceportpoint": {
+      "name": "si-capecosmic_insidesi-spaceportpoint",
+      "x": 14,
+      "y": 19,
+      "real_id": "si-spaceportpoint"
+    },
+    "si-capecosmic_insidesi-zenithsgs": {
+      "name": "si-capecosmic_insidesi-zenithsgs",
+      "x": 55,
+      "y": 23,
+      "real_id": "si-zenithsgs"
+    }
+  },
+  "si-spaceportpoint": {
+    "si-spaceportpointsi-capecosmic_inside": {
+      "name": "si-spaceportpointsi-capecosmic_inside",
+      "x": 33,
+      "y": -12,
+      "real_id": "si-capecosmic_inside"
+    },
+    "boat": {
+      "name": "boat",
+      "x": 30,
+      "y": 45,
+      "real_id": "timeout"
+    }
+  },
+  "si-zenithsgs": {
+    "si-zenithsgssi-capecosmic_inside": {
+      "name": "si-zenithsgssi-capecosmic_inside",
+      "x": 5,
+      "y": 10,
+      "real_id": "si-capecosmic_inside"
+    }
+  }
 }

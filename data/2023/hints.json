@@ -1,0 +1,212 @@
+{
+  "Active Directory": [
+    {
+      "content": "Certificates are everywhere. Did you know Active Directory (AD) uses certificates as well? Apparently the service used to manage them can have misconfigurations too.",
+      "name": "Misconfiguration ADventures",
+      "source": "Alabaster Snowball"
+    },
+    {
+      "content": "It looks like Alabaster's SSH account has a couple of tools installed which might prove useful.",
+      "name": "Useful Tools",
+      "source": "Ribb Bonbowford"
+    }
+  ],
+  "Azure 101": [
+    {
+      "content": "The Azure CLI tools come with a builtin help system, but Microsoft also provides this [handy cheatsheet](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest).",
+      "name": "Azure CLI Reference",
+      "source": "Sparkle Redberry"
+    }
+  ],
+  "BONUS! Fishing Guide": [
+    {
+      "content": "Perhaps there are some clues about the local aquatic life located in the HTML source code.",
+      "name": "Become the Fish",
+      "source": "Poinsettia McMittens"
+    }
+  ],
+  "Buried Treasures": [
+    {
+      "content": "There are 3 buried treasures in total, each in its own uncharted area around Geese Islands. Use the gameboy cartridge detector and listen for the sound it makes when treasure is nearby, which gets louder the closer you are. Also look for some kind of distinguishing mark or feature, which could mark the treasure's location.",
+      "name": "Buried Treasures",
+      "source": "Dusty Giftwrap"
+    }
+  ],
+  "Certificate SSHenanigans": [
+    {
+      "content": "Check out Thomas Bouve's [talk and demo](https://youtu.be/4S0Rniyidt4) to learn all about how you can upgrade your SSH server configuration to leverage SSH certificates.",
+      "name": "SSH Certificates Talk",
+      "source": "Alabaster Snowball"
+    },
+    {
+      "content": "Azure CLI tools aren't always available, but if you're on an Azure VM you can always use the [Azure REST API](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/how-to-use-vm-token) instead.",
+      "name": "Azure VM Access Token",
+      "source": "Sparkle Redberry"
+    },
+    {
+      "content": "The [get-source-control](https://learn.microsoft.com/en-us/rest/api/appservice/web-apps/get-source-control) Azure REST API endpoint provides details about where an Azure Web App or Function App is deployed from.",
+      "name": "Azure Function App Source Code",
+      "source": "Alabaster Snowball"
+    }
+  ],
+  "Elf Hunt": [
+    {
+      "content": "Unlock the mysteries of JWTs with insights from [PortSwigger's JWT Guide](https://portswigger.net/web-security/jwt).",
+      "name": "JWT Secrets Revealed",
+      "source": "Piney Sappington"
+    }
+  ],
+  "Game Cartridges: Vol 1": [
+    {
+      "content": "1) Giving things a little push never hurts.  2) Out of sight but not out of ear-shot  3) You think you fixed the QR code? Did you scan it and see where it leads?",
+      "name": "Gameboy 1",
+      "source": "Dusty Giftwrap"
+    },
+    {
+      "content": "Listen for the gameboy cartridge detector's proximity sound that activates when near buried treasure. It may be worth checking around the strange toys in the Tarnished Trove.",
+      "name": "Approximate Proximity",
+      "source": "Dusty Giftwrap"
+    }
+  ],
+  "Game Cartridges: Vol 2": [
+    {
+      "content": "1) This feels the same, but different!  2) If it feels like you are going crazy, you probably are! Or maybe, just maybe, you've not yet figured out where the hidden ROM is hiding. 3)  I think I may need to get a DIFFerent perspective.  4) I wonder if someone can give me a few pointers to swap.",
+      "name": "Gameboy 2",
+      "source": "Tinsel Upatree"
+    },
+    {
+      "content": "Try poking around Pixel Island.  There really aren't many places you can go here, so try stepping everywhere and see what you get!",
+      "name": "Gameboy 2",
+      "source": "Tinsel Upatree"
+    }
+  ],
+  "Game Cartridges: Vol 3": [
+    {
+      "content": "The location of the treasure in Rusty Quay is marked by a shiny spot on the ground. To help with navigating the maze, try zooming out and changing the camera angle.",
+      "name": "Bird's Eye View",
+      "source": "Angel Candysalt"
+    },
+    {
+      "content": "1) This one is a bit long, it never hurts to save your progress!  2) 8bit systems have much smaller registers than you\u2019re used to.  3) Isn\u2019t this great?!? The coins are OVERFLOWing in their abundance.",
+      "name": "Gameboy 3",
+      "source": "Angel Candysalt"
+    }
+  ],
+  "KQL Kraken Hunt": [
+    {
+      "content": "Do you need to find something that happened via a process?  Pay attention to the _ProcessEvents_ table!",
+      "name": "Outbound Connections",
+      "source": "Tangle Coalbox"
+    },
+    {
+      "content": "Once you get into the [Kusto trainer](https://detective.kusto.io/sans2023), click the blue _Train me for the case_ button to get familiar with KQL.",
+      "name": "KQL Tutorial",
+      "source": "Tangle Coalbox"
+    },
+    {
+      "content": "Looking for a file that was created on a victim system?  Don't forget the _FileCreationEvents_ table.",
+      "name": "File Creation",
+      "source": "Tangle Coalbox"
+    }
+  ],
+  "Linux PrivESC": [
+    {
+      "content": "There's [various ways](https://payatu.com/blog/a-guide-to-linux-privilege-escalation/) to escalate privileges on a Linux system. ",
+      "name": "Linux Privilege Escalation Techniques",
+      "source": "Rose Mold"
+    }
+  ],
+  "Luggage Lock Decode": [
+    {
+      "content": "Check out Chris Elgee's [talk](https://youtu.be/ycM1hBSEyog) regarding his and his wife's luggage.  Sounds weird but interesting!",
+      "name": "Lock Talk",
+      "source": "Garland Candlesticks"
+    }
+  ],
+  "Na'an": [
+    {
+      "content": "Try to outsmart Shifty by sending him an error he may not understand.",
+      "name": "Stump the Chump",
+      "source": "Shifty McShuffles"
+    },
+    {
+      "content": "Shifty said his deck of cards is made with Python. Surely there's a [weakness](https://www.tenable.com/blog/python-nan-injection) to give you the upper hand in his game.",
+      "name": "The Upper Hand",
+      "source": "Shifty McShuffles"
+    }
+  ],
+  "Phish Detection": [
+    {
+      "content": "Discover the essentials of email security with DMARC, DKIM, and SPF at [Cloudflare's Guide](https://www.cloudflare.com/learning/email-security/dmarc-dkim-spf/).",
+      "name": "DMARC, DKIM, and SPF, oh my!",
+      "source": "Fitzy Shortstack"
+    }
+  ],
+  "Reportinator": [
+    {
+      "content": "I know AI sometimes can get specifics wrong unless the prompts are well written. Maybe chatNPT made some mistakes here.",
+      "name": "Reportinator",
+      "source": "Noel Boetie"
+    }
+  ],
+  "Snowball Hero": [
+    {
+      "content": "Its easiest to grab a friend play with and beat Santa but tinkering with client-side variables can grant you all kinds of snowball fight super powers. You could even take on Santa and the elves solo!",
+      "name": "Snowball Super Hero",
+      "source": "Morcel Nougat"
+    },
+    {
+      "content": "Have an iframe in your document? Be sure to [select the right context](https://gist.github.com/chrisjd20/93771da596ca5e49043f148a845c469f) before meddling with JavaScript.",
+      "name": "Consoling iFrames",
+      "source": "Morcel Nougat"
+    }
+  ],
+  "Space Island Access Speaker": [
+    {
+      "content": "Wombley says a specific phrase into the Access Speaker. He works in the Research Department and everything they do it super secret, so it may be a challenge to find out what the phrase is. Ribb also works in that department. Try to find and ask him.",
+      "name": "MFA: Something You Know",
+      "source": "Jewel Loggins"
+    }
+  ],
+  "Synthesis is the True Ending": [
+    {
+      "content": "The AI revolution has begun. Some of the most prominent and *useful* tools born from the advent of powerful AI include [ChatGPT](https://chat.openai.com/auth/login), [PlayHT](https://play.ht/), [Midjourney](https://www.midjourney.com/home?callbackUrl=%2Fexplore), [Dall-E 3](https://openai.com/dall-e-3), [Bing AI](https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1), and [Bard](https://bard.google.com/?utm_source=sem&utm_medium=paid-media&utm_campaign=q4enUS_sem7&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_mJZWSITeLgVbaMSfn_6hubm-ydPDgylkxdJHHbNT1Wjy3dpUd3aVMaAgdsEALw_wcB), and [Grok](https://grok.x.ai/).",
+      "name": "Synthesis is the True Ending",
+      "source": "Santa"
+    }
+  ],
+  "The Captain's Comms": [
+    {
+      "content": "I've seen the Captain with [his Journal](https://elfhunt.org/static/images/captainsJournal.png) visiting Pixel Island! ",
+      "name": "Comms Journal",
+      "source": "Chimney Scissorsticks"
+    },
+    {
+      "content": "A great introduction to JSON Web Tokens is available from [Auth0](https://jwt.io/introduction).",
+      "name": "Comms JWT Intro",
+      "source": "Chimney Scissorsticks"
+    },
+    {
+      "content": "Find a private key, update an existing JWT!",
+      "name": "Comms Private Key",
+      "source": "Chimney Scissorsticks"
+    },
+    {
+      "content": "Web Interception proxies like [Burp](https://portswigger.net/burp) and [Zap](https://www.zaproxy.org) make web sites fun!",
+      "name": "Comms Web Interception Proxies",
+      "source": "Chimney Scissorsticks"
+    },
+    {
+      "content": "I hear the Captain likes to abbreviate words in his filenames; shortening some words to just 1,2,3, or 4 letters.",
+      "name": "Comms Abbreviations",
+      "source": "Chimney Scissorsticks"
+    }
+  ],
+  "Uncharted": [
+    {
+      "content": "Not all the areas around Geese Islands have been mapped, and may contain wonderous treasures. Go exploring, hunt for treasure, and find the pirate's booty!",
+      "name": "Uncharted",
+      "source": "Rose Mold"
+    }
+  ]
+}

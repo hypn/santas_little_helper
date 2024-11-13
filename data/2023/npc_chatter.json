@@ -152,7 +152,10 @@
     "Plus, I'd wager you've never played this game before, as this isn't any ordinary deck of cards. It's made with [Python](https://www.tenable.com/blog/python-nan-injection).",
     "The name of the game is to bamboozle the dealer.",
     "So whad'ya think? Are you clever enough?",
-    "..."
+    "...",
+    "Well, you sure are more clever than most of the tourists that show up here.",
+    "I couldn't swindle ya, but don't go telling everyone how you beat me!",
+    "An elf's gotta put food on the table somehow, and I'm doing the best I can with what I got."
   ],
   "wombleycubechiaroscurocity": [
     "Wombley Cube here, welcome to Chiaroscuro City!",
@@ -184,7 +187,10 @@
     "If you run into any problems, just give me a holler, I've got your back.",
     "Good hunting, and let's bring this cyber criminal to justice.",
     "Once you've got the intel we need, report back and we'll plan our next move. Stay sharp, rookie.",
-    "..."
+    "...",
+    "I had my doubts, but you've proven your worth.",
+    "That phishing scheme won't trouble our client's organization anymore, thanks to your keen eye and investigatory prowess.",
+    "So long, Gumshoe, and be careful out there."
   ],
   "jewelloggins": [
     "What are _you_ doing here, and who are you?",
@@ -198,7 +204,14 @@
     "If you wanna see where the tram goes, I think you need to find out what that passphrase is.",
     "Ribb Bonbowford over at Coggoggle Marina on Steampunk Island works with Wombley. Try asking if he knows.",
     "I hope you find it. I'll be here when you get back!",
-    "..."
+    "...",
+    "What, you know the passphrase!? Let me try it!",
+    "Nope, didn't work. Knowing Wombley, the passphrase isn't the only requirement. He's all about that MFA!",
+    "Oh yeah, multi-factor authentication! The passphrase for something he knows, and his voice for something he is!",
+    "That's it! You need to be Wombley. You need his voice. Now, how are you gonna get that?",
+    "Since only us elves can get a subscription to use ChatNPT, try searching for another AI tool that can simulate voices. I'm sure there's one out there.",
+    "Are you like a master spy or something? I've only seen stuff like that in the movies!",
+    "It sure is scary what you can do with AI, huh? I sure hope ChatNPT has better guardrails in place."
   ],
   "goosespace": [
     "GRUNT",
@@ -213,7 +226,21 @@
     "Can you go and check on Alabaster Snowball for me? He's at Rainraster Cliffs on Pixel Island. I heard some rumors he's been experimenting with ChatNPT again and I'm a little worried about what he's cooking up.",
     "Thank you so much!",
     "Please let me know what you find out. ",
-    "..."
+    "...",
+    "Hello, I'm Ribb Bonbowford. Nice to meet you!",
+    "Oh golly! It looks like Alabaster deployed some vulnerable Azure Function App Code he got from ChatNPT.",
+    "Don't get me wrong, I'm all for testing new technologies. The problem is that Alabaster didn't review the generated code and used the Geese Islands Azure production environment for his testing.",
+    "I'm worried because our Active Directory server is hosted there and Wombley Cube's research department uses one of its fileshares to store their sensitive files. ",
+    "I'd love for you to help with auditing our Azure and Active Directory configuration and ensure there's no way to access the research department's data.",
+    "Since you have access to Alabaster's SSH account that means you're already in the Azure environment. Knowing Alabaster, there might even be some useful tools in place already.",
+    "Wow, nice work. I'm impressed!",
+    "This is all starting to feel like more than just a coincidence though. Everything Alabaster's been setting up lately with the help of ChatNPT contains all these vulnerabilities. It almost feels deliberate, if you ask me.",
+    "Now obviously an LLM AI like ChatNPT cannot have deliberate motivations itself. It's just a machine. But I wonder who could have built it and who is controlling it?",
+    "On top of that, we apparently have a satellite ground station on Geese Islands. I wonder where that thing would even be located.",
+    "Well, I guess it's probably somewhere on Space Island, but I've not been there yet.",
+    "I'm not a big fan of jungles, you see. I have this tendency to get lost in them.",
+    "Anyway, if you feel like investigating, that'd be where I'd go look.",
+    "Good luck and I'd try and steer clear of ChatNPT if I were you."
   ],
   "jason": [
     "Hi, I'm Jason!",
@@ -233,7 +260,15 @@
     "I'm a little wary though. I'd appreciate it if you could take a peek and confirm everything's secure before I deploy this configuration to all the Geese Islands servers.",
     "Generate yourself a certificate and use the _monitor_ account to access the host. See if you can grab my TODO list.",
     "If you haven't heard of SSH certificates, Thomas Bouve gave an introductory talk and demo on that topic recently.",
-    "Oh, and if you need to peek at the Function App code, there's a handy [Azure REST API endpoint](https://learn.microsoft.com/en-us/rest/api/appservice/web-apps/get-source-control) which will give you details about how the Function App is deployed."
+    "Oh, and if you need to peek at the Function App code, there's a handy [Azure REST API endpoint](https://learn.microsoft.com/en-us/rest/api/appservice/web-apps/get-source-control) which will give you details about how the Function App is deployed.",
+    "Oh my! I was so focused on the SSH configuration I completely missed the vulnerability in the Azure Function App.",
+    "Why would ChatNPT generate code with such a glaring vulnerability? It's almost like it wanted my system to be unsafe. Could ChatNPT be evil?",
+    "Thanks for the help, I'll go and update the application code immediately!",
+    "While we're on the topic of certificates, did you know Active Directory (AD) uses them as well? Apparently the service used to manage them can have misconfigurations too.",
+    "You might be wondering about that SatTrackr tool I've installed on the monitor account?",
+    "Here's the thing, on my nightly stargazing adventures I started noticing the same satellite above Geese Islands.",
+    "I wrote that satellite tracker tool to collect some additional data and sure enough, it's in a geostationary orbit above us.",
+    "No idea what that means yet, but I'm keeping a close eye on that thing!"
   ],
   "pineysappington": [
     "Hey there, friend! Piney Sappington here.",
@@ -339,7 +374,14 @@
     "Whatever. Do you know much about privilege escalation techniques on Linux?",
     "You're asking why? How about I'll tell you why after you help me.",
     "And you might have to use that big brain of yours to get creative, bub.",
-    "..."
+    "...",
+    "Yup, I knew you knew. You just have that vibe.",
+    "To answer your question of why from earlier... Nunya!",
+    "But, I will tell you something better, about some information I... found.",
+    "There's a hidden, uncharted area somewhere along the coast of this island, and there may be more around the other islands.",
+    "The area is supposed to have something on it that's totes worth, but I hear all the bad vibe toys chill there.",
+    "That's all I got. K byyeeeee.",
+    "Ugh... n00bs..."
   ],
   "tinselupatree": [
     "I discovered what looked liike an old pirate map in the attic of one of those huts in Rainraster Cliffs, and it actually led somewhere!",
@@ -356,5 +398,43 @@
     "Whoa, you found it!",
     "What version is it?",
     "Did you know that many games had multiple versions released? Word is: volume 2 has 2 versions!"
+  ],
+  "fitzyshortstack": [
+    "Just my luck, I thought...",
+    "A cybersecurity incident right in the middle of this stakeout.",
+    "Seems we have a flood of unusual emails coming in through ChatNPT.",
+    "Got a nagging suspicion it isn't catching all the fishy ones.",
+    "You're our phishing specialist right? Could use your expertise in looking through the output of ChatNPT.",
+    "Not suggesting a full-blown forensic analysis, just mark the ones screaming digital fraud.",
+    "We're looking at all this raw data, but sometimes, it takes a keen human eye to separate the chaff, doesn't it?",
+    "I need to get more powdered sugar for my donuts, so do ping me when you have something concrete on this.",
+    "..."
+  ],
+  "angelcandysalt": [
+    "At least it's obvious where this one is. See that shiny spot over to the right? That's gotta be where it is! If only I had a bird's eye view.",
+    "But how to get there? Up? Down? Left? Right? Oh well, that's your problem now!",
+    "Come back if you can find your way to it, and I'll tell you some secrets I've heard about this one.",
+    "...",
+    "The life of a treasure hunter isn't easy, but it sure is exciting!",
+    "Oh it's a video game, I love video games! But you've claimed this treasure, nicely done.",
+    "Now, about those secrets I've been told. They're pretty cryptic, but they are. Hopefully that helps with something!",
+    "You have all three? Wow, you must be the greatest treasure hunter that ever lived!"
+  ],
+  "vendingmachine": [
+    "Hi there! I am a Ground station client vending machine. Apparently there is a huge need for NanoSat frameworks here, so they have put me in this room. Here, have a [free sample](https://www.holidayhackchallenge.com/2023/client_container.zip)!",
+    "..."
+  ],
+  "wombleycube": [
+    "This is Ground Control, do you read me...? Ground Control to --",
+    "Hey! How'd you get in here? That tram is the only accessible point of entry and I secured it with MFA!",
+    "No matter, you may have had the skills to find and infiltrate the satellite ground station, but there's no chance you can hack your way into the satellite itself!",
+    "The nanosat's Supervisor Directory will remain hidden, and you'll never discover the mastermind behind all this.",
+    "So don't even waste your time trying.",
+    "..."
+  ],
+  "henry": [
+    "Hi, I'm Henry!",
+    "I built the satellites with personalities, and now they keep making dad jokes - whoopsies!",
+    "..."
   ]
 }

@@ -42,6 +42,8 @@ if year == "2023":
 portal_data_file = 'data/' + year + '/portal_data.json'
 extra_info_file = 'data/' + year + '/extra_info.json'
 npc_chatter_file = 'data/' + year + '/npc_chatter.json'
+hints_file = 'data/' + year + '/hints.json'
+narratives_file = 'data/' + year + '/narratives.json'
 
 enable_burp_proxy = False
 proxy_h = "127.0.0.1"
@@ -55,21 +57,61 @@ current_state = {}
 known_portals = {}
 extra_info = {}
 npc_chatter = {}
+hints = {}
+narratives = []
 
 def handle_response(r):
     global current_state
     global known_portals
+    global hints
+    global narratives
+
     r_json = json.loads(r)
     m_type = r_json['type']
 
     debug(f"Received message of type {m_type}.")
     if m_type == "SET_LOCATIONS":
         current_state['locations'] = r_json['loc']
+
+    elif m_type == "SET_TOKENS":
+        user_tokens = list(r_json.get("userTokens", {}).values())
+        if len(user_tokens) > 0:
+            tokens = user_tokens[0]
+            for token in tokens:
+                if token and "meta" in token and token.get("meta"):
+                    items = list(token.get("meta").values())
+                    for data in items:
+                        token_type = data.get("type")
+
+                        if token_type == "hint":
+                            hint_name = data.get("displayName")
+                            hint = {
+                                "name": hint_name,
+                                # "shortName": data.get("shortName"),
+                                "content": data.get("content"),
+                                "source": data.get("sourceDisplayName"),
+                            }
+
+                            objective = data.get("hintTarget", {}).get("displayName", hint_name)
+                            all_hints = hints.get(objective, [])
+                            if hint not in all_hints:
+                                all_hints.append(hint)
+                                hints[objective] = all_hints
+
+                        elif token_type == "narrative":
+                            order = data.get("order", 0).zfill(3)
+                            entry = str(order) + " - " + data.get("content")
+                            if entry not in narratives:
+                                narratives.append(entry)
+                                narratives = sorted(narratives)
+
     elif m_type == "SET_ENTITYAREAS":
         current_state['entity_areas'] = r_json['entities']
+
     elif m_type == "WS_OHHIMARK":
         if r_json.get('userId'):
             current_state['own_user_id'] = r_json['userId']
+
     elif m_type == "AAANNNDD_SCENE":
         if current_state.get('current_area') != r_json['areaData']['shortName']:
             info(f"Server new current location: {r_json['areaData']['shortName']}")
@@ -269,18 +311,36 @@ def goto_adjacent_zone(zone_id):
 def load_data():
     global known_portals
     global extra_info
+    global hints
+    global narratives
+
     try:
         with open(portal_data_file) as json_file:
             good(f"Loading portal data from {portal_data_file}")
             known_portals = json.load(json_file)
     except:
         err(f"WARNING: No portal data found in file {portal_data_file}. Starting from nothing")
+
     try:
         with open(extra_info_file) as json_file:
             good(f"Loading extra info from {extra_info_file}")
             extra_info = json.load(json_file)
     except:
         err(f"WARNING: No extra info found in file {extra_info_file}. Starting from nothing")
+
+    try:
+        with open(hints_file) as json_file:
+            good(f"Loading hints from {hints_file}")
+            hints = json.load(json_file)
+    except:
+        err(f"WARNING: No hints found in file {hints_file}. Starting from nothing")
+
+    try:
+        with open(narratives_file) as json_file:
+            good(f"Loading narratives from {narratives_file}")
+            narratives = json.load(json_file)
+    except:
+        err(f"WARNING: No narratives found in file {narratives_file}. Starting from nothing")
 
 
 def generate_data():
@@ -320,13 +380,21 @@ def generate_data():
                ws.send('{"type":"HELLO_ENTITY","entityType":"terminal","id":"%s"}' % name)
                receive_until_terminal()
 
-
     with open(portal_data_file, 'w') as outfile:
         good(f"Dumping portal data to {portal_data_file}")
         json.dump(known_portals, outfile, indent=2)
+
     with open(extra_info_file, 'w') as outfile:
         good(f"Dumping extra_info to {extra_info_file}")
         json.dump(extra_info, outfile, indent=2)
+
+    with open(hints_file, 'w') as outfile:
+        good(f"Dumping hints to {hints_file}")
+        json.dump(hints, outfile, indent=2, sort_keys=True)
+
+    with open(narratives_file, 'w') as outfile:
+        good(f"Dumping narratives to {narratives_file}")
+        json.dump(narratives, outfile, indent=2)
 
 
 def teleport():
