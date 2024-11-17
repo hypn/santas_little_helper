@@ -1,1 +1,31 @@
-{}
+{
+  "Elf Connect": [
+    {
+      "content": "WOW! A high score of 50,000 points! That\u2019s way beyond the limit! With only four rounds and a max of 400 points per round, the top possible score should be 1,600 points. So, how did someone get to 50,000? Something unusual must be happening!\n\nIf you're curious, you might want to check under the hood. Try opening the browser's developer tools console and looking around\u2014there might even be a variable named 'score' that could give you some insights. Sometimes, games hold secrets for those who dig a little deeper. Give it a shot and see what you can discover!",
+      "name": "Elf Connect Hard",
+      "source": "Angel Candysalt"
+    },
+    {
+      "content": "I love brain games! This one is like the New York Times Connections game. Your goal here is to find groups of items that share something in common. Think of each group as having a hidden connection or theme\u2014four items belong together, and there are multiple groups to find! See if you can spot patterns or common threads to make connections. Group all the items correctly to win!",
+      "name": "Elf Connect Easy",
+      "source": "Angel Candysalt"
+    }
+  ],
+  "Elf Minder 9000": [
+    {
+      "content": "Be sure you read the \"Help\" section thoroughly! In doing so, you will learn how to use the tools necessary to safely guide your elf and collect all the crates.",
+      "name": "Elf Minder 9000: RTD (Read the Docs)",
+      "source": "Poinsettia McMittens"
+    },
+    {
+      "content": "When developing a video game\u2014even a simple one\u2014it's surprisingly easy to overlook an edge case in the game logic, which can lead to unexpected behavior. ",
+      "name": "Elf Minder 9000: TODO",
+      "source": "Poinsettia McMittens"
+    },
+    {
+      "content": "Some levels will require you to click and rotate paths in order for your elf to collect all the crates.",
+      "name": "Elf Minder 9000: Reusable Paths",
+      "source": "Poinsettia McMittens"
+    }
+  ]
+}

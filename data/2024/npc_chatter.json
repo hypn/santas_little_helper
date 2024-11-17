@@ -43,7 +43,17 @@
     "I need a moment to soak up some rays and center myself, if you know what I'm saying?",
     "In the meantime, go see Jingle Ringford. He can help you with some basic island orientation.",
     "Positive thoughts... Need to think positive thoughts... Ooooommm...",
-    "..."
+    "...",
+    "Center your mind, and become one with the island!",
+    "Relax...",
+    "This isn't working! I'm trying to play this game but the whole \"moving back to the North Pole\" thing completely threw me off. ",
+    "Say, how about you give it a try. It's really simple. All you need to do is help the elf get to the exit.",
+    "The faster you get there, the better your score!",
+    "I've run into some weirdness with the springs though. If I had created this game it would've been a lot more stable, but I won't **comment** on that any further.",
+    "The rest of these elves are like corporate zombos. They just run around in circles unless you give them some direction.",
+    "Way to pass them some of your super centered energy. Better you than me, though. I'd let them walk themselves straight off the island. ",
+    "You took the easy win, it seems we're kindred spirits. But there's also a hard way to solve this challenge. ",
+    "The more segments you use, the higher the reward. But who actually wants life to be more difficult?"
   ],
   "goosechristmas": [
     "HONK! HONK!",
@@ -53,7 +63,19 @@
     "Hi there and welcome to Frosty's Beach! My name is Angel Candysalt. And before you ask, because everybody does, no... that is not... a euphemism!",
     "I'm in the middle of wrapping things up, but I heard Jingle Ringford wants to speak with you.",
     "Feel free to swing back here once you've finished your Prologue setup.",
-    "..."
+    "...",
+    "Welcome back, island adventurer! I'm Angel Candysalt \u2014 so happy to finally meet you!",
+    "I'm thrilled you're here because I could really use a hand with something.",
+    "Have you ever heard of a game called Connections?",
+    "It\u2019s simple! All you need to do is find groups of four related words.",
+    "I've been stuck on it all day, and I'm sure someone as sharp as you will breeze through it.",
+    "Oh, and while you're at it, check out randomElf's score \u2014 they hit fifty thousand points, which seems\u2026 oddly suspicious.",
+    "Think they might have tampered with the game? Just a hunch!",
+    "Amazing! You really connected all the dots like a pro.",
+    "And guess what? You bumped randomElf off the leaderboard!",
+    "Now, how about trying the game again \u2014 this time without any tampering or hacking.",
+    "...",
+    "Amazing! You really connected all the dots like a pro."
   ],
   "jingleringford": [
     "Welcome to the Geese Islands and the 2023 SANS Holiday Hack Challenge!",
@@ -66,6 +88,11 @@
     "Before you head out any further onto the island, you need to accomplish two simple tasks.",
     "But first, here's a parting gift. I packed this snowball made of the magical, never-melting snow of Christmas Island. A little souvenir to take with you when we leave for the North Pole.",
     "Click on the snowball on your avatar. That's where you will see your Objectives, Hints, resource links, and Conversations for the Holiday Hack Challenge.",
-    "Now, click on the **Cranberry Pi Terminal** and follow the on-screen instructions."
+    "Now, click on the **Cranberry Pi Terminal** and follow the on-screen instructions.",
+    "You're a natural! Something new this year you may not know is that all challenges have an easy and hard mode. There's also story mode, if you want to skip the challenges and watch how our holiday season's adventure unfolds!",
+    "Your snowball will reflect how you've solved the challenges with the bronze, silver, and gold trophies.",
+    "Well, that's it, now you're orientated! Feel free to get yourself settled in, establish a cohort with others, or just explore this lovely island. Just be careful where you walk as we are moving around some pretty heavy crates.",
+    "Oh, while we're preparing everything to set sail for the North Pole, I heard Poinsettia McMittens and Angel Candysalt could use some assistance. I'm sure they'll appreciate any help you can provide!",
+    "We'll let you know when the boat leaves, but for now relax, enjoy the sun, and most importantly, have FUN!"
   ]
 }
