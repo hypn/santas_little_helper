@@ -106,7 +106,8 @@
     "WOW, you did it! You know, they say Ottendorf ciphers were used back in the Frosty Archives crisis\u2026 or was that during the Jack Frost incident? Either way, you're amazing!",
     "But wait\u2014there\u2019s still one more code tucked away! This one might need a bit more elbow grease\u2026 you may need to try a few combinations to crack it!",
     "Incredible work! You pieced together the code like a true sleuth and retrieved the shreds we need. I\u2019m not quite sure how you\u2019ll put them all together, but if anyone can, it\u2019s you!",
-    "Your help has been absolutely essential, especially now with Santa missing. Wombley and Alabaster will want to hear all about it\u2014go share the news with Jewel Loggins!"
+    "Your help has been absolutely essential, especially now with Santa missing. Wombley and Alabaster will want to hear all about it\u2014go share the news with Jewel Loggins!",
+    "Unbelievable! You found a flaw in the system and completely bypassed the rate limiter. You\u2019re practically an elf legend!"
   ],
   "wombleycube": [
     "Greetings. It's great to see you've finally made the journey here to join us.",
@@ -116,7 +117,8 @@
     "Not to cut our conversation short, but you must be tired from your journey. You should go over to the fireplace and relax with the others that are taking a break.",
     "We're doing very important work over here and I need to make sure we stay on schedule.",
     "...",
-    "Swell idea, playing cURL with Bow. Why don't you keep doing that."
+    "Swell idea, playing cURL with Bow. Why don't you keep doing that.",
+    "Finding a way to securely store the Wish List is going to be a challenge huh? It is vital to our operations. We cannot allow it to fall into the hands of those that want to change the holidays for the worse."
   ],
   "alabastersnowball": [
     "Well hello, I'm Alabaster Snowball!",
@@ -129,7 +131,9 @@
     "I may not be the sharpest tool in the repository when it comes to the technical stuff, but it seems I'm quite the galvanizer!",
     "Anywho, why not join Bow for a game of cURL? And then go help Morcel and Jewel with securing the Wish List, please. Thanks a bunch!",
     "...",
-    "cURL-ing sure is fun huh! I bet you made Bow's day by playing with him. Everyone over here was too busy, and everyone on Wombley's side just refused to play. I wonder what's gotten into them. "
+    "cURL-ing sure is fun huh! I bet you made Bow's day by playing with him. Everyone over here was too busy, and everyone on Wombley's side just refused to play. I wonder what's gotten into them. ",
+    "I think UART awesome! See what I did there? Keep on testing the security of the current Wish List storage.",
+    "Well, seems like that may not be the best way to store the list. Back to brainstorming. "
   ],
   "bowninecandle": [
     "Well hello there! I'm Bow Ninecandle, bright as a twinkling star! Everyone's busy unpacking, but I've grown quite bored of that. Care to join me for a lovely game?",
@@ -146,7 +150,8 @@
     "...",
     "Bravo! Look at you, curling through that like a true web wizard!",
     "You zipped through that challenge faster than a curling stone on enchanted ice!",
-    "You know... rumor has it you can breeze through this with just three commands. Why don\u2019t you give it a whirl?"
+    "You know... rumor has it you can breeze through this with just three commands. Why don\u2019t you give it a whirl?",
+    "Wait... did you just slice and dice it all into three commands? My stars, you're a Curling conjurer!"
   ],
   "jewelloggins": [
     "Hello there! I\u2019m Jewel Loggins.",
@@ -161,18 +166,26 @@
     "[Part 2] Next, we need to access the terminal and modify the access database. We're looking to grant access to card number **42**.",
     "[Part 2] Start by using the slh application\u2014that\u2019s the key to getting into the access database. Problem is, the \u2018slh\u2019 tool is password-protected, so we need to find it first.",
     "[Part 2] Search the terminal thoroughly; passwords sometimes get left out in the open.",
-    "[Part 2] Once you've found it, modify the entry for card number 42 to grant access. Sounds simple, right? Let\u2019s get to it!"
+    "[Part 2] Once you've found it, modify the entry for card number 42 to grant access. Sounds simple, right? Let\u2019s get to it!",
+    "[Part 2] Wow! You're amazing at this! Clever move finding the password in the command history. It\u2019s a good reminder about keeping sensitive information secure\u2026",
+    "[Part 2] There\u2019s a tougher route if you're up for the challenge to earn the Gold medal. It involves directly modifying the database and generating your own HMAC signature.",
+    "[Part 2] I know you can do it\u2014come back once you've cracked it!",
+    "[Part 2] Brilliant work! We now have access to\u2026 the Wish List! I couldn't have done it without you\u2014thank you so much!"
   ],
   "tinselupatree": [
     "I'm so sad. I haven't found that cool pirate map that I discovered on Geese Islands yet. It must be in one of these crates somewhere.",
     "I should just keep helping unpack, unlike the elves over there, and it'll turn up eventually. ",
     "...",
-    "Sure they look busy, but they're not actually helping with holiday preparations. They're just building.... I don't even know what."
+    "Sure they look busy, but they're not actually helping with holiday preparations. They're just building.... I don't even know what.",
+    "What if someone mistook it for the Wish List and locked it up in a chest?! Oh I so hope not. I wouldn't be surprised with how Wombley's crew has been acting over there."
   ],
   "noelboetie": [
     "Whew... unpacking sure is a chore. I'm so glad we set up this little break area to take a load off for a little while.",
     "Just me, the snow, chestnuts roasting over an open fire, and a cup of milk tea. The Geese Islands were relaxing and all, but this is what I call paradise.",
-    "..."
+    "...",
+    "Bow asked me to play a round of cURLing with him, but I was just too exhausted. I'm happy someone finally joined him!",
+    "Hacking your way into that box was impressive! You're almost as good as me at finding buried treasure!",
+    "We really need to find a way to keep the Wish List and Naughty-Nice List secure. Some of the elves seem to be asking a lot of questions about them. Meh, probably nothing."
   ],
   "goosepixel": [
     "(Spanish mode) Hi... welcome to Frosty's Beach! Nice to meet you!",
