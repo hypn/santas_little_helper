@@ -50,6 +50,23 @@
       "content": "Have you ever wondered how elves manage to dispose of their sensitive documents? Turns out, they use this fancy shredder that is quite the marvel of engineering. It slices, it dices, it makes the paper practically disintegrate into a thousand tiny pieces. Perhaps, just perhaps, we could reassemble the pieces?",
       "name": "Shredded to Pieces",
       "source": "Jewel Loggins"
+    },
+    {
+      "content": "Hey, I just caught wind of this neat way to piece back shredded paper! It's a fancy heuristic detection technique\u2014sharp as an elf\u2019s wit, I tell ya! Got a sample Python script right here, courtesy of Arnydo. Check it out when you have a sec: [heuristic_edge_detection.py](https://gist.github.com/arnydo/5dc85343eca9b8eb98a0f157b9d4d719).\"",
+      "name": "On the Cutting Edge",
+      "source": "Morcel Nougat"
+    }
+  ],
+  "Hardware Part 2": [
+    {
+      "content": "I seem to remember there being a handy HMAC generator included in [CyberChef](https://gchq.github.io/CyberChef/#recipe=HMAC(%7B'option':'UTF8','string':''%7D,'SHA256')).",
+      "name": "It's In the Signature ",
+      "source": "Jewel Loggins"
+    },
+    {
+      "content": "It is so important to keep sensitive data like passwords secure. Often times, when typing passwords into a CLI (Command Line Interface) they get added to log files and other easy to access locations. It makes it trivial to step back in _history_ and identify the password.",
+      "name": "Hidden in Plain Sight",
+      "source": "Jewel Loggins"
     }
   ],
   "cURLing": [
