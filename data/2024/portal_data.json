@@ -22,5 +22,42 @@
       "real_id": "frontyardact1"
     }
   },
-  "stagingreturn": {}
+  "stagingreturn": {},
+  "frontyardact2": {
+    "frontyardact2-oh3": {
+      "name": "frontyardact2-oh3",
+      "x": 19,
+      "y": 18
+    },
+    "frontyardact2-oh5": {
+      "name": "frontyardact2-oh5",
+      "x": 37,
+      "y": 23
+    },
+    "frontyardact2-oh1": {
+      "name": "frontyardact2-oh1",
+      "x": 49,
+      "y": 26
+    },
+    "frontyardact2-oh2": {
+      "name": "frontyardact2-oh2",
+      "x": 33,
+      "y": 46
+    },
+    "frontyardact2_monitoringstation": {
+      "name": "frontyardact2_monitoringstation",
+      "x": 41,
+      "y": 48
+    },
+    "frontyardact2-oh4": {
+      "name": "frontyardact2-oh4",
+      "x": 72,
+      "y": 54
+    },
+    "dock": {
+      "name": "dock",
+      "x": 2,
+      "y": 58
+    }
+  }
 }

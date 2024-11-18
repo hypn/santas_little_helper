@@ -69,6 +69,28 @@
       "source": "Jewel Loggins"
     }
   ],
+  "Mobile Analysis": [
+    {
+      "content": "Try using [apktool](https://github.com/iBotPeaches/Apktool/releases) or [jadx](https://github.com/skylot/jadx)",
+      "name": "Mobile Analysis Easy - Tools",
+      "source": "Eve Snowshoes"
+    },
+    {
+      "content": "So yeah, have you heard about this new [Android app](https://developer.android.com/guide/app-bundle/app-bundle-format) format? Want to [convert it to an APK](https://github.com/HackJJ/apk-sherlock/blob/main/aab2apk.md) file?",
+      "name": "Mobile Analysis Hard - Format",
+      "source": "Eve Snowshoes"
+    },
+    {
+      "content": "Obfuscated and encrypted? Hmph. Shame you can't just run [strings](https://developer.android.com/guide/topics/resources/string-resource) on the file.",
+      "name": "Mobile Analysis Hard - Encryption and Obfuscation",
+      "source": "Eve Snowshoes"
+    },
+    {
+      "content": "Maybe look for what names are included and work back from that?",
+      "name": "Mobile Analysis Easy - Missing",
+      "source": "Eve Snowshoes"
+    }
+  ],
   "cURLing": [
     {
       "content": "Take a look at cURL's \"--path-as-is\" option; it controls a default behavior that you may not expect!",
