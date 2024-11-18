@@ -1,3 +1,26 @@
 {
-  "staging": {}
+  "staging": {},
+  "frontyardact1": {
+    "frontyardact1_monitoringstation": {
+      "name": "frontyardact1_monitoringstation",
+      "x": 41,
+      "y": 48,
+      "real_id": "monitoringstation"
+    },
+    "dock": {
+      "name": "dock",
+      "x": 2,
+      "y": 58,
+      "real_id": "stagingreturn"
+    }
+  },
+  "monitoringstation": {
+    "monitoringstation_frontyardact1": {
+      "name": "monitoringstation_frontyardact1",
+      "x": 7,
+      "y": -4,
+      "real_id": "frontyardact1"
+    }
+  },
+  "stagingreturn": {}
 }

@@ -27,5 +27,41 @@
       "name": "Elf Minder 9000: Reusable Paths",
       "source": "Poinsettia McMittens"
     }
+  ],
+  "Frosty Keypad": [
+    {
+      "content": "Hmmmm.  I know I have seen Santa and the other elves use this keypad.  I wonder what it contains.  I bet whatever is in there is a **National Treasure**!",
+      "name": "Who Are You Calling a Dorf?",
+      "source": "Morcel Nougat"
+    },
+    {
+      "content": "Well this is puzzling.  I wonder if Santa has a seperate code.  Bet that would cast some light on the problem. I know this is a stretch...but...what if you had one of those fancy UV lights to look at the fingerprints on the keypad? That might at least limit the possible digits being used...",
+      "name": "Shine Some Light on It",
+      "source": "Morcel Nougat"
+    },
+    {
+      "content": "See if you can find a copy of that book everyone seems to be reading these days. I thought I saw somebody drop one close by...",
+      "name": "Just Some Light Reading",
+      "source": "Morcel Nougat"
+    }
+  ],
+  "Hardware Part 1": [
+    {
+      "content": "Have you ever wondered how elves manage to dispose of their sensitive documents? Turns out, they use this fancy shredder that is quite the marvel of engineering. It slices, it dices, it makes the paper practically disintegrate into a thousand tiny pieces. Perhaps, just perhaps, we could reassemble the pieces?",
+      "name": "Shredded to Pieces",
+      "source": "Jewel Loggins"
+    }
+  ],
+  "cURLing": [
+    {
+      "content": "Take a look at cURL's \"--path-as-is\" option; it controls a default behavior that you may not expect!",
+      "name": "cURL: Don't squash",
+      "source": "Bow Ninecandle"
+    },
+    {
+      "content": "The official [cURL man page](https://curl.se/docs/manpage.html) has tons of useful information on how to use cURL.",
+      "name": "cURL Manual",
+      "source": "Bow Ninecandle"
+    }
   ]
 }

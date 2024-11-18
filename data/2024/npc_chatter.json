@@ -94,5 +94,68 @@
     "Well, that's it, now you're orientated! Feel free to get yourself settled in, establish a cohort with others, or just explore this lovely island. Just be careful where you walk as we are moving around some pretty heavy crates.",
     "Oh, while we're preparing everything to set sail for the North Pole, I heard Poinsettia McMittens and Angel Candysalt could use some assistance. I'm sure they'll appreciate any help you can provide!",
     "We'll let you know when the boat leaves, but for now relax, enjoy the sun, and most importantly, have FUN!"
+  ],
+  "morcelnougat": [
+    "Hello again! I'm Morcel Nougat, dashing around like a reindeer on a sugar rush! We've got a bit of a dilemma, and I could really use your expertise.",
+    "Wombley and Alabaster have taken charge now that Santa\u2019s gone missing, and We're scrambling to get the Wish List secured. But... one of the elves in the Data Management Team got overzealous, and the Shredder McShreddin 9000 gobbled up a crucial document we need to access Santa's chest!",
+    "It\u2019s our golden ticket to getting Santa\u2019s Little Helper tool working properly. Without it, the hardware hack we're planning is as empty as Santa\u2019s sleigh in January.",
+    "Think you can help? I can get you into the Shredder McShreddin 9000\u2019s inner workings to retrieve the pieces, but there are two access codes involved. One of the elves left a hint, but it\u2019s all a blur to me!",
+    "I've noticed that some elves keep referring to a certain book when they walk by. I bet it has the answers we need to crack the code and recover the document!",
+    "You know, some of the elves always have their noses in the same book when they pass by here. Maybe it\u2019s got the clues we need to crack the code?",
+    "..."
+  ],
+  "wombleycube": [
+    "Greetings. It's great to see you've finally made the journey here to join us.",
+    "Erm, by that I mean all of Santa's elves, of course. The big guy's not here, so I've been coordinating holiday preparation efforts.",
+    "We're just hard at work getting things set up for... the holiday season. Present deliveries and what not.",
+    "Some of us are also busy researching the best way to keep the Wish List and Naughty-Nice List uhh.. safe.",
+    "Not to cut our conversation short, but you must be tired from your journey. You should go over to the fireplace and relax with the others that are taking a break.",
+    "We're doing very important work over here and I need to make sure we stay on schedule.",
+    "..."
+  ],
+  "alabastersnowball": [
+    "Well hello, I'm Alabaster Snowball!",
+    "As you can see all around you, we're still unpacking from our return from the Geese Islands.",
+    "Strangely, Santa is still nowhere to be found. When we couldn't find him on Christmas Island, we thought he must already be here in the North Pole, but nope.",
+    "Even though he's not here, I know he'd still want us to start preparing for the holiday present deliveries, so that's what we're gonna do!",
+    "With all our equipment all jumbled up in boxes, we've been experimenting with ways of securely storing the lists related to our gift-giving operations. We tried implementing the Naughty-Nice List using Blockchain back in 2022 but Jack Frost hacked it and we are trying to find a suitable technical approach for securely storing it. Integrity is of critical importance.",
+    "Without them, naughty listers may get all the good presents, and those that have been nice may get coal. Can you imagine? The horror! This isn't Halloween!",
+    "I've asked my fellow elves to help out with this, since I'm not the most tech-savvy of the bunch. Many got right to it, but some are being quite ho-hum about it. That seems a little strange to me, but maybe they're just tired from the journey home.",
+    "I may not be the sharpest tool in the repository when it comes to the technical stuff, but it seems I'm quite the galvanizer!",
+    "Anywho, why not join Bow for a game of cURL? And then go help Morcel and Jewel with securing the Wish List, please. Thanks a bunch!",
+    "..."
+  ],
+  "bowninecandle": [
+    "Well hello there! I'm Bow Ninecandle, bright as a twinkling star! Everyone's busy unpacking, but I've grown quite bored of that. Care to join me for a lovely game?",
+    "Oh Joy! Today, We're diving into something delightful: the curling challenge\u2014without any ice, but plenty of sparkle!",
+    "No icy brooms here though! We're all about Curl, sending web requests from the command line like magic messages.",
+    "So, have you ever wielded Curl before? If not, no worries at all, my friend!",
+    "It's this clever little tool that lets you whisper directly to web servers. Pretty neat, right?",
+    "Think of it like sending secret scrolls through the interwebs, awaiting a wise reply!",
+    "To begin, you can type something like curl https://example.com. Voil\u00e0! The HTML of the page appears, like conjuring a spell!",
+    "Simple enough, huh? But oh, there's a whole world of magic you can cast with Curl!",
+    "We're just brushing the surface here, but trust me\u2014it\u2019s a hoot and a half!",
+    "If you get tangled up or need help, just give me a shout! I\u2019m here to help you ace this curling spectacle.",
+    "So, are you ready to curl those web requests like a pro? Let\u2019s see your magic unfold!",
+    "..."
+  ],
+  "jewelloggins": [
+    "Hello there! I\u2019m Jewel Loggins.",
+    "I hate to trouble you, but I really need some help. Santa\u2019s Little Helper tool isn\u2019t working, and normally, Santa takes care of this\u2026 but with him missing, it\u2019s all on me.",
+    "I need to connect to the UART interface to get things running, but it\u2019s like the device just refuses to respond every time I try.",
+    "I've got all the right tools, but I must be overlooking something important. I've seen a few elves with similar setups, but everyone\u2019s so busy preparing for Santa\u2019s absence.",
+    "If you could guide me through the connection process, I\u2019d be beyond grateful. It\u2019s critical because this interface controls access to our North Pole access cards!",
+    "We used to have a note with the serial settings, but apparently, one of Wombley\u2019s elves shredded it! You might want to check with Morcel Nougat\u2014he might have a way to recover it.",
+    "..."
+  ],
+  "tinselupatree": [
+    "I'm so sad. I haven't found that cool pirate map that I discovered on Geese Islands yet. It must be in one of these crates somewhere.",
+    "I should just keep helping unpack, unlike the elves over there, and it'll turn up eventually. ",
+    "..."
+  ],
+  "noelboetie": [
+    "Whew... unpacking sure is a chore. I'm so glad we set up this little break area to take a load off for a little while.",
+    "Just me, the snow, chestnuts roasting over an open fire, and a cup of milk tea. The Geese Islands were relaxing and all, but this is what I call paradise.",
+    "..."
   ]
 }
