@@ -587,7 +587,9 @@ def list_terminals():
                         name = extra_info[zone]["entities"][entity]['display_name']
                         room = extra_info[zone]['display_name']
                         coords = extra_info[zone]["entities"][entity]['location']
-                        url = extra_info[zone]["entities"][entity]['url'] + '&id=1'
+                        url = ""
+                        if "url" in extra_info[zone]["entities"][entity]:
+                            url = extra_info[zone]["entities"][entity]['url'] + '&id=1'
                         print(f"- \"{yel}{name}{off}\" in {cya}{room}{off} at {cya}{coords}{off} ({blu}{url}{off})")
         print(f"{red}Note: these links will not unlock progress or achievements in the game!{off}")
     else:
