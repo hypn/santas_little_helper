@@ -1,0 +1,106 @@
+{
+  "Elf Connect": [
+    {
+      "content": "WOW! A high score of 50,000 points! That\u2019s way beyond the limit! With only four rounds and a max of 400 points per round, the top possible score should be 1,600 points. So, how did someone get to 50,000? Something unusual must be happening!\n\nIf you're curious, you might want to check under the hood. Try opening the browser's developer tools console and looking around\u2014there might even be a variable named 'score' that could give you some insights. Sometimes, games hold secrets for those who dig a little deeper. Give it a shot and see what you can discover!",
+      "name": "Elf Connect Hard",
+      "source": "Angel Candysalt"
+    },
+    {
+      "content": "I love brain games! This one is like the New York Times Connections game. Your goal here is to find groups of items that share something in common. Think of each group as having a hidden connection or theme\u2014four items belong together, and there are multiple groups to find! See if you can spot patterns or common threads to make connections. Group all the items correctly to win!",
+      "name": "Elf Connect Easy",
+      "source": "Angel Candysalt"
+    }
+  ],
+  "Elf Minder 9000": [
+    {
+      "content": "Be sure you read the \"Help\" section thoroughly! In doing so, you will learn how to use the tools necessary to safely guide your elf and collect all the crates.",
+      "name": "Elf Minder 9000: RTD (Read the Docs)",
+      "source": "Poinsettia McMittens"
+    },
+    {
+      "content": "When developing a video game\u2014even a simple one\u2014it's surprisingly easy to overlook an edge case in the game logic, which can lead to unexpected behavior. ",
+      "name": "Elf Minder 9000: TODO",
+      "source": "Poinsettia McMittens"
+    },
+    {
+      "content": "Some levels will require you to click and rotate paths in order for your elf to collect all the crates.",
+      "name": "Elf Minder 9000: Reusable Paths",
+      "source": "Poinsettia McMittens"
+    }
+  ],
+  "Frosty Keypad": [
+    {
+      "content": "Hmmmm.  I know I have seen Santa and the other elves use this keypad.  I wonder what it contains.  I bet whatever is in there is a **National Treasure**!",
+      "name": "Who Are You Calling a Dorf?",
+      "source": "Morcel Nougat"
+    },
+    {
+      "content": "Well this is puzzling.  I wonder if Santa has a seperate code.  Bet that would cast some light on the problem. I know this is a stretch...but...what if you had one of those fancy UV lights to look at the fingerprints on the keypad? That might at least limit the possible digits being used...",
+      "name": "Shine Some Light on It",
+      "source": "Morcel Nougat"
+    },
+    {
+      "content": "See if you can find a copy of that book everyone seems to be reading these days. I thought I saw somebody drop one close by...",
+      "name": "Just Some Light Reading",
+      "source": "Morcel Nougat"
+    }
+  ],
+  "Hardware Part 1": [
+    {
+      "content": "Have you ever wondered how elves manage to dispose of their sensitive documents? Turns out, they use this fancy shredder that is quite the marvel of engineering. It slices, it dices, it makes the paper practically disintegrate into a thousand tiny pieces. Perhaps, just perhaps, we could reassemble the pieces?",
+      "name": "Shredded to Pieces",
+      "source": "Jewel Loggins"
+    },
+    {
+      "content": "Hey, I just caught wind of this neat way to piece back shredded paper! It's a fancy heuristic detection technique\u2014sharp as an elf\u2019s wit, I tell ya! Got a sample Python script right here, courtesy of Arnydo. Check it out when you have a sec: [heuristic_edge_detection.py](https://gist.github.com/arnydo/5dc85343eca9b8eb98a0f157b9d4d719).\"",
+      "name": "On the Cutting Edge",
+      "source": "Morcel Nougat"
+    }
+  ],
+  "Hardware Part 2": [
+    {
+      "content": "I seem to remember there being a handy HMAC generator included in [CyberChef](https://gchq.github.io/CyberChef/#recipe=HMAC(%7B'option':'UTF8','string':''%7D,'SHA256')).",
+      "name": "It's In the Signature ",
+      "source": "Jewel Loggins"
+    },
+    {
+      "content": "It is so important to keep sensitive data like passwords secure. Often times, when typing passwords into a CLI (Command Line Interface) they get added to log files and other easy to access locations. It makes it trivial to step back in _history_ and identify the password.",
+      "name": "Hidden in Plain Sight",
+      "source": "Jewel Loggins"
+    }
+  ],
+  "Mobile Analysis": [
+    {
+      "content": "Try using [apktool](https://github.com/iBotPeaches/Apktool/releases) or [jadx](https://github.com/skylot/jadx)",
+      "name": "Mobile Analysis Easy - Tools",
+      "source": "Eve Snowshoes"
+    },
+    {
+      "content": "So yeah, have you heard about this new [Android app](https://developer.android.com/guide/app-bundle/app-bundle-format) format? Want to [convert it to an APK](https://github.com/HackJJ/apk-sherlock/blob/main/aab2apk.md) file?",
+      "name": "Mobile Analysis Hard - Format",
+      "source": "Eve Snowshoes"
+    },
+    {
+      "content": "Obfuscated and encrypted? Hmph. Shame you can't just run [strings](https://developer.android.com/guide/topics/resources/string-resource) on the file.",
+      "name": "Mobile Analysis Hard - Encryption and Obfuscation",
+      "source": "Eve Snowshoes"
+    },
+    {
+      "content": "Maybe look for what names are included and work back from that?",
+      "name": "Mobile Analysis Easy - Missing",
+      "source": "Eve Snowshoes"
+    }
+  ],
+  "cURLing": [
+    {
+      "content": "Take a look at cURL's \"--path-as-is\" option; it controls a default behavior that you may not expect!",
+      "name": "cURL: Don't squash",
+      "source": "Bow Ninecandle"
+    },
+    {
+      "content": "The official [cURL man page](https://curl.se/docs/manpage.html) has tons of useful information on how to use cURL.",
+      "name": "cURL Manual",
+      "source": "Bow Ninecandle"
+    }
+  ]
+}

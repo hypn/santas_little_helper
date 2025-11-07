@@ -458,9 +458,8 @@ def print_grid_specific(zone):
         term_name = term['name']
         ws.send('{"type":"HELLO_ENTITY","entityType":"terminal","id":"%s"}' % term_name)
         receive_until_terminal()
-        r_url = extra_info[zone]['entities'][term_name]['resource_url']
-        print(f"- {term['display_name']}  (url:{term['url']})")
-        print(f"- Your personal link: {r_url}")
+        if "url" in extra_info[zone]['entities'][term_name]:
+            print(f"- {term['display_name']}  ({term['url']})")
     print("")
 
 
@@ -484,11 +483,11 @@ def print_grid():
     else:
         print_grid_specific(target)
 
-    discover("In order to use the docker links here, you need to paste the following javascript in your developer console after loading the docker (if you do not, completing them will not score you any points in-game):")
-    js_code = '''window.top.postMessage = function(message, other) {msg = '{"type":"COMPLETE_CHALLENGE","resourceId":"' + message.resourceId + '","hash":"' + message.hash + '"}';console.log(msg); ws = new WebSocket('wss://2020.kringlecon.com/ws'); ws.onopen = function () {      ws.send('{"type":"WS_CONNECTED","protocol":"43ae08fd-9cf2-4f54-a6a6-8454aef59581"}'); var passwd = prompt("Please enter your password", ""); ws.send('{"type":"WS_LOGIN","usernameOrEmail":"%s","password":"' + passwd + '"}'); setTimeout(function(){ ws.send(msg); }, 3000);     }}; '''
-    js_code = js_code % login_user
-    js_code = js_code.replace("wss://2020.kringlecon.com/ws", "wss://" + year + ".kringlecon.com/ws")
-    print(js_code)
+    # discover("In order to use the docker links here, you need to paste the following javascript in your developer console after loading the docker (if you do not, completing them will not score you any points in-game):")
+    # js_code = '''window.top.postMessage = function(message, other) {msg = '{"type":"COMPLETE_CHALLENGE","resourceId":"' + message.resourceId + '","hash":"' + message.hash + '"}';console.log(msg); ws = new WebSocket('wss://2020.kringlecon.com/ws'); ws.onopen = function () {      ws.send('{"type":"WS_CONNECTED","protocol":"43ae08fd-9cf2-4f54-a6a6-8454aef59581"}'); var passwd = prompt("Please enter your password", ""); ws.send('{"type":"WS_LOGIN","usernameOrEmail":"%s","password":"' + passwd + '"}'); setTimeout(function(){ ws.send(msg); }, 3000);     }}; '''
+    # js_code = js_code % login_user
+    # js_code = js_code.replace("wss://2020.kringlecon.com/ws", "wss://" + year + ".kringlecon.com/ws")
+    # print(js_code)
 
     print("")
 
@@ -588,7 +587,9 @@ def list_terminals():
                         name = extra_info[zone]["entities"][entity]['display_name']
                         room = extra_info[zone]['display_name']
                         coords = extra_info[zone]["entities"][entity]['location']
-                        url = extra_info[zone]["entities"][entity]['url'] + '&id=1'
+                        url = ""
+                        if "url" in extra_info[zone]["entities"][entity]:
+                            url = extra_info[zone]["entities"][entity]['url'] + '&id=1'
                         print(f"- \"{yel}{name}{off}\" in {cya}{room}{off} at {cya}{coords}{off} ({blu}{url}{off})")
         print(f"{red}Note: these links will not unlock progress or achievements in the game!{off}")
     else:

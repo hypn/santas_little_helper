@@ -1,0 +1,63 @@
+{
+  "staging": {},
+  "frontyardact1": {
+    "frontyardact1_monitoringstation": {
+      "name": "frontyardact1_monitoringstation",
+      "x": 41,
+      "y": 48,
+      "real_id": "monitoringstation"
+    },
+    "dock": {
+      "name": "dock",
+      "x": 2,
+      "y": 58,
+      "real_id": "stagingreturn"
+    }
+  },
+  "monitoringstation": {
+    "monitoringstation_frontyardact1": {
+      "name": "monitoringstation_frontyardact1",
+      "x": 7,
+      "y": -4,
+      "real_id": "frontyardact1"
+    }
+  },
+  "stagingreturn": {},
+  "frontyardact2": {
+    "frontyardact2-oh3": {
+      "name": "frontyardact2-oh3",
+      "x": 19,
+      "y": 18
+    },
+    "frontyardact2-oh5": {
+      "name": "frontyardact2-oh5",
+      "x": 37,
+      "y": 23
+    },
+    "frontyardact2-oh1": {
+      "name": "frontyardact2-oh1",
+      "x": 49,
+      "y": 26
+    },
+    "frontyardact2-oh2": {
+      "name": "frontyardact2-oh2",
+      "x": 33,
+      "y": 46
+    },
+    "frontyardact2_monitoringstation": {
+      "name": "frontyardact2_monitoringstation",
+      "x": 41,
+      "y": 48
+    },
+    "frontyardact2-oh4": {
+      "name": "frontyardact2-oh4",
+      "x": 72,
+      "y": 54
+    },
+    "dock": {
+      "name": "dock",
+      "x": 2,
+      "y": 58
+    }
+  }
+}
