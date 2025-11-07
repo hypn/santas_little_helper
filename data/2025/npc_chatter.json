@@ -1,0 +1,312 @@
+{
+  "gnometerminator": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "chrisdavis": [
+    "Hi, my name is Chris.",
+    "I like miniature war gaming and painting minis.",
+    "I enjoy open source projects and amateur robotics.",
+    "Hiking and kayaking are my favorite IRL activies.",
+    "I love single player video games with great stoylines.",
+    "Swing by again soon. I may have a task that's perfect for you.",
+    "..."
+  ],
+  "gnomefestive6": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomefestive8": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomevandal": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomefestive7": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomecorpo": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomegym": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomefestive2": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnometroll": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "jason": [
+    "Hi there, I'm Jason!",
+    "Hmmm, I guess I\u2019m in streaming mode this year!",
+    "..."
+  ],
+  "gnomefestive4": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomefestive5": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomeemcee": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "goosepixel": [
+    "(Spanish mode) Hi... welcome to the Dosis Neighborhood! Nice to meet you!",
+    "Please make sure the towns Azure network is secured properly.",
+    "The Neighborhood HOA uses Azure for their IT infrastructure.",
+    "Audit their network security configuration to ensure production systems aren't exposed to internet attacks. ",
+    "They claim all systems are properly protected, but you need to verify there are no overly permissive NSG rules.",
+    "..."
+  ],
+  "gnomehacker": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomefestive1": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomefestive3": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomehooligan": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "evanbooth": [
+    "Hey, I'm Evan!",
+    "I like to build things.",
+    "All sorts of things.",
+    "If you aren't failing on some front, consider adjusting your difficulty settings.",
+    "Come find me later - I might need a hand with something.",
+    "..."
+  ],
+  "patrickchapman": [
+    "*SHHHHHH I'm closing a deal...*",
+    "..."
+  ],
+  "gnomesteamymcsteamface": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "gnomeelder": [
+    "*...gnomish nonsense...*",
+    "..."
+  ],
+  "ericpursley": [
+    "Hey, I'm Eric. As you can see, I'm an avid motorcyclist. And I love traveling the world with my wife.",
+    "I enjoy being creative and making things. For example, a cybersecurity tool called [Zero-E](https://github.com/sl3yE/Zero-E) that I'm quite proud of, and the Baldur's Gate 3 mod called [Manaflare](https://www.nexusmods.com/baldursgate3/mods/7755?tab=description). I'm even in the BG3 credits!",
+    "I also make tools, ranges, and HHC worlds for Counter Hack. Yup, including the one you're in right now.",
+    "But most of the time, I'm helping organizations in the real world be more secure. I do a bunch of different kinds of pentesting, but speciailize in network and physical.",
+    "Some advice: stay laser-focused on your goals and don't let the distractions life throws at you lead you astray. That's how I ended up at Counter Hack!",
+    "Speaking of tools, let me introduce you to one of the most essential weapons in any pentester's arsenal: Nmap.",
+    "It's like having X-ray vision for networks, and I've set up a perfect environment for you to learn the fundamentals.",
+    "Help me find and connect to the wardriving rig's service on my motorcycle!",
+    "..."
+  ],
+  "jaredfolkins": [
+    "Jared Folkins here! My favorite Christmas movie is White Christmas. You should find me on the socials and tell me what yours is.",
+    "You know, I think Santa is right! It truly is better to give than to receive.",
+    "I love singing Carols with my family! \ud83c\udfb5O holy night, the stars are brightly shining\u2026\ud83c\udfb5",
+    "Santa's got the right idea about giving, and I'm excited to give you a fantastic way to learn networking fundamentals!",
+    "This interactive visualization I've created shows you exactly how packets travel, how protocols work, and why networks behave the way they do.",
+    "It's way better than staring at boring textbooks - you can actually see what's happening!",
+    "Want to dive into some hands-on network exploration?",
+    "..."
+  ],
+  "goosesteampunk": [
+    "CLUCK CLU... I think I might be losing my mind. All the elves are gone and I'm still hearing voices.",
+    "The Neighborhood HOA uses Azure for their IT infrastructure.",
+    "The Neighborhood network admins use RBAC fo access control.",
+    "Your task is to audit their RBAC configuration to ensure they're following security best practices.",
+    "They claim all elevated access uses PIM, but you need to verify there are no permanently assigned Owner roles.",
+    "..."
+  ],
+  "kyleparrish": [
+    "If you spot a fire, let me know! I'm Kyle, and I've been around the Holiday Hack Challenge scene for years as arnydo - picked up multiple Super Honorable Mentions along the way.",
+    "When I'm not fighting fires or hunting vulnerabilities, you'll find me on a unicycle or juggling - I once showed up a professional clown with his own clubs!",
+    "My family and I love exploring those East Tennessee mountains, and honestly, geocaching teaches you a lot about finding hidden things - useful in both firefighting and hacking.",
+    "Anyway, I could use some help here. This fire alarm keeps going nuts but there's no fire. I checked.",
+    "I think someone has locked us out of the system. Can you see if you can get back in?",
+    "..."
+  ],
+  "paulbeckett": [
+    "Hey, I\u2019m Paul!",
+    "I\u2019ve been at Counter Hack since 2024 and loving every minute of it.",
+    "I\u2019m a pentester who digs into web, API, and mobile apps, and I\u2019m also a fan of Linux.",
+    "When I\u2019m not hacking away, you can catch me enjoying board games, hiking, or paddle boarding!",
+    "Something's afoot, but the details aren't sorted. Do pop back - you'll want in on this.",
+    "..."
+  ],
+  "goosemisfit": [
+    "HONK!!! HONK!!!!",
+    "The Neighborhood HOA uses Azure storage accounts for various IT operations.",
+    "You've been asked to audit their storage security configuration to ensure no sensitive data is publicly accessible.",
+    " Recent security reports suggest some storage accounts might have public blob access enabled, creating potential data exposure risks.",
+    "..."
+  ],
+  "goosenoir": [
+    "You want me to say what exactly?\nDo I really look like someone who says MOOO?",
+    "The Neighborhood HOA hosts a static website on Azure Storage.",
+    "An admin accidentally uploaded an infrastructure config file that contains a long-lived SAS token. ",
+    "Use Azure CLI to find the leak and report exactly where it lives.",
+    "..."
+  ],
+  "yorikvitchko": [
+    "Hi! I'm Yori. ",
+    "I was Ed's lost intern back in 2015, but I was found!",
+    "Think you can check out this terminal for me? I need to use cURL to access the gift tracker system, but it has me stumped.",
+    "Please see what you can do!",
+    "..."
+  ],
+  "boothmicrosoft": [
+    "Loved the challenge? Explore these free [Microsoft Security resources](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy).",
+    "Security is a team sport. Each year, Microsoft empowers our security community by sharing threat trends and insights in our [Digital Defense Report](http://aka.ms/MDDR).",
+    "..."
+  ],
+  "boothsansedu": [
+    "**Happy Holidays from the Best College for Cybersecurity!**",
+    "Wishing you joy, success, and zero vulnerabilities this season. Unwrap your cyber future: [sans.edu/about](https://sans.edu/about)",
+    "..."
+  ],
+  "rsacbooth": [
+    "Here\u2019s to a bright season and an even bolder year of innovation ahead at RSAC\u2122 2026.",
+    "Claim your exclusive holiday savings\u2014 [register today](https://urldefense.com/v3/__https://www.rsaconference.com/Events/2026-USA/SANS-Holiday-Hack__;!!MlQdS1fu!RYe_HSFi6dylYm5dzbervI_4iOcP9pyX92gc5FgyaX8fiMpQW3Efhpq1WbDM3NueCffEgL-eCMyeEWYY$) for RSAC\u2122 2026.",
+    "..."
+  ],
+  "swagbooth": [
+    "Swag! Come get your swag! ",
+    "Come back a bit later for the link...",
+    "..."
+  ],
+  "boothgoogle": [
+    "Google is a proud sponsor of the Holiday Hack Challenge. We wish you a happy holiday hacking season.",
+    "[Meet Security Engineers at Google](https://www.youtube.com/watch?v=-6ZbrfSRWKc)!",
+    "..."
+  ],
+  "lynnschifanotrain": [
+    "Welcome to the 2025 SANS Holiday Hack Challenge! We\u2019re on a train heading\u2026 NOT to the North Pole, but instead to The Neighborhood. Your cybersecurity skills are needed there this year! I\u2019m here to help orient you to this year\u2019s exciting challenge.",
+    "I'm the Chief of Staff at Counter Hack, making sure the right people are doing the right thing at the right place at the right time -- Herding cats, in other words.",
+    "I love sports, especially college basketball.  My favorite teams are Monmouth University, Louisville, and Syracuse.",
+    "I'm a Queens Girl living my best life at the beautiful Jersey Shore.",
+    "I'm a proud Mom of three and Grandma of one (so far!! \ud83d\ude4f).",
+    "Hey, think you can give this terminal a try? Just click on it and follow the instructions.",
+    "Great work! Please, hop off the train and explore the neighborhood.",
+    "We're so glad to have you here!",
+    "Oh, one more thing! You can press `Q` and `E` to rotate the map around. It gives you a nice semi-3D view of the area - really helps when you need to look around buildings and objects. Pretty neat, right? Give it a spin!",
+    "..."
+  ],
+  "torkelopsahl": [
+    "God dag! My name is Torkel! That literally translates to Thor's Warrior in old Norse.",
+    "If I'm not climbing, snowboarding, or hacking, I'm probably preparing for my next adventure. Did you know all of that is available in Lofoten?",
+    "If you meet me online, I'll probably go by TGC. That's short for Thegrasscutter, because my first job was cutting grass. Exciting, I know.",
+    "I'll teach you a Norwegian word, skorstein, which means chimney.",
+    "There's something coming up. Can't say more now - come back soon.",
+    "..."
+  ],
+  "charliegoldner": [
+    "Hello! I'm not JJ. I like music.",
+    "I accept AI tokens.",
+    "I like quantum pancakes.",
+    "I enjoy social engineeering.",
+    "Check back with me later - I might have something for you to help with!",
+    "..."
+  ],
+  "joshwright": [
+    "I'm a teetotling hacker.",
+    "I sleep about 4 hours a night.",
+    "Photography is my hobby, but the anachronistic sort: before 1900.",
+    "Teaching people how to hack and protect systems is my passion.",
+    "Not yet. Come back later... I might have something interesting for you.",
+    "Did you see that receipt outside the door?",
+    "..."
+  ],
+  "mauricewilson": [
+    "Hey there! I'm Mo, on loan from the Air Force, and let me tell you - Counter Hack is the best job I have ever had!",
+    "There is something in the works. Come see me later and we will talk. Can't say much right now, but check back later. You might be interested.",
+    "..."
+  ],
+  "edskoudis": [
+    "I'm the Founder of Counter Hack Innovations, the team that brings you the SANS Holiday Hack Challenge for the last 22 years.",
+    "I'm also the President of the SANS Technology Institute College, which has over 2,300 students studying for their Bachelor's Degrees, Master's Degrees, and various certificates.",
+    "I was the original author of the SANS SEC504 (Incident Handling and Hacker Attacks) and SANS SEC560 (Enterprise Penetration Testing) courses.",
+    "I love Capture the Flag games and puzzles.",
+    "I've got a steampunk office filled with secret rooms, and I collect antique crypto systems and communication technologies.",
+    "I've got an original Enigma machine (A726, from the early war years), a leaf of the Gutenberg Bible (1 John 2:3 to 4:16) from 1455, and a Kryha Liliput from the 1920s.",
+    "Oh gosh, I could talk for hours about this stuff but I really need your help!",
+    "The team has been working on this new SOC tool that helps triage phishing emails...and there are some...issues.",
+    "We have had some pretty sketchy emails coming through and we need to make sure we block ALL of the indicators of compromise. Can you help me? No pressure...",
+    "..."
+  ],
+  "chriselgee": [
+    "Oh hi!  Am I on the road again?  I should buy souvenirs for the family.",
+    "Loud shirts?  Love them.  Because - hey, if you aren't having fun, what are you even doing??",
+    "And yes, finger guns are 100% appropriate for military portraits.",
+    "...  We should get dessert soon!",
+    "Welcome to my little corner of network security! *finger guns*",
+    "I've whipped up something sweeter than my favorite whoopie pie - an interactive firewall simulator that'll teach you more in ten minutes than most textbooks do in ten chapters.",
+    "Don't worry about breaking anything; that's half the fun of learning!",
+    "Ready to dig in?",
+    "..."
+  ],
+  "tomhessman": [
+    "Hi, I'm Tom!  I've worked for Counter Hack since its founding in 2010.",
+    "I love all things testing and QA, maintaining systems, logistics, and helping our customers have the best possible experience.",
+    "Outside of work, you'll find me at my local community theater producing shows, helping with sound or video, or just hanging around.",
+    "Learn more about my background at [TomHessman.com](https://tomhessman.com)!",
+    "Well, I might have something developing. Come see me again soon, we'll see.",
+    "..."
+  ],
+  "goosespace": [
+    "\"HONK! Well hello there! Fancy meeting you here in the Dosis Neighborhood.",
+    "You know, it's the strangest thing... I used to just waddle around the Geese Islands going 'BONK' all day long. Random noises, no thoughts, just vibes. But then something changed, and now here I am\u2014speaking, thinking, wondering how I even got here!",
+    "..."
+  ],
+  "kevinmcfarland": [
+    "Hello, I'm Kevin (though past friends have referred to me as 'Heavy K'). If you ever hear any one say that philosophy is a useless college degree, don't believe them; it's not. I've arrived where I am at because of it. It just made the path more interesting.",
+    "I have more hobbies than I can keep up with, including Amateur Astronomy, Shortwave Radio, and retro-gaming. Things like backyard observances of distant galaxies, non-internet involved, around the world communications, and those who program for the Atari 2600 still invoke degrees of awe for me.",
+    "One of the most influential books I've read is \"Godel, Escher, and Bach\" by Douglas Hofstadter. I'm also a bit of a Tolkien fanatic.",
+    "My wife and my daughter are everything; without them, I surely would still be kicking rusty tin cans down the lonely highways of my past.",
+    "I don't have the details yet, but something's coming up. Check back with me.",
+    "..."
+  ],
+  "markdevito": [
+    "I am an avid collector of things of the past.  I love old technology.  I love how it connects us to the past. Some remind me of my dad, who was an engineer on the Apollo 11 mission and helped develop the rendezvous and altimeter radar on the space craft.",
+    "If you ever get into collecting things like vintage computers, here is a tip. Never forget to remove the RIFA capacitors from vintage computer power supplies when restoring a system. If not they can pop and fill the room with nasty smoke.",
+    "I love vintage computing, it\u2019s the very core of where and when it all began. I still enjoy writing programs in BASIC and have started re-learning Apple II assembly language.  I started writing code in 1982 on a Commodore CBM.",
+    "Sometimes it is the people no one can imagine anything of who do the things no one can imagine. - Alan Turing",
+    "You never forget your first 8-bit system.",
+    "There's something in the works. Come see me later and we'll talk.",
+    "..."
+  ],
+  "thomasbouve": [
+    "Hi there, I'm Thomas, but you can call me CraHan if you like.",
+    "What do you mean 'weird accent'? I have no idea why people keep telling me that, but it sounds fine in my head, to be honest.",
+    "Anyway, way back before I joined Counter Hack, I was an avid HHC player just like you! Some of [my write-ups](https://n00.be/) even resulted in a couple of wins throughout the years. Definitely check them out if you're looking for some inspiration. ",
+    "If you decide to submit your own report, my [Holiday Hack Challenge report template](https://github.com/crahan/HolidayHackChallengeTemplate) might help you save some time as well.",
+    "My t-shirt? You like it? Well, Synthwave, cyberpunk, and even cassette futurism are definitely my kinda jam!",
+    "I also love to tinker, but for some weird reason my drawer of unfinished hacking projects just keeps overflowing. 24 hours in a day simply isn't enough time, I guess.",
+    "Oh... and no matter what Mark or Kevin try to tell you, the Amiga is the absolute best retro computing platform ever made!",
+    "I'm working on something interesting. Pass by later, okay? We can talk then.",
+    "..."
+  ],
+  "januszjasinski": [
+    "Hello! I'm JJ. I like rock, metal, and punk music. That's all I have to say about that.",
+    "I accept BTC.",
+    "Skeletor is my hero!",
+    "Haven't got a thing for you just now, but do pop round later. I daresay I'll have something by then!",
+    "..."
+  ]
+}
