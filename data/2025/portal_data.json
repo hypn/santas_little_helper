@@ -1,0 +1,264 @@
+{
+  "gnomefactory": {
+    "gnomefactory-datacenter": {
+      "name": "gnomefactory-datacenter",
+      "x": 5,
+      "y": 20,
+      "real_id": "datacentermaze"
+    }
+  },
+  "datacentermaze": {
+    "datacenter-gnomefactory": {
+      "name": "datacenter-gnomefactory",
+      "x": 25,
+      "y": -13,
+      "real_id": "gnomefactory"
+    },
+    "datacentermaze-city": {
+      "name": "datacentermaze-city",
+      "x": 45,
+      "y": -13,
+      "real_id": "city"
+    },
+    "datacenter1-datacenter2": {
+      "name": "datacenter1-datacenter2",
+      "x": 48,
+      "y": -13
+    },
+    "datacentermaze-datacenter": {
+      "name": "datacentermaze-datacenter",
+      "x": 9,
+      "y": 1
+    },
+    "datacenter2-datacenter3": {
+      "name": "datacenter2-datacenter3",
+      "x": 3,
+      "y": 20
+    },
+    "datacenter3-datacenter4": {
+      "name": "datacenter3-datacenter4",
+      "x": 27,
+      "y": 20
+    },
+    "datacenter4-datacenter5": {
+      "name": "datacenter4-datacenter5",
+      "x": 20,
+      "y": 22
+    },
+    "datacenter5-datacenter6": {
+      "name": "datacenter5-datacenter6",
+      "x": -5,
+      "y": 37
+    },
+    "datacenter7-datacenter8": {
+      "name": "datacenter7-datacenter8",
+      "x": 10,
+      "y": 37
+    },
+    "datacenter6-datacenter7": {
+      "name": "datacenter6-datacenter7",
+      "x": 35,
+      "y": 37
+    },
+    "datacenter10-datacenter11": {
+      "name": "datacenter10-datacenter11",
+      "x": 12,
+      "y": 49
+    },
+    "datacenter9-datacenter10": {
+      "name": "datacenter9-datacenter10",
+      "x": -3,
+      "y": 59
+    },
+    "datacenter8-datacenter9": {
+      "name": "datacenter8-datacenter9",
+      "x": 27,
+      "y": 59
+    },
+    "datacenter11-snowlab": {
+      "name": "datacenter11-snowlab",
+      "x": 15,
+      "y": 73
+    }
+  },
+  "city": {
+    "city2-hotellobby2": {
+      "name": "city2-hotellobby2",
+      "x": 67,
+      "y": 14,
+      "real_id": "hotellobby"
+    },
+    "city3-hotellobby3": {
+      "name": "city3-hotellobby3",
+      "x": 60,
+      "y": 15,
+      "real_id": "hotellobby"
+    },
+    "city-sasabune": {
+      "name": "city-sasabune",
+      "x": 98,
+      "y": 18,
+      "real_id": "sasabune"
+    },
+    "city-cityhall": {
+      "name": "city-cityhall",
+      "x": 27,
+      "y": 19,
+      "real_id": "cityhall"
+    },
+    "city-hotellobby": {
+      "name": "city-hotellobby",
+      "x": 64,
+      "y": 19,
+      "real_id": "hotellobby"
+    },
+    "city-train": {
+      "name": "city-train",
+      "x": 2,
+      "y": 20,
+      "real_id": "train"
+    },
+    "city-retroshop": {
+      "name": "city-retroshop",
+      "x": 43,
+      "y": 20,
+      "real_id": "retroshop"
+    },
+    "city-datacenter": {
+      "name": "city-datacenter",
+      "x": 62,
+      "y": 34,
+      "real_id": "datacenter"
+    },
+    "city-apartment": {
+      "name": "city-apartment",
+      "x": 26,
+      "y": 39,
+      "real_id": "apartment"
+    },
+    "city-24seven": {
+      "name": "city-24seven",
+      "x": 40,
+      "y": 41,
+      "real_id": "24seven"
+    }
+  },
+  "hotellobby": {
+    "hotellobby3-city3": {
+      "name": "hotellobby3-city3",
+      "x": 2,
+      "y": 9,
+      "real_id": "city"
+    },
+    "hotellobby2-city2": {
+      "name": "hotellobby2-city2",
+      "x": 16,
+      "y": 9,
+      "real_id": "city"
+    },
+    "hotellobby-netwars": {
+      "name": "hotellobby-netwars",
+      "x": -4,
+      "y": 13,
+      "real_id": "netwars"
+    },
+    "hotellobby-city": {
+      "name": "hotellobby-city",
+      "x": 8,
+      "y": 17,
+      "real_id": "city"
+    }
+  },
+  "sasabune": {
+    "sasabune-city": {
+      "name": "sasabune-city",
+      "x": 9,
+      "y": 9,
+      "real_id": "city"
+    }
+  },
+  "cityhall": {
+    "cityhall-edoffice": {
+      "name": "cityhall-edoffice",
+      "x": 3,
+      "y": 1,
+      "real_id": "edoffice"
+    },
+    "cityhall-city": {
+      "name": "cityhall-city",
+      "x": 9,
+      "y": 10,
+      "real_id": "city"
+    }
+  },
+  "edoffice": {
+    "edoffice-cityhall": {
+      "name": "edoffice-cityhall",
+      "x": 9,
+      "y": 10,
+      "real_id": "cityhall"
+    }
+  },
+  "netwars": {
+    "netwars-hotellobby": {
+      "name": "netwars-hotellobby",
+      "x": 5,
+      "y": 13,
+      "real_id": "hotellobby"
+    }
+  },
+  "train": {
+    "train-city": {
+      "name": "train-city",
+      "x": 3,
+      "y": 3,
+      "real_id": "city"
+    }
+  },
+  "retroshop": {
+    "retroshop-city": {
+      "name": "retroshop-city",
+      "x": 9,
+      "y": 12,
+      "real_id": "city"
+    }
+  },
+  "datacenter": {
+    "datacenter-city": {
+      "name": "datacenter-city",
+      "x": 1,
+      "y": 4,
+      "real_id": "city"
+    },
+    "datacenter-datacentermaze": {
+      "name": "datacenter-datacentermaze",
+      "x": 16,
+      "y": 11,
+      "real_id": "datacentermaze"
+    }
+  },
+  "apartment": {
+    "apartment-city": {
+      "name": "apartment-city",
+      "x": 4,
+      "y": 9,
+      "real_id": "city"
+    }
+  },
+  "24seven": {
+    "24seven-city": {
+      "name": "24seven-city",
+      "x": 6,
+      "y": 9,
+      "real_id": "city"
+    }
+  },
+  "shenanigans": {
+    "shenanigans-train": {
+      "name": "shenanigans-train",
+      "x": 9,
+      "y": -1,
+      "real_id": "train"
+    }
+  }
+}
