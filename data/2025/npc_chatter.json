@@ -114,7 +114,9 @@
     "Speaking of tools, let me introduce you to one of the most essential weapons in any pentester's arsenal: Nmap.",
     "It's like having X-ray vision for networks, and I've set up a perfect environment for you to learn the fundamentals.",
     "Help me find and connect to the wardriving rig's service on my motorcycle!",
-    "..."
+    "...",
+    "Excellent work! You've got the Nmap fundamentals down - that X-ray vision is going to serve you well in future challenges.",
+    "Now you're ready to scan networks like a seasoned pentester!"
   ],
   "jaredfolkins": [
     "Jared Folkins here! My favorite Christmas movie is White Christmas. You should find me on the socials and tell me what yours is.",
@@ -124,7 +126,9 @@
     "This interactive visualization I've created shows you exactly how packets travel, how protocols work, and why networks behave the way they do.",
     "It's way better than staring at boring textbooks - you can actually see what's happening!",
     "Want to dive into some hands-on network exploration?",
-    "..."
+    "...",
+    "Wonderful! You've mastered those networking basics beautifully.",
+    "Now you can see how all the pieces of the network puzzle fit together - it's truly better to give knowledge than to keep it to yourself!"
   ],
   "goosesteampunk": [
     "CLUCK CLU... I think I might be losing my mind. All the elves are gone and I'm still hearing voices.",
@@ -140,7 +144,9 @@
     "My family and I love exploring those East Tennessee mountains, and honestly, geocaching teaches you a lot about finding hidden things - useful in both firefighting and hacking.",
     "Anyway, I could use some help here. This fire alarm keeps going nuts but there's no fire. I checked.",
     "I think someone has locked us out of the system. Can you see if you can get back in?",
-    "..."
+    "...",
+    "Wow! Thank you so much! I didn't realize sudo was so powerful. Especially when misconfigured. Who knew a simple privilege escalation could unlock the whole fire safety system?",
+    "Now... will you sudo make me a sandwich?"
   ],
   "paulbeckett": [
     "Hey, I\u2019m Paul!",
@@ -169,7 +175,9 @@
     "I was Ed's lost intern back in 2015, but I was found!",
     "Think you can check out this terminal for me? I need to use cURL to access the gift tracker system, but it has me stumped.",
     "Please see what you can do!",
-    "..."
+    "...",
+    "Great work - thank you!",
+    "Geez, maybe you can be my intern now!"
   ],
   "boothmicrosoft": [
     "Loved the challenge? Explore these free [Microsoft Security resources](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy).",
@@ -248,7 +256,9 @@
     "Oh gosh, I could talk for hours about this stuff but I really need your help!",
     "The team has been working on this new SOC tool that helps triage phishing emails...and there are some...issues.",
     "We have had some pretty sketchy emails coming through and we need to make sure we block ALL of the indicators of compromise. Can you help me? No pressure...",
-    "..."
+    "...",
+    "Well you just made that look like a piece of cake! Though I prefer cookies...I know where to find the best in town!",
+    "Thanks again! See ya 'round!"
   ],
   "chriselgee": [
     "Oh hi!  Am I on the road again?  I should buy souvenirs for the family.",

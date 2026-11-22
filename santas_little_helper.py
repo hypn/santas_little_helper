@@ -268,7 +268,7 @@ def goto_zone_recurse(start_zone, target_zone, path, real_ids):
     for option in known_portals[start_zone]:
         next_zone = known_portals[start_zone][option].get('real_id')
         if next_zone:
-            if next_zone in real_ids:
+            if next_zone in real_ids or "datacentermaze" in next_zone:
                 continue
             else:
                 tmp_path = list(path)
@@ -361,7 +361,7 @@ def generate_data():
         # Only then check other zones for undiscovered areas
         for zone in known_portals:
             for portal in known_portals[zone]:
-                if known_portals[zone][portal].get('real_id') is None:
+                if known_portals[zone][portal].get('real_id') is None and "datacentermaze" not in zone:
                     goto_zone(zone)
                     goto_adjacent_zone(portal)
                     another_round = True
@@ -420,10 +420,12 @@ def teleport():
         # check if we've been sent to "shenanigans" and if so return to starting location
         if current_state['current_area'] == "shenanigans" and target != "shenanigans":
             print(f"{yel}You've been moved to the \"shenanigans\" room! Moving back to {starting_loc}{off}")
-            teleport_user(starting_loc)
+            # teleport_user(starting_loc)
+            exit()
+
 
         if current_state['current_area'] != target:
-            if known_portals.get(target) is None:
+            if known_portals.get(target) is None and "datacentermaze" not in target:
                 # walk to the target location if teleportation failed
                 print(f"\n{yel}Trying to walk from {starting_loc} to {target} instead...{off}")
                 goto_zone(target)
